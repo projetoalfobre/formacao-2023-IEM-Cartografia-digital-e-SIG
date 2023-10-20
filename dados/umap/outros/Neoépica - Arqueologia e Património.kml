@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Neoépica - Arqueologia e Património</name>
+    <description>Intervenções realizadas</description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Locais</name>
+      <Placemark>
+        <name>Ferreira do Alentejo</name>
+        <description><![CDATA[- Povoado Calcolítico do Porto Torrão<br>  1ªFase (http://www.neoepica.pt/index.php/projetos/2008/item/402-porto-torr%C3%A3o-ferreira-do-alentejo-2008)<br>  2ªFase (http://www.neoepica.pt/index.php/projetos/2009/item/463-porto-torr%C3%A3o-2%C2%AA-fase-ferreira-do-alentejo)<br>- Condomínio da Azinheira (http://www.neoepica.pt/index.php/projetos/2010/item/418-condom%C3%ADnio-da-azinheira-outubro-2010)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.116715,38.057857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beja</name>
+        <description><![CDATA[- Necrópole Islâmica de Beja (http://www.neoepica.pt/index.php/projetos/2009/item/398-escola-secund%C3%A1ria-diogo-de-gouveia-novembro-2009)<br>  (Escola Secundária Diogo de Gouveia)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.85845,38.010974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Serpa</name>
+        <description><![CDATA[- Entre Águas 5 (http://www.neoepica.pt/index.php/projetos/2008/item/385-entre-%C3%A1guas-maio-2008)<br>- Figueiras 4<br>- Corça 2<br>- Torre Velha 11 (Barragem da Laje)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.594821,37.939425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lagos</name>
+        <description><![CDATA[- RJ21 (Rua do Jardim, nº21)<br>- Palmares 5, 7 e 8<br>- RJ19 (Rua do Jardim, nº19)<br>- Praça João de Deus<br>- Rua Garrett]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.669171,37.103247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sintra</name>
+        <description><![CDATA[- Variante Abrunheira - Albarraque<br>- Parque da Pena (http://www.neoepica.pt/index.php/projetos/2006/item/375-parque-da-pena-agosto-2006)<br>- Palácio de Monserrate (http://www.neoepica.pt/index.php/projetos/2007/item/379-pal%C3%A1cio-de-monserrate-agosto-2007)<br>- Ermida e Casa Pombalina das Mercês (http://www.neoepica.pt/index.php/projetos/2009/item/399-ermida-de-nossa-senhora-das-merc%C3%AAs-setembro-2009)<br>- Calçada do Rio do Porto<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/789-cal%C3%A7ada-do-rio-do-porto-sintra)<br>- Estudo Arqueológico SMAS<br>(http://www.neoepica.pt/index.php/projetos/ano2014/item/798-estudo-arqueol%C3%B3gico-smas-sintra)<br>- Quinta de Cima, Colares<br>(http://www.neoepica.pt/index.php/projetos/ano2014/item/794-quinta-de-cima-colaressintra)<br>- Convento dos Capuchos<br>(em execução)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.40784,38.789416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cascais</name>
+        <description><![CDATA[- Forte da Crismina (Guincho)<br>- Alto do Cidreira (http://www.neoepica.pt/index.php/projetos/2007/item/469-alto-do-cidreira-cascais)<br>- Cidadela de Cascais<br>  Parque de Estacionamento da Cidadela (http://www.neoepica.pt/index.php/projetos/2006/item/378-parque-cidadela-cascais-2006)<br>- Fosso da Fortaleza de Nossa Senhora da Luz (http://www.neoepica.pt/index.php/projetos/2011/item/420-fosso-da-fortaleza-de-nossa-senhora-da-luz-julho-2011)<br>- Terras do Javardo (Arneiro)<br>- Bairro Mira Golfe<br>- Largo da Assunção<br>- Casa de Sta. Maria (http://www.neoepica.pt/index.php/projetos/2012/item/459-casa-de-sta-maria-cascais)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.423035,38.693817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carcavelos</name>
+        <description>- Quinta Nova de Sto. António (http://www.neoepica.pt/index.php/projetos/2009/item/391-quinta-nova-de-santo-ant%C3%B3nio-fevereiro-2009)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.33594,38.683232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lisboa</name>
+        <description><![CDATA[- Instituto Hidrográfico<br>- Rua Cascais (Alcântara Rio)<br>- Rua das Escolas Gerais (http://www.neoepica.pt/index.php/projetos/2006/item/374-rua-das-escolas-gerais-abril-2006)<br>- Rua dos Bacalhoeiros<br>- Liceu Passos Manuel<br>- Antigo Convento de Santana<br>- Rua António Maria Cardoso (1ª Fase) (http://www.neoepica.pt/index.php/projetos/2010/item/406-rua-ant%C3%B3nio-maria-cardoso-fevereiro-2010)<br>- Rua António Maria Cardoso (2ª Fase)<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/793-rua-ant%C3%B3nio-maria-cardoso-lisboa-2%C2%AA-fase)<br>- Rua António Maria Cardoso (3ª Fase)<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/792-rua-ant%C3%B3nio-maria-cardoso-lisboa-3%C2%AA-fase)<br>- Rua Vítor Cordon (1ª Fase)<br>(http://www.neoepica.pt/index.php/projetos/2010/item/425-rua-vitor-cordon-fevereiro-2010)<br>- Rua Vítor Cordon (2ª Fase)<br>(http://www.neoepica.pt/index.php/projetos/ano2015/item/799-rua-v%C3%ADtor-cordon-lisboa-2%C2%AA-fase) <br>- Travessa da Memória (Ajuda)<br>- Alto de Sta. Catarina<br>- Rua Dom Vasco (Ajuda)<br>- Rua Duques de Bragança (Chiado)<br>- Rua de Buenos Aires (http://www.neoepica.pt/index.php/projetos/2010/item/407-rua-de-buenos-aires-outubro-2010)<br>- Rua do Arsenal<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/813-rua-do-arsenal-60-lisboa)<br>- Antigo Convento das Salésias (Ajuda)<br>- Beco do Loureiro (Alfama) (http://www.neoepica.pt/index.php/projetos/2011/item/422-beco-do-loureiro-lisboa)<br>- Largo dos Trigueiros (Mouraria)<br>- Travessa da Pena<br>- Rua do Ouro, 100<br>(http://www.neoepica.pt/index.php/projetos/ano2014/item/796-rua-do-ouro-100-lisboa)<br>- Pousada na Praça do Comércio<br>(http://www.neoepica.pt/index.php/projetos/ano2014/item/795-pousada-na-pra%C3%A7a-do-com%C3%A9rcio-lisboa)<br>-Travessa da Boa Hora à Ajuda, 25<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/811-travessa-da-boa-hora-%C3%A0-ajuda-25-lisboa)<br>- Rua Vieira Portuense<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/791-rua-vieira-portuense-lisboa)<br>- Beco dos Apóstolos<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/790-beco-dos-ap%C3%B3stolos-lisboa)<br>- Travessa das Dores<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/537-travessa-das-dores-lisboa)<br>- Terraços do Carmo<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/538-terra%C3%A7os-do-carmo-lisboa)<br>- Rua da Adiça<br>(http://www.neoepica.pt/index.php/projetos/ano2014/item/801-rua-da-adi%C3%A7a-lisboa)<br>- Hotel Cais de Santarém (antigos armazéns Sommer)<br>(http://www.neoepica.pt/index.php/projetos/ano2014/item/800-hotel-cais-de-santar%C3%A9m-antigos-armaz%C3%A9ns-sommer-lisboa)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.1450879,38.7267572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Évora</name>
+        <description><![CDATA[- Quinta Nova 2 (http://www.neoepica.pt/index.php/projetos/2008/item/389-quinta-nova-agosto-2008)<br>- Rua do Muro<br>- Monte das Flores (http://www.neoepica.pt/index.php/projetos/2011/item/421-monte-das-flores-julho-2011)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.910685,38.559173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peniche</name>
+        <description><![CDATA[- Rua Azeredo Perdigão e Largo da Ajuda (http://www.neoepica.pt/index.php/projetos/2007/item/377-largo-da-ajuda-fevereiro-2007)<br>- Rua Calouste Gulbenkian]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.395642,39.364696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baixo Sabor</name>
+        <description>- Aproveitamento Hidroeléctrico do Baixo Sabor (http://www.neoepica.pt/index.php/projetos/2012/item/462-aproveitamento-hidroel%C3%A9ctrico-do-baixo-sabor)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -6.854205,41.293801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ourém</name>
+        <description>- Pedreira 6478, Valinho de Fátima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.573971,39.654474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santarém</name>
+        <description><![CDATA[- Pedreira de Vale Carvalhal<br>- Escola Sá da Bandeira<br>- Pedreira nº 5492 – Filipedra nº1 (Pé da Pedreira)<br>- Pedreira nº 6346 – Azul n.º 4<br>- Rua Cidade da Covilhã]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.687096,39.220684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amadora</name>
+        <description>- Moinho de Vento 20-1 (Serra de Carnaxide) (http://www.neoepica.pt/index.php/projetos/2008/item/390-moinho-de-vento-20-1-agosto-2008)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.2399,38.732929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vila Franca de Xira</name>
+        <description><![CDATA[- Rua Alves Redol<br>- Rua Almeida Garrett e Rua Serpa Pinto]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.990864,38.955805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vila do Bispo/Budens</name>
+        <description>- E.N. 125 à Pedralva – Fase I</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.87146,37.074902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burgau</name>
+        <description><![CDATA[- Renovação Urbana de Budens –<br>Pavimentação e Infra-estruturas da Rua Agrícola, em Burgau<br>- Rua da Estrema]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.779793,37.073943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alcácer do Sal</name>
+        <description><![CDATA[- Escola Secundária de Alcácer do Sal<br>- Rua do Castelo]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.514233,38.371136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aljezur</name>
+        <description><![CDATA[- Ribat da Arrifana<br>- Praia do Amado (Carrapateira)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.814468,37.312564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tomar</name>
+        <description>- Escola Secundária Jácome Ratton</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.409176,39.603704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tavira</name>
+        <description>- Pedreira 5592 do Cerro do Leiria (Sta. Catarina da Fonte do Bispo)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.662964,37.129392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto de Mós</name>
+        <description><![CDATA[- Pedreira n.º 5700 “Cabeço Gordo n.º 6” (serro Ventoso)<br>- Pedreira n.º 5821 “Cabeça Gorda n.º 7”]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.830316,39.571822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aljustrel</name>
+        <description>- Vale Frio (Ervidel)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.163013,37.879189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Póvoa de Sta.Iria</name>
+        <description>- Quinta Municipal da Piedade</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.066725,38.86611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pampilhosa, Coimbra</name>
+        <description><![CDATA[- Nova Barragem do Alto Ceira<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/815-constru%C3%A7%C3%A3o-da-nova-barragem-do-alto-ceira-pampilhosa-da-serra)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -7.9500923,40.0638883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leiria</name>
+        <description>- Centro Cívico de Leiria</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.806757,39.746662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Almada</name>
+        <description>- Rua Cândido dos Reis (Cacilhas)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.154214,38.68216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palmela</name>
+        <description>- Parque Industrial da Autoeuropa (quinta do Anjo)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.905648,38.573401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tábua</name>
+        <description>- Reabilitação dos pilares da Ponte de S. João das Areias sobre o rio Mondego, na EN 234-6</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.046909,40.374274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tires</name>
+        <description>- Alto do Moinho Velho (http://www.neoepica.pt/index.php/projetos/2012/item/460-alto-do-moinho-velho-tires)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.351647,38.713409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Óbidos</name>
+        <description><![CDATA[- Rua Direita, 14<br>(http://www.neoepica.pt/index.php/projetos/ano2014/item/797-rua-direita-14-%C3%B3bidos)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -9.1625977,39.3693408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alcanede</name>
+        <description><![CDATA[- Caracterização Espeleo-Arqueológica da Pedreira Relvinha nº2<br>(http://www.neoepica.pt/index.php/projetos/ano2013/item/812-caracteriza%C3%A7%C3%A3o-espeleo-arqueol%C3%B3gica-da-pedreira-relvinha-n%C2%BA2-alcanede)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -8.8216784,39.4171025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

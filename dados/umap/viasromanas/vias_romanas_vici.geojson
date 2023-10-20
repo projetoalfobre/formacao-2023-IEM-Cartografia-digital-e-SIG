@@ -1,0 +1,1559 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A igreja paroquial de Santana do Campo (Arraiolos) reaproveita um imponente Templo Romano (http://santana6.no.sapo.pt/aldeia_santana.htm) ( assinalada pelo marcador); com base em duas inscrições aqui encontradas é provável que aqui existisse um Vicus designado por CALANTICA.",
+        "name": "Calantica, vicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.033407,
+          38.767222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável Vicus no Monte do Chocanol, a partir de uma ara a Júpiter (http://eda-bea.es/pub/record_card_2.php?rec=21259) colocada pelos Vicani Camalo[cani?, censis?] junto do caminho de acesso ao povoado.",
+        "name": "Camaloc..., vicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.643475,
+          39.2732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus na actual povoação de Longroiva, talvez designado por Castellum Longobrica na época romana com base numa inscrição aqui aparecida, o altar dedicado a BANDI LONGOBRCV (http://eda-bea.es/pub/record_card_2.php?rec=18511) por um tal Quintus Iulius da Legião Equestre VII Gémina, hoje na Capela da Ns. do Torrão.",
+        "name": "Castellum Longobrica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.209328,
+          40.963338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado mencionado num documento de 1257 que poderá corresponder ao sitio romano do Outeiro dos Moinhos/Moinhos do Taquenho em Mte. do Outeiro (Cuba). A estrada romana de Évora a Beja deveria passar nas proximidades.",
+        "name": "Cupa, vicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.877582,
+          38.169403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Campi Divourum ou «Campo dos Deuses» seria a antiga designação do vicus de Ns. da Graça do Divor, antigo manancial da cidade de Ebora com base numa referência de João Nunes Freire em1626 sobre um «letreiro» translado para a «esquina da parede, onde está a cadeia» de Évora onde surgia essa designação.",
+        "name": "Divorum, vicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.983084,
+          38.649249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável mutatio junto da travessia do rio Côa, actual Sabugal; inúmeras epígrafes sugerem a existência neste local de um vicus que poderia designar-se por Equotule a partir da inscrição encastrada na Igreja de S. João, uma ara votiva dedicda à divindade Arentia Equotulaicense (http://eda-bea.es/pub/record_card_1.php?rec=22783)  (Osório, 2006:90).",
+        "name": "Equotule?, vicus?, mutatio?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.091167,
+          40.35057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante vicus situado em Meinedo (Lousada) e posteriormente antiga sede de um bispado suévico com o nome de Magnetum. O vicus estendia-se por Casais, Igreja Paroquial e Qta. dos Padrões. Situa-se num nó rodoviário associado à travessia do Rio Sousa (na Ponto do Espindo?). Por aqui passava a Via N-S Guimarães-Caldas de Vizela (Oculis)-Marco de Canaveses (Tongobriga)- Rio Douro, com um diverticulum para Monte Mozinho (Penafiel)-Caldas de S. Vicente - Eja (Entre-os-Rios).  No eixo W-E existiam ligações ao Porto (Cale) e a Felgueiras.",
+        "name": "Magnetum, Vicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.257572,
+          41.249319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado e porto fluvial pré-romano mencionado nas fontes clássicas; O marcador indica o sítio de Chões de Alpompé, possível localização do acampamento romano de Moron ocupando um terraço fluvial na confluência entre o rio Tejo e o rio Alviela, local em consonância com a distância de 500 stadia ( cerca de 92,5 km) referidas por Estrabão a partir da foz do rio Tejo (Estr. III, 3, 1).",
+        "name": "Moron?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.597513,
+          39.328456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano na actual vila de Moura, provavelmente um vicus localizado neste nó viário onde poderia existir uma mansio. O Museu de Moura guarda o miliário que apareceu no sítio do Corte do Alho (Vale de Vargo, Pias), indicando 8 milhas, sensivelmente a distância desse local a Moura.",
+        "name": "Moura, Vicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.445601,
+          38.14141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Caldas de Vizela. Vicus termal junto da travessia do rio Vizela na chamada «Ponte Velha» de tradição romana mas que será já uma reconstrução medieval de uma anterior romana.  As termas romanas foram soterradas. Estação viária com pelo menos uma mutatio ou mesmo uma mansio  da Via Braga-Guimarães-Caldas de Vizela-Meinedo-Croca seguindo depois rumo ao rio Douro por duas vias alternativas, uma por Tongobriga rumo ao porto fluvial romano de Várzea do Douro e outra pela Cividade do Monte Mozinho (Penafiel) ruma a Entre-os-Rios (Eja, Civitas Anégia).",
+        "name": "Oculis, Vicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.309204,
+          41.373785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível vicus romano em Sta. Bárbara de Padrões (Castro Verde).",
+        "name": "Sta. Bárbara de Padrões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.986883,
+          37.636862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O povoado fortificado do Ladário em Gatão poderá corresponder ao  vicus Atucausis mencionado na ara dedicada a Júpiter pelos Vicani Atucausenses (http://eda-bea.es/pub/record_card_2.php?rec=12604) achada na Qta. dos Pascoais ali perto. Uma outra ara entretanto desapacida servia de pia na Igreja dde S. João.",
+        "name": "Vicus Atucausis - Gatão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.066725,
+          41.295688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Imensos vestígios espalhados por um grande área denunciam a existência de um vicus neste local. Provavelmente também uma mutatio da hipotética via entre Celorico da Beira e Póvoa do Mileu junto da travessia do Mondego,",
+        "name": "Vicus da Aldeia Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.316299,
+          40.590025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "name": "Vicus da Arrochela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.643371,
+          39.760892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante vicus em Meimoa em época romana designado por Venia.",
+        "name": "Vicus da Canadinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.183484,
+          40.221605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus da Cumieira, entre Póvoa de Midões e Midões, onde a tradição localiza a antiga «Cidade de Nabril».",
+        "name": "Vicus da Cumieira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.955001,
+          40.393055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus e possível mansio na recentemente inaugurada  Estação Arqueológica de Calvário em Devesa, Pedrogão Grande, associada à via que partindo de Conímbriga seguia para Idanha-a-Velha (Egiditânia) e para Alvega (Aritium Vetus).",
+        "name": "Vicus da Devesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.144807,
+          39.919097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Os vestígios encontram-se a sul da aldeia da Mata (Escalos de Baixo) junto da ribeira de Vale de Vacas. A via romana entre Castelo Branco e Idanha-a-Velha deveria passar próximo.",
+        "name": "Vicus da Fonte da Bica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.372074,
+          39.858237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "vicus e base de miliário na Fonte do Sapo (Mouriscas).",
+        "name": "Vicus da Fonte do Sapo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.107178,
+          39.493519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de um vicus marmorarius num local designado por Vilares da Galharda associado à exploração das pedreiras de mármore em Bancatel.",
+        "name": "Vicus da Galharda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.454538,
+          38.735835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante vicus portuário romano servindo como entreporto comercial; Ainda é visível a fábrica de salga de peixe e as habitações de apoio.",
+        "name": "Vicus da Ilha do Pessegueiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.797202,
+          37.832559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vasta área de vestígios romanos na base do castro romanizado do Monte da Circa indiciam a existência de um vicus neste local. A via romana passava um pouco mais a norte.",
+        "name": "Vicus da Lagoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.039244,
+          41.830984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus e mutatio no Lugar das Paredinhas e do Paraíso, em S. Salvador do Monte. Indicador aproximado.",
+        "name": "Vicus da Lomba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.074056,
+          41.248582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante vicus no sítio da Murqueira em Fundo de Vila (Esmolfe, Penalva do Castelo ). Aqui deveria passar uma via N-S em direcção a Magualde e daqui à Civitas da Bobadela",
+        "name": "Vicus da Murqueira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.681839,
+          40.675081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de vários edifícios independentes configurando um aglomerado urbano secundário tipo aldeia localizado no  cruzamento da via proveniente da travessia do rio Tejo na Barca de Rio Moinhos rumo a norte com uma via E-O paralela ao Tejo.",
+        "name": "Vicus da Pedreira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.248987,
+          39.484642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A necrópole de inumação da Qta. de Guimarães, sugere a existência de um vicus viário neste local, relacionado com a travessia do rio Douro em Porto de Rei.",
+        "name": "Vicus da Qta. de Guimarães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.939669,
+          41.130742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "vicus e provável mansio junto da travessia do rio Douro para Porto Antigo.",
+        "name": "Vicus da Qta. de Mosteirô"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.062231,
+          41.094651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus tardo-romano relacionado com o povoado pré-romano de S. Romão (Seia).",
+        "name": "Vicus da Qta. de Nogueira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.699268,
+          40.416299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de um vicus romano proximo de Castelo Novo; possível localização de Talabara; a via romana entre Castelo Branco e Fundao passaria nas imediações. Dois edifícios termais bem preservados um de carácter privado e outro público; o marcador indica as termas públicas.",
+        "name": "Vicus da Qta. do Ervedal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.469465,
+          40.061594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus junto da Capela de S. Brás na Quinta do Campo. Uma inscrição encontrada na Coriscada (na Villa romana de Vale de Mouro) referindo os Vicani S[?]/goaboaic(enses) poderá referir-se a este Vicus que poderia assim designar-se Segoabonca ou Sangoabonia na época romana. Por aqui deveria passar uma via proveniente de  Marialva (Mêda) rumo à Serra da Estrela.",
+        "name": "Vicus da Quinta do Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.231864,
+          40.837721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante Villa romana localizada na várzea de Alvaiázere e próximo da Via Braga-Lisboa.",
+        "name": "Vicus da Rominha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.379861,
+          39.805164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus situado na zona a sul da Ermida de Nossa Senhora dos Mártires, local com muitos vestígios romanos como moedas, uma incrição e uma sepultura; a via XII proveniente de Évora passava por aqui rumo a Mérida.",
+        "name": "Vicus da Sra. dos Mártires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.582206,
+          38.83013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível vicus na Quinta da Tapada em Fataúnços.",
+        "name": "Vicus da Tapada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.085769,
+          40.721473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus na Tapada de Santa Maria em Santo Estevão (Sabugal), local onde apareceu um miliário dedicado a Tácito e indicando a milha VII.",
+        "name": "Vicus da Tapada de Santa Maria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.161696,
+          40.299412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de um possivel vicus a sul de Vermoil no sítio da Telhada situado na base do povoado pré-romano da Calvaria e próximo da ribeira da Lavandeira.",
+        "name": "Vicus da Telhada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.667306,
+          39.825316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus no sitio da Torre dos Namorados (Quintas da Torre) e provável mutatio atendendo ao miliário dedicado a Maximiano que  indica 22 milhas contadas a partir de Igaeditania. Por aqui passava o Itinerário Braga-Mérida, possivelmente no cruzamento com a Via Aritio Vetus (Alvega) a Salmantica (Salamanca).",
+        "name": "Vicus da Torre dos Namorados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.306625,
+          40.146207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus portuário relacionado com o oppido de Talabriga,  hoje bem longe do mar mas que no período romano estaria junto da linha costa, bem mais recuada nessa época.",
+        "name": "Vicus da Torre/Marinha Baixa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.598303,
+          40.69102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de um provavel vicus localizado na margem direita do Rio Douro, junto do porto fluvial e ponto de travessia do rio da via romana que ligava Tongobriga a Vissaium (Viseu), passagem que era dominado pelo povoado fortificado do Alto da Penegotas.",
+        "name": "Vicus da Várzea do Douro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.266436,
+          41.069645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoado romano localizada a sul da aldeia de Vilar de Perdizes e próximo da Via XVII. O marcador indica o centro do povoado e 200 m para sudeste surge o chamado «Altar da Penascrita» ou «Pedra Escrita»,  importante santuário rupestre (http://arqueologia.igespar.pt/index.php?sid=sitios.resultados&subsid=2990293) dedicado à divindade Larouco pois apresenta uma inscrição  deixada por soldados da Legião VII Gémina a essa divindade  que está associada à Serra do Larouco;  também na entrada do povoado, no sítio do Portelo, aquando da abertura da EM508, apareceu uma ara também dedicada a Larouco (http://arqueologia.igespar.pt/index.php?sid=sitios.resultados&subsid=2990293) e uma outra dedicada a Júpiter (http://arqueologia.igespar.pt/index.php?sid=sitios.resultados&subsid=2990319).",
+        "name": "Vicus da Veiga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.645099,
+          41.84458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado mineiro próximo da aldeia de Covas e junto da Corta da Ribeirinha.",
+        "name": "Vicus da Veiga da Samardã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.529268,
+          41.497383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus termal nas Caldas das Taipas. No século XIX apareceram vestígios de um complexo termal romano durante a construção do actual balneário, logo soterradas; ara votiva às Ninfas (http://eda-bea.es/pub/record_card_3.php?rec=6417); o marcador indica o imponente penedo junto da igreja com inscrição honorífica a Trajano e por isso conhecido por «Ara de Trajano (http://www.portugalromano.com/site/ara-de-trajano/)».",
+        "name": "Vicus das Caldas das Taipas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.344004,
+          41.487052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Imensos vestígios num sítio de Panelas/Calvário distribuídos por uma  grande área denunciam a existência de um vicus neste local, no cruzamento da via Marialva-Póvoa do Mileu com a via Celorico da Beira- Póvoa do Mileu (próximo da travessia do Mondego) pelo que aqui deveria existir uma estação viária tipo mutatio ou mansio.",
+        "name": "Vicus de Açores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.308046,
+          40.642125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus no lugar de Alcaria, freguesia de Vila Garcia.",
+        "name": "Vicus de Alcaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.177232,
+          40.524375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoação romana no lugar de Almoinhas em Loures, muito provavelmente um vicus viário pois situa-se junto da via romana para Lisboa; durante escavações de emergência aquando das obras de construção do novo Palácio da Justiça e do Lidl, apareceram dois miliários que hoje estão no Museu Municipal da Qta. do Conventinho, a cerca de 1 km para sul. Loures seria assim um nó rodoviário onde se encontravam duas importantes vias, a variante da via romana XVI entre Braga e Lisboa que de Vialonga rumava a Lisboa por Loures e a estrada Conímbriga - Lisboa que vinha por Leiria  (Collipo) e Óbidos (Eburobrittium). Os miliários indiciam a existência de uma mutatio.",
+        "name": "Vicus de Almoínhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.163987,
+          38.826725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus na actual vila de Ansião.",
+        "name": "Vicus de Ansião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.435848,
+          39.911269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano a oeste de Barcouço.",
+        "name": "Vicus de Barcouço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.479741,
+          40.304135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus com mutatio, na base do Castro de Gróvios/Castro de Caires (Amares), a conhecida «Cividade de Biscaia»,  no ponto onde a Geira vencia a milha 10.",
+        "name": "Vicus de Biscaia, m.p.X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.352143,
+          41.644449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Complexo industrial localizado na Praia de Burgau associado talvez a um vicus portuário.",
+        "name": "Vicus de Burgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.773982,
+          37.072063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus na actual povoação de Caldelas.  Em 1803, durante a construção das termas actuais, apareceram duas aras votivas às Nymphas (http://eda-bea.es/pub/list.php?refpage=%2Fpub%2Fsearch_select.php&quicksearch=caldelas+amares+portugal), relacionadas como o culto das águas. As aras estão no jardim do Hotel da Bela Vista.  Necrópole no Grande Hotel.",
+        "name": "Vicus de Caldelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.368842,
+          41.668335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de um possivel vicus; também conhecida por «Villa de Abuil». Por aqui passaria uma via secundária proveniente de Santiago da Gaurda rumo a Leiria (?).",
+        "name": "Vicus de Campodónio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.52309,
+          39.878842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus no Lugar da Igreja; a via romana XVIII passava por aqui indiciando a existência de uma mutatio correpondente à milha 7. Ara anepígrafa e fragmentos de colunas na casa paroquial.",
+        "name": "Vicus de Carrazedo - m.p.VII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.385339,
+          41.629746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano junto da aldeia de Cristelo; a Via romana Braga-Lisboa passava a 3 km para leste, por Branca (EN1).",
+        "name": "Vicus de Cristelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.520571,
+          40.754599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano localizado no Largo da Feira de São Martinho em Ega; a via Conímbriga-Leiria deveria passar por aqui.",
+        "name": "Vicus de Ega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.538332,
+          40.095588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Restos de construções, necrópole e troços muito bem conservados de duas vias romanas que se cruzavam neste local indiciam a existência de uma estação viária romana tipo mansio ou mutatioo. O sítio era já conhecido mas só em 2012 foi escavado pela iminente destruição do sitio devido à construção da A13.",
+        "name": "Vicus de Eira Velha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.386081,
+          40.087976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível vicus na actual aldeia de Faião (Sintra).",
+        "name": "Vicus de Faião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.356391,
+          38.87457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus na freguesia de Marmeleiro; escórias indiciam exploração mineira nas proximidades.",
+        "name": "Vicus de Ferrarias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.095098,
+          40.470842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Habitat romano, possível vicus.",
+        "name": "Vicus de Fetais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.218321,
+          41.740897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de um vicus no Fraguil, Alpalhão (nunca escavado). Provável estação viária na zona de cruzamento da Via XV Lisboa-Mérida com as vias provenientes de Évora rumo a Ammaia e Igaedis.",
+        "name": "Vicus de Fraguil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.620535,
+          39.398268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus junto da estrada romana entre Lamego e Marialva.",
+        "name": "Vicus de Granja de Oleiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.565371,
+          40.955563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano situado na margem equerda do rio Águeda, a sul de Fuenteguinaldo.",
+        "name": "Vicus de Irueña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.672106,
+          40.385745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vasta área de ocorrência de vestígios, possivelmente um vicus.",
+        "name": "Vicus de Manhosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8231,
+          39.584354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A necrópole de Marmelar indicia a existência um aglomerado secundário tipo vicus na actual  aldeia de Marmelar (Vidigueira), situada no cruzamento da via Foxem (Ns. d' Aires) - Moura com a Via Ebora - Serpa.",
+        "name": "Vicus de Marmelar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.653362,
+          38.171531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Extenso povoado romano na planície atravessada pela ribeira da Pena classificado como vicus, mas que poderia ser mesmo um oppidum atendendo aos imensos vestígios aqui encontrados, levando alguns autores a situar aqui a capital dos Lancia Oppidani da Ponte de Alcântara;  Admite-se uma via N-S passando por aqui que ligava a Civitas Cobelcorum a Igaedis e uma ligação E-O para a Póvoa do Mileu na Guarda.",
+        "name": "Vicus de Moradios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91297,
+          40.506115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "vicus romano associado a Caliabria no Olival de Telhões (ou Aldeia Nova).",
+        "name": "Vicus de Olival de Telhões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.005452,
+          41.019701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Deveria existir um aglomerado secundário tipo vicus  em torno da Igreja de Ns. da Assunção de Bonalbergue, 1,5 km a sul da actual aldeia de Oriola (Portel), situada no cruzamento da via Foxem (Ns. d' Aires) - Moura com a Via Ebora - Serpa.",
+        "name": "Vicus de Oriola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.858248,
+          38.311316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano junto da aldeia de Ousilhão nos terrenos a norte da Sra. da Alegria e na base do povoado de Torre de Ousilhão; aqui apareceu uma inscrição dedicada a LAESV e duas colunas graníticas.",
+        "name": "Vicus de Ousilhão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.960725,
+          41.793207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios romanos no lugar do Cruzeiro que deverá corresponder a um vicus.",
+        "name": "Vicus de Paredes da Beira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.470976,
+          41.059341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus a norte da aldeia de Cortiço e da via romana para Chaves.",
+        "name": "Vicus de Pedregal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.702766,
+          41.777123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano em S. Martinho de Pedrulhais, entre Ventosa  do Bairro e Sepins, ocupando o planalto de Chãs da Ventosa; deverá corresponder a SELIOBRIGA; a via XVI passava a nascente por Ventosa do Bairro.",
+        "name": "Vicus de Pedrulhais/Seliobriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.502211,
+          40.397497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus romano situado na Qta. de S. Domingos, na base do povoado de Cabeço das Fráguas. Nas redondezas apareceram 20 inscrições, 3 delas dedicadas à divindade indígena Laeptus indiciando a existência de um santuário neste local.",
+        "name": "Vicus de S. Domingos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.22443,
+          40.419756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provávelvicus junto da travessia do rio Mondego na Ponte da Lavandeira. Poderia existir aqui uma estação viária tipo mutatio ou mansio.",
+        "name": "Vicus de S. Gens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.393668,
+          40.655616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No centro urbano de Campo Maior surgem vestígios de um provável  vicus em S. Pedro (http://arqueologia.igespar.pt/POC/?sid=sitios.resultados&subsid=2606642)  junto ao Hospital da Misericórdia.",
+        "name": "Vicus de S. Pedro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.057746,
+          39.01963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante vicus de S. Romão em Alvito, possível sede da civitas Mirietanorum.",
+        "name": "Vicus de S. Romão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.990272,
+          38.260089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "vicus junto do Castro de Sampaio.",
+        "name": "Vicus de Sampaio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.106147,
+          41.065812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado junto da calçada de Alpajares, a via secundaria que liga Freixo de Espada à Cinta ao rio Douro.",
+        "name": "Vicus de Santa Luzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.784478,
+          41.11241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível vicus junto da Capela de S. Bartolomeu, na área do campo de futebol de Meruge, hoje designado por Parque Arqueológico de S. Bartolomeu.",
+        "name": "Vicus de São Bartolomeu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.817545,
+          40.399609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado mineiro associado às minas de exploração de cobre de S. Domingos.",
+        "name": "Vicus de São Domingos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.492722,
+          37.669917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante vicus portuário romano servindo a cidade de Mirobriga; aqui foram recuperadas duas âncoras romanas além das cetárias e forno para produção de ânforas no Lg. João de Deus junto ao Castelo. Espólio no Museu de Sines.",
+        "name": "Vicus de Sines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.866049,
+          37.954812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus e provável mansio na área da Qta. da Madalena em Soure.",
+        "name": "Vicus de Soure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.626243,
+          40.058718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano separado do Castro de Soutelo por uma corta mineira. A via romana Braga -  Chaves passava a sul deste provoado mineiro.",
+        "name": "Vicus de Soutelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.685242,
+          41.85527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de um vicus portuário romano relacionado com a indústria de preparação de peixe; servia de entreposto comercial para exportação da pasta de peixe garum.",
+        "name": "Vicus de Troia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.884736,
+          38.486299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante estação arqueológica sobranceira ao Rio Tejo, provavelmente um povoado mineiro de grandes dimensões especializado na exploração do ouro aluvionar.",
+        "name": "Vicus de Vale do Junco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.02791,
+          39.480244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus Baniense sobranceiro ao Vale da  Vilariça na Qta. da Vila Maior, junto da ribeira dos Cavalos.  Aqui apareceu uma ara dedicada a Júpiter pelos Vicani ILEX[---] (http://eda-bea.es/pub/record_card_2.php?rec=7581)",
+        "name": "Vicus de Vila Maior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.112733,
+          41.19376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Há vestígios romanos por toda a aldeia de um provável vicus. Estaria integrado na Via Marialva-Celorico.",
+        "name": "Vicus de Vilares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.290877,
+          40.719377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Habitat romano no Bairro do Eiró, possível vicus de onde será proveniente uma ara a Júpiter. A via romana margina o povoado pelo que aqui deveria existir uma mutatio.",
+        "name": "Vicus de Vinhais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.999494,
+          41.8324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus viário nas proximidades da Via XVII que passava a nascente por S. Vicente e Chã.",
+        "name": "Vicus do Alto da Carvalha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.790711,
+          41.782118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano na freguesia de Ameal que se estenderia desde o terreno designado por Cerrado das Almas até à zona do adro da Igreja.",
+        "name": "Vicus do Ameal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.540641,
+          40.191809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano tipo vicus.",
+        "name": "Vicus do Barreiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.953687,
+          41.138598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível vicus viário a 12 milhas de Chaves junto da via romana proveniente de Braga rumo a Chaves por Vilar de Perdizes.",
+        "name": "Vicus do Carvalhal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.598502,
+          41.833055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Telhado, Fundão",
+        "name": "Vicus do Casal de Santa Maria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.577858,
+          40.148069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Extensa estação romana com cerca de 8 ha que deverá corresponder a um vicus; nó rodoviário que articulava pelos menos 3 eixos principais: a via para Tabuaço por Granjinha-Távora, a via em direcção a Covelinhas por Arcos-Longa e outra em direcção a Moimenta da Beira por Baldos.",
+        "name": "Vicus do Fontelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.535066,
+          41.044972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus no Monte da Nora. Aqui poderia existir uma mutatio da via proveneiente de Vial Viçosa rumo a Elvas.",
+        "name": "Vicus do Monte da Nora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.328616,
+          38.851443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestigios de um provável vicus; Nas proximidades deveria passar a via romana que ia atravessar o Rio Sever junto da villa romana na Herdade dos Pombais.",
+        "name": "Vicus do Monte Velho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.365961,
+          39.469886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível vicus alti-medieval no sítio do Passal em S. Sebastião de Currelos.",
+        "name": "Vicus do Passal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.996969,
+          40.416525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Aglomerado urbano secundário tipo aldeia localizada na Quinta do Ribeiro da Nata a norte de Belver, onde apareceu um bastão, mós e quatro inscrições: inscrição funerária de Boudelo encastrada na parede sul do tanque da fonte de São Joaquim; inscrição funerária de Turano achada numa escada do pátio da quinta; inscrição de Adóris hoje no Museu Municipal de Gavião; outro fragmento de inscrição está hoje no Castelo de Belver. Por aqui passaria uma via N-S rumo ao rio Tejo.",
+        "name": "Vicus do Ribeiro da Nata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.964518,
+          39.503313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Deveria existir um aglomerado secundário tipo vicus e respectiva mansio na actual vila do Torrão, relacionado com o cruzamento de várias vias neste ponto de  travessia do rio Xarrama; o nome romano é desconhecido, mas uma inscrição tardo-romano que apareceu na igreja de São João Baptista dos Azinhais, onde se pode ler  B(asi)L(ica) ARANA, o que levanta a hipótese de o povoado se chamar Aranis, sendo a palavra Torrão derivada do seu nome completo Turris Aranis. O marcador indica o local dos bem preservados Balneários Romanos da Fonte Santa.",
+        "name": "Vicus do Torrão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.224422,
+          38.2915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Aqui apareceu a ara consagrada aos Lares Placidus (http://eda-bea.es/pub/record_card_2.php?rec=25443)",
+        "name": "Vicus do Vale da Aldeia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.259852,
+          40.987827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano associado à exploração mineira do Poço das Freitas. Nas proximidades passava a via romana proveniente de Braga rumo a Chaves.",
+        "name": "Vicus mineiro do Carregal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.59934,
+          41.73723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "vicus e provável mansio junto da travessia do rio Douro em Caldas de Moledo (Régua).",
+        "name": "Vicus Portum Aliovirium?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.834253,
+          41.154657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Habitat romano  no sítio de Muradelhas, possivemente o vicus Vagornicacom base numa ara dedicada a Júpiter pelos Vicani Vagornicenses (http://eda-bea.es/pub/record_card_2.php?rec=6708) achada no sítio da Cortinha do Fundo; silhares almofadados e possível miliário achado dentro do povoado.",
+        "name": "Vicus Vagornica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.273716,
+          41.733492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível vicus junto de Pombal, Carrazeda de Ansiães",
+        "name": "Vicus? da Costa/Mós"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.36467,
+          41.280173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano conhecido por Cidade da Roda junto a Redinha; uma variante da via Conímbriga- Leiria poderia passar por aqui.",
+        "name": "Vicus? da Redinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.577355,
+          40.011116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável vicus a sul da aldeia de Bujões, junto da estrada Chaves-Covelinhas.",
+        "name": "Vicus? de Bujões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.693623,
+          41.207054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível vicus baniense em Junqueira, sobranceiro à ribeira da Vilariça",
+        "name": "Vicus? de Chão de Capela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.085898,
+          41.273848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de estruturas nas traseiras da Igreja Paroquial de Lordelo do Ouro (Porto). Por aqui passaria uma via romana que partindo do Largo do Sr. da Boa Morte, junto do cais do Douro, seguia pela Rua do Aleixo e Rua das Condominhas  rumo ao Padrão da Légua. Esta via deverá corresponder à «Via Veteris» referida em documentação medieval.",
+        "name": "Vicus? de Lordelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.649091,
+          41.152864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vasta área de ocorrência de vestígios, possivelmente um vicus.",
+        "name": "Vicus? de Pragais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.776039,
+          39.553172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios romanos no lugar de Ramalheiras em Alfeizerão eventualmente associados a um vicus portuário. O sítio estende-se pela zona urbanizada e a A8.",
+        "name": "Vicus? de Ramalheiras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.094823,
+          39.501488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano, provavel vicus em São Pedro da Torre em Figueiró da Granja.",
+        "name": "Vicus? de São Pedro da Torre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.484204,
+          40.631189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano na Quinta do Outeiro em Taveiro.",
+        "name": "Vicus? de Taveiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.508577,
+          40.20319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado com vasta cronologia que poderia ser a sede da civitas dos Banienses; 11 lápides reutilizadas na parede norte da Capela da Ns. do Roncal, junto da Qta. da Portela.",
+        "name": "Vila Morta de Santa Cruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.089838,
+          41.209312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante vicus relacionado com as explorações de estanho em Rasas e Mata; ara votiva a Júpiter colocada por Rufus Grovius, inscrição a Victoria, fustes de colunas e capitéis; villa tardo-romano no sítio do Passal;",
+        "name": "Vila Mou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.69567,
+          41.731339
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1531 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "villa romana localizada num cabeço próximo de Meimoa (Penamacor).",
+        "name": "Cabeço do Lameirão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.178056,
+          40.240881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Conjunto habitacional e de exploração agrícola, com dois edifícios situados na encosta do vale do Tâmega, próximo de uma das possíveis travessias do rio, abaixo da Capela dos Passinhos.",
+        "name": "Casal da Bouça do Ouro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.236352,
+          41.125507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Casal romano situado à margem da Via romana para Arouca.",
+        "name": "Casal da Malafaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.301678,
+          40.928847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de tegula e cerâmica junto da VIA XVI Braga-Lisboa, entre Cabeçudos e Santa Catarina.",
+        "name": "Quinta de Boamense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.508136,
+          41.371023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de uma villa romana situada próximo de Torres Novas, sendo visíveis as termas com frigidarium, caldarium, hypocaustum e uma natatio. Relacionada com a passagem da via romana de Bracara a Olisipo.",
+        "name": "Villa Cardillio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.528009,
+          39.45281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana em Portimão.",
+        "name": "Villa da Baralha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.542487,
+          37.17169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana localizada na foz da Ribeira de Budens que está progressivamente a ser destruída pelo mar.",
+        "name": "Villa da Boca do Rio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.810158,
+          37.066024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana localizada na chamada Casa do Infante no centro histórico do Porto. Mosaicos. Museu da Cidade.",
+        "name": "Villa da Casa do Infante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.614337,
+          41.140777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana fortificada conhecida como \"Castellum da Fonte do Milho\". A sua proximidade da via romana que vinda se Chaves se dirigia à travessia do Rio Douro em Covelinhas, na Sra. da Boa Passagem, permite colocar a hipótese da existência de uma mutatio relacionada com a villa. A via seguia na outra margem na direcção do Castro Goujoim por  Folgosa, Vila Seca, Coura e Ariceira.",
+        "name": "Villa da Fonte do Milho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.701785,
+          41.167896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de uma Villa romana agrícola  entre o Outeiro da Polima e Polima em S. Domingos de Rana (Cascais). O local foi escavado mas hoje está praticamente ao abandono; merecia outra atenção...",
+        "name": "Villa da Freiria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.323131,
+          38.721017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana 500 m a sul da estração CF do Crato. Por aqui passava uma via secundaria N-S em direcção a Alter do Chão.",
+        "name": "Villa da Granja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.636902,
+          39.264345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Capela românica situada em Granjinha (Vale da Anta, Chaves) construída sobre uma vila romana. Muito próximo deveria passar a Via XVII entre Braga e Chaves (talvez por Curalha, Cando e Casas dos Montes até chegar a Chaves).",
+        "name": "Villa da Granjinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.49111,
+          41.729053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana em fase de escavação.",
+        "name": "Villa da Horta Torre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.563689,
+          39.120427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "200 m para leste passa a via romana que vinha de Viseu por Almeidinha, provalvelmente um troço da Via Braga-Mérida.",
+        "name": "Villa da Moita da Oliveira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.722517,
+          40.592912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de uma estrutura romana associada a uma villa, mas que poderá ser antes uma mutatio da via romana entre Évora e Mérida.",
+        "name": "Villa da Morgada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.759022,
+          38.631124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Diverso material romano de construção em torno da Capela da Ns. das Luzes em Orjais (base de coluna junto da frontaria). Possível villa ou mesmo vicus no vale sobranceiro ao Castro de Orjais.",
+        "name": "Villa da Ns. das Luzes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.409094,
+          40.332981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa ou vicus romano junto da Aldeia de Santa Susana (Alcácer do Sal) relacionada com a passagem da Via Salacia-Ebora.",
+        "name": "Villa da Portagem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.395907,
+          38.447061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana na Praia da Luz (Lagos).",
+        "name": "Villa da Praia da Luz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.728873,
+          37.086054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífica Villa romana situada junto da antiga via romana que ligava Bracara Augusta a Emerita passando por Belmonte.",
+        "name": "Villa da Qta. da Fórnea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.355161,
+          40.331486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa Romana onde há referência a um possível miliário fragmentado; por aqui passaria a via romana entre Castelo Branco e Idanha-a-Velha.",
+        "name": "Villa da Qta. da Sra. de Mércoles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.456166,
+          39.817936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Muitos vestígios como silhares e bases de fustes de colunas na área hoje ocupada pela Casa do Outeiro (Casa Sousa Guedes) em Marco de Canaveses. Junto da casa passaria uma via romana que ligava a travessia do Tâmega na ponte romana ao vicus da Várzea do Douro, seguindo a margem esquerda do rio.",
+        "name": "Villa da Qta. do Outeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.167961,
+          41.166867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana na junto das Vias Chaves - Rio Douro.",
+        "name": "Villa da Qta. do Pinheiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.475239,
+          41.718386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana próximo de Meixolhoeira Grande com mosaicos polícromos de padrão geométrico.",
+        "name": "Villa da Quinta da Abicada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.596939,
+          37.151286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana junto ao Lidl da Falagueira (Amadora).",
+        "name": "Villa da Quinta da Bolacha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.227437,
+          38.763228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana junto da via Mangualde-Mourilhe-Ponte de Palhez.",
+        "name": "Villa da Quinta da Calçada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.751704,
+          40.592851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana perto da Bobadela no alinhamento da via Coimbra-Bobadela.",
+        "name": "Villa da Quinta da Torre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.024167,
+          40.370833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestigios de uma magnífica Villa romana situada no concelho de Elvas. Inserida no terrotorio Emeritense, esta villa sitia-se nas proximidades dos 3 Itinerários que ligavam Olisipo a Emerita e que confluíam nestas paragens.",
+        "name": "Villa da Quinta das Longas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.185495,
+          38.94135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana na Quinta do Carvalhal sobranceira à ribeira de Alcolobre que divide os concelhos de Constância e Abrantes. Ainda são visíveis os vestígios da estrutura termal.",
+        "name": "Villa da Quinta do Carvalhal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.281892,
+          39.4427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana situada na Quinta do Marim (Quelfes). A via romana entre Baesuris (Castro Marim) e Ossonoba (Faro) passaria aqui próximo, a norte da EN125.",
+        "name": "Villa da Quinta do Marim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.81402,
+          37.040786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana de consideráveis dimensões dependente da civitas de Aritium Vetus cuja pars rustica foi identificada em 2002 e a pars urbana em 2007, entretanto escavada. A Via XV passaria nas redondezas.",
+        "name": "Villa da Quinta Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.054827,
+          39.46404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de superfície de habitat romano situada no Monte da Represa a norte do Cano (Sousel). Vestígios de superfície ocupando uma vasta área na margem da  Ribeira do Alcórrego; o nome Monte da Represa provém da barragem romana que ali existia e da qual resta uma pequeno muro. (cerâmicas de construção, dolium, silhares em granito espalhados em redor).",
+        "name": "Villa da Represa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.78447,
+          38.991599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestigios dispersos por uma grande área de uma provável Villa romana servida por uma represa construída em pedra, cal, tijolo e opus signinum. Por este sítio deveria passar uma via romana proveniente da travessia do Tejo na Barca da Amieira e que se dirigia a Valencia de Alcántara rumo a Norba Caesarina, a actual cidade de Cáceres, passando pelos sitios romanos da Torre do Azinhal, Monte Velho e Pombais.",
+        "name": "Villa da Tapada Grande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.452765,
+          39.498376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de uma provável villa (cerâmicas de construção e comuns, terra sigillata, ânforas e dolium) entre o Monte<br>do Álamo e a torre.",
+        "name": "Villa da Torre de Camões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.754225,
+          38.931213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de uma villa romana na Herdade da Torre de Palma perto de Monforte.",
+        "name": "Villa da Torre de Palma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.488473,
+          39.062264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana na Herdade das Argamassas junto da Via Lisboa-Mérida entre Degolados e Campo Maior.",
+        "name": "Villa das Argamassas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.092098,
+          39.043953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Junto da EN13 e da linha ferrea, entre as casas de São Roque e do Campo.",
+        "name": "Villa das Baganheiras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.861312,
+          41.76633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana a nascente de Serpa, conhecida como «Cidade das Rosas» (espólio no Museu Municipal).",
+        "name": "Villa das Rosas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.541836,
+          37.94635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana a oeste de Ponte de Sor próximo da Via XIV Lisboa-Mérida; seria a mansio Aritio Praetorio?",
+        "name": "Villa de Água Branca de Cima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.10366,
+          39.285461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Necrópole e outros vestigios de uma provável vila romana; estela funerária, hoje no Museu de Moncarapacho.",
+        "name": "Villa de Alfanxia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.775522,
+          37.066033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana com balneário; calçada romana no acesso ao complexo.",
+        "name": "Villa de Almeirim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.146703,
+          37.738273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana situada em Santo André de Almoçageme (Sintra).",
+        "name": "Villa de Almoçageme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.468014,
+          38.800169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana situada a sul de Rio Seco por onde passava a via entre Faro e Balsa.",
+        "name": "Villa de Amendoal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.910599,
+          37.025351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana localizada à saída do Cadaval, junto da estrada que vai para o Peral; ainda por escavar, o pouco espólio recolhido está em exposição na Museu Municipal; a via romana proveniente de Óbidos passava nas proximidades rumo a Lisboa.",
+        "name": "Villa de Borjigas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.101515,
+          39.249353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa Romana localizada junto da aldeia de Catrão; por aqui passaria uma via na direcção SO-NE proveniente de Castelo Branco rumo à Ponte de Capinha onde cruza a Via Braga-Mérida, continuando junto do miliário de Coito de Cima (Salgueiro) para Sabugal pelo Vale da Sra. da Póvoa.",
+        "name": "Villa de Catrão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.385988,
+          40.107879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana no lugar de Cortes (Silves).",
+        "name": "Villa de Cortes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.323373,
+          37.240354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possivel villa romana na aldeia de Covas.",
+        "name": "Villa de Ervedais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.930278,
+          40.352778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana em Alter do Chão, antiga Abelterium, mansio da Via XIV entre Lisboa e Mérida, localizada no topo SE do campo de futebol de Ferragial d' El Rei",
+        "name": "Villa de Ferragial d' El Rei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.662191,
+          39.198041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização da Villa romana de Frielas junto da ribeira da Póvoa na confluência de duas vias romanas que se dirigiam a Lisboa, uma proveniente de Conímbriga, passando por Collipo e Eburobrittium (Leiria e Óbidos) e outra uma derivação em Vialonga da grande via romana que ligava Braga a Lisboa. Na Qta. de St. António apareceu um miliário que segundo Vasco Mantas estaria junto da Ponte de Frilelas, 2 km a sul.",
+        "name": "Villa de Frielas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.143765,
+          38.826998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana no lugar de Leião (entre Barcarena e Porto Salvo).",
+        "name": "Villa de Leião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.298438,
+          38.730565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante sítio romano Praia de Loulé Velho (Vale do Lobo/Quarteira), hoje practicamente destruído e submerso pelo mar; na origem seria uma villa ligada à exploração dos recursos marinhos (cetárias) e agricolas (pesos de tear) evoluindo para um vicus maritimo; espólio no Museu Municipal de Loulé.",
+        "name": "Villa de Loulé Velho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.077996,
+          37.055744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana na Quinta do Ludo; a via Ossonoba-Salacia passaria nas proximidades.",
+        "name": "Villa de Ludo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.999852,
+          37.060189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Imponente villa romana, uma das mais interessantes em Portugal, situada junto da actual aldeia de Estoi (Faro), no cruzamento da Via Faro-Beja com a via que corria paralela ao mar pelo Barrocal. Conjunto notável de mosaicos que revestem o mural do pódio.",
+        "name": "Villa de Milreu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.904149,
+          37.095091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana situada no Alto do Barril, próximo de Malveira da Serra  (Alcabideche, Cascais).",
+        "name": "Villa de Miroiços"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.454007,
+          38.747537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana localizada a 1 km para Sodoeste de Oriola (Portel). A via romana Évora-Portel-Moura deveria passar a Nordeste pelo sítio do Marco.",
+        "name": "Villa de Mosteiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.885231,
+          38.309286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante Villa Romana junto da Ribeira de Mosteiros em Castelo de Vide. Por aqui deveria passar uma via no sentido N-S que ligava as civitates de Egitânia (Idanha-a-Velha) e Ammaia (Aramenha).",
+        "name": "Villa de Mosteiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.550911,
+          39.518355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana junto da via romana que ligava Évora ao Torrão passando por Alcáçovas.",
+        "name": "Villa de Ns. de Tourega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.028246,
+          38.501934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana situada em S. Miguel de Odrinhas, junto do Museu Arqueológico de Odrinhas (http://www.museudeodrinhas.com/) que reúne o imenso espólio epigráfico do Concelho de Sintra provenenientes de Odrinhas, Faião, Cabrela e das villae do litoral constituindo uma das maiores coleções de epigrafia romana no mundo; Por aqui deveria passar a Via romana entre Conímbriga e Lisboa pelo litoral; Daqui a via seguia para Faião pelo estradão de terra que parte da capela rumo a sudeste.",
+        "name": "Villa de Odrinhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.366009,
+          38.887009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Mosaico pertencente a uma villa romana no centro de Oeiras.",
+        "name": "Villa de Oeiras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.31268,
+          38.693112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa nas proximidades da via romana proveniente do vicus da Murqueira (Penalva do Castelo) rumo a Bobadela.",
+        "name": "Villa de Olivais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.754469,
+          40.626111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A cerca de 1,5 km do Castro de Alvarelhos, conhecida na Idade Média por “Villa Palmazani”",
+        "name": "Villa de Palmazão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.628074,
+          41.297516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de uma Villa romana localizada no lugar de Passos, freguesia de Tarouquela (Cinfães). Estruturas, pedras aparelhadas, metais, cerâmica, fustes, capitéis e bases de colunas, aras, mós manuais e pias, vestígios que cobrem todo o outeiro, hoje ocupado por moradias.",
+        "name": "Villa de Passos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.191644,
+          41.077715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa ou mesmo vicus romano situada em Perrelos na freguesia de Delães.",
+        "name": "Villa de Perrelos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.422379,
+          41.397491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de uma opulenta villa romana a sul de Beja. Na sua proximidade passaria a via romana de Beja a Aljustrel. Apesar de ser uma das villae mais interessantes de todo o Alentejo continua  infelizmente pouco valorizada.",
+        "name": "Villa de Pisões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.949074,
+          37.997544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestigios de uma villa romana na Herdade dos Pombais, junto da travessia do Rio Sever pela via romana proveniente da travessia do Tejo na Barca da Amieira, passava no vicus do Monte Velho e seguia para Valencia de Alcántara rumo a Norba Caesarina, a actual cidade de Cáceres.",
+        "name": "Villa de Pombais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.331442,
+          39.472683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana junto da Antiga Escola de Povos situada na Rua Direita (Povos, Vila Franca de Xira); A Via romana XVI entre Bracara (Braga) e Olisipo (Lisboa).",
+        "name": "Villa de Povos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.985034,
+          38.966858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana localizada no lugar de Prado galego em Valbom (Pinhel). Poderá estar a associada a uma via proveniente de Marlava (Mêda) rumo a Pinhel.",
+        "name": "Villa de Prado Galego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.109972,
+          40.779965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana junto do cemitério de Rio Maior. O espólio recolhido está em exposição na Galeria Municipal;",
+        "name": "Villa de Rio Maior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.939336,
+          39.332907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Em Trofa Velha junto da EN14 Porto-Braga, antiga Via romana XVI.",
+        "name": "Villa de Rorigo Velho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.573807,
+          41.326999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífica Villa romana aberta ao público em Freixo de Numão.",
+        "name": "Villa de Rumansil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.244632,
+          41.090901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa Romana localizada a oeste de Monsanto. a via romana que partindo de Idanha-a-Velha rumo a norte deveria passar nas proximidades.",
+        "name": "Villa de S. Lourenço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.134535,
+          40.055409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana.",
+        "name": "Villa de S. Marcos da Abóbada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.893868,
+          38.428635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana junto do rio Xévora, talvez junto do ponto de travessia deste rio rumo a Mérida.",
+        "name": "Villa de S. Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.977791,
+          39.044511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de uma villa romana em St. Vitória do Ameixial (Estremoz). Nas imediações passaria uma via romana secundária que interligava dois dos itinerários para Mérida, o Itinerário XII que passava em Évora e Estremoz como o Itinerário XIV que passava mais a norte por Ponte de Sor e Alter do Chão.",
+        "name": "Villa de Santa Vitória do Ameixial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.676991,
+          38.899881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Solar dos Condes de Castelo Melhor em Santiago da Guarda (Ansião) construída sob os alicerces de uma villa romana. Por aqui deveria passar uma via romana proveniente de Conímbriga rumo a sul.",
+        "name": "Villa de Santiago da Guarda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.480447,
+          39.948091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana relativamente próxima da via romana entre Évora e Beja que passava na Ponte Romana de Vila Ruiva.",
+        "name": "Villa de São Cucufate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.84538,
+          38.223684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana na margem direita do rio Tâmega.",
+        "name": "Villa de São Frausto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.479745,
+          41.722746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios (incluindo mosaicos) de uma provável villa.",
+        "name": "Villa de Sempre Noiva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.963928,
+          38.681803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana descoberta em 1992 e que conta já com um centro interpretativo. Relacionada com a via Braga-Mérida que passava a alguns kms a leste, em Pombeiro de Ribavizela.",
+        "name": "Villa de Sendim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.18292,
+          41.386171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante villa romana dentro da aldeia de Sta. Catarina de Sítimos.",
+        "name": "Villa de Sta. Catarina de Sítimos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.432178,
+          38.393197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa agrícola localizada em Terlamonte, Teixoso (Covilhã). Jorge de Alarcão situou aqui a capital dos Lancienses Ocelenses, hipótese ainda não corrobada pelos vestígios até agora conhecidos; barragem romana? no rio Zêzere. Admite-se a exustência de uma via passando em Terlamonte e Orjais de encontro à Via Braga-Mérida que passava junto de Centum Cellae e da Qta. da Fórnea (Belmonte).",
+        "name": "Villa de Terlamonte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.427613,
+          40.291447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana situada a oeste de Olhão.",
+        "name": "Villa de Torrejão Velho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.867794,
+          37.027854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa ou mesmo Vicus junto da ribeira de Massueime em Coriscada (Mêda)  situada no aro da Civitas Aravorum (Marialva). Este vicus poderia ter uma mutatio pois está junto da via que partindo de Marialva seguia para o concelho de Pinhel. É provável que desse ligação à Civitas Cobelcorum (Almofala, FC Rodrigo) e a Póvoa do Mileu (Guarda).",
+        "name": "Villa de Vale de Mouro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.197823,
+          40.84763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana por onde deveria passar uma via secundaria proveniente de Bobadela e da travessia do rio Alva em Coja que bifurcavao aqui, seguindo um ramo para Coimbra e outra para Idanha-a-Velha pela Serra do Açor.",
+        "name": "Villa de Vale do Carro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.979597,
+          40.250512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana localizada junto da Via romana entre Ossonoba e Arannis.",
+        "name": "Villa de Vale do Joio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.888667,
+          37.127141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável villa romana no local da Igreja da Herdade de Vale dos Reis.",
+        "name": "Villa de Vale dos Reis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.498104,
+          38.419486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana nas proximidades do Castro de Alvarelhos (Trofa).",
+        "name": "Villa de Vila Boa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.635549,
+          41.300057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana.",
+        "name": "Villa de Vilares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.44294,
+          38.730457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana em Carrascal de Alvide (Cascais).",
+        "name": "Villa do Alto da Cidreira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.423485,
+          38.721402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana em Canas de Senhorim junto da Via romana que ligava Mangualde a Bobadela por Caldas da Felgueira.",
+        "name": "Villa do Casal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.906111,
+          40.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana dentro da Escola Primária de Grândola. Possivel mansio da via romana entre Salacia (Alcácer do Sal) e Mirobriga (Santiago do Cacém).",
+        "name": "Villa do Cerrado do Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.567481,
+          38.172611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana localizada nas traseiras da Igreja Paroquial da Lavra (Matosinhos) hoje praticamente sem qualquer vestígio visível que explorava os férteis campos agrícolas e os recusros marinhos como provam os tanques de salga de peixe (cetárias) situados na Praia de Angeiras, defronte da villa, hoje cobertas de areia. Espólio no Museu anexo à igreja. A via per loca maritima passava por aqui e seguia para atravessia do Rio Onda junto do Castro romanizado de Angeses, no Monte Castro.",
+        "name": "Villa do Fontão de Antela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.72016,
+          41.259295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de uma villa romana no Monte da Chaminé, 3 km a sul de Ferreira do Alentejo.",
+        "name": "Villa do Monte da Chaminé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.113243,
+          38.027329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana junto do Monte do Castro, situada junto da via romana proveniente de Campo Maior rumo a Mérida.",
+        "name": "Villa do Monte do Castro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.971999,
+          39.024422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana do Montinho das Laranjeiras relacionada com o comércio fluvial ao longo do Guadiana. O rio era navegável desde a sua foz em Baesuris (Castro Marim) e Myrtilis (Mértola). Poderia um ponto de paragem a meio trajecto.",
+        "name": "Villa do Montinho das Laranjeiras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.460488,
+          37.404529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa tardo-romana situada no Vale da Facha (Ponte de Lima); por aqui passava uma diverticulum da via secundária entre Barcelos de Ponte de Lima.",
+        "name": "Villa do Paço Velho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.642195,
+          41.719376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana em Canas de Senhorim junto da Via romana que ligava Mangualde a Bobadela por Caldas da Felgueira.",
+        "name": "Villa do Passal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.908056,
+          40.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa tardo-romana situada no Vale da Facha (Ponte de Lima); por aqui passava a via secundária entre Barcelos de Ponte de Lima. Marcador aproximado.",
+        "name": "Villa do Prazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.623132,
+          41.721273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífica Villa romana aberta ao público em Freixo de Numão.",
+        "name": "Villa do Prazo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.242537,
+          41.068861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Também designada por Quinta do Prazo e Qta. da Granja, na margem do Rio Zêzere e junto da Via Braga-Mérida; daqui provém uma inscrição hoje no Museu da Guarda.",
+        "name": "Villa do Prazo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.363579,
+          40.402366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífica villa romana na berma da via proveniente de Braga para Lisboa, depois de passar Conimbriga. Ver Museu no Rabaçal.",
+        "name": "Villa do Rabaçal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.457671,
+          40.038419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana em Portimão.",
+        "name": "Villa do Vale da Arrancada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.548956,
+          37.150011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa Romana localizada na Herdade dos Barros em Oledo (Castelo Branco).",
+        "name": "Villa dos Barros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.276755,
+          39.990155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana ou santuário na margem direita da ribeira do Povo na confluência deste com o rio Pônsul. Será aqui o ponto de travessia do rio Pônsul da via romana entre Castelo Branco a Idanha-a-Velha?",
+        "name": "Villa dos Belgaios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.348958,
+          39.834172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana situda em Areias próximo da Praia do Guincho. Ao abandono...",
+        "name": "Villa dos Casais Velhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.464137,
+          38.726348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana localizada no Alto de Martim Vaz. Algures por aqui passava a via proveniente de Cale ao longo da costa maritima. Localização hipotética pois nunca foi encontrada, existindo apenas referências já do seculo IX.",
+        "name": "Villa Euracini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.770467,
+          41.387739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa romana também conhecida de Villa Mendo situada em Estela (Póvoa do Varzim). Algures por aqui passava a via proveniente de Cale que vinha junto à costa. Localização apenas indicativa.",
+        "name": "Villa Menendi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.756151,
+          41.455375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífica vila romana de Torreáguila junto a Barbaño (Badajoz). Esta vila era servida pela via Mérida-Lisboa.",
+        "name": "Villa Romana de Torreáguila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.60284,
+          38.868096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável villa romana perto de St. Comba Dão no alinhamento do itinerário Mealhada-Bobadela.",
+        "name": "Villa? da Abadia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.128889,
+          40.375833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possivel Villa romana junto da Igreja de S. João de Areias.",
+        "name": "Villa? de São João de Areias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.071423,
+          40.386583
+        ]
+      }
+    }
+  ]
+}

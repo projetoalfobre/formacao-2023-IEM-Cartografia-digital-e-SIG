@@ -1,0 +1,2833 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível assentamento militar romano controlando o acesso pelo norte à região mineira de Três Minas.",
+        "name": "Alto da Cerca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.501464,
+          41.565535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado dominando visualmente amplos troços dos vales do rios Sordo e Corgo; próximo deveria passar uma via no sentido N-S rumo ao Douro.",
+        "name": "Alto do Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.79321,
+          41.261293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível acampamento militar romano em Almeirim, junto da via romana para Mérida.",
+        "name": "Alto dos Cacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.616949,
+          39.225057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado próximo da aldeia de Lama de Ouriço.",
+        "name": "Cabeço da Muralha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.334855,
+          41.697919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado.",
+        "name": "Cabeço de São Pedro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.097792,
+          41.309777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Ferro romanizado num esporão sobre o rio Ponsul.",
+        "name": "Cabeço dos Mouros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.18651,
+          39.980637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro.",
+        "name": "Cabeço Redondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.27543,
+          38.066161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado.",
+        "name": "Carrascal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.012821,
+          41.612943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortificação romana conhecida por Castelo da Lousa junta da  Aldeia da Luz (Mourão) e que hoje está submersa pela albufeira da Barragem do Alqueva. Esta estrutura militar deveria controlar a travessia neste local do Rio Guadiana, travessia eventualmente integrada numa via secundaria entre Évora e Moura.",
+        "name": "Castellum da Lousa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.406798,
+          38.358615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Acampamento militar localizado a sul de Coimbra, controlando a estrada para Conímbriga.",
+        "name": "Castellum de Antanhol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.473459,
+          40.162711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado em torno da Igreja de Vila Verde de Ficalho.",
+        "name": "Castellum de Ficalho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.300524,
+          37.947503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado com provável origem romana no outeiro do actual cemitério; na capela mor da igreja apareceu a inscrição HEINC LETERAM (http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=51837) («Aqui Letera») sugerindo que o  povoado seria designado por «Letera» na época romana.",
+        "name": "Castellum de Lamas de Orelhão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.287159,
+          41.438034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Acampamento militar romano localizado na margem esquerda do Rio Alva junto a Arganil.",
+        "name": "Castellum de Lomba do Canho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.048594,
+          40.242058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortificação romana com imponente estrutura ainda visível.",
+        "name": "Castellum de Manuel Galo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.794961,
+          37.531184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortificação romana conhecida como Castelo Velho do Lousal junto das Minas do Lousal.",
+        "name": "Castellum do Lousal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42758,
+          38.044755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado tardo-romano estrategicamente situado sobre a travessia do rio Douro em Barca Dalva.",
+        "name": "Castelo de Alva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.923995,
+          41.040306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado de vasta cronologia sobranceiro à via proveniente de Tomar e Conímbriga que cruzava o rio Zêzere e seguia por Mouriscas rumoa a Aritio Vetus localizado em Alvega. Possível capital de civitas.",
+        "name": "Castelo de Cabeça das Mós"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.117967,
+          39.510924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No Monte Castelo ou Monte Calábria existiu um importante castro romanizado que deverá corresponder a Caliabria, povoado referido no Paroquial Suevo em 579 e de reconhecida importância ao ser posteriormente elevado a Diocese Visigótica.",
+        "name": "Castelo de Calábria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.015385,
+          41.029883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro fortemente romanizado onde apareceu sigilata hispânica.",
+        "name": "Castelo de Ervedosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.089727,
+          41.716844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Com sinais de povoamento desde 3000 a.c., o Castelo de Faria está situado num local estratégico para o controle da estrada entre Rates e Barcelos. Grandes muralhas e casas redondas ainda visiveis do castro da Idade do Ferro que foi posteriomente romanizado e restos do castelo medieval.",
+        "name": "Castelo de Faria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.646831,
+          41.496447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobanceiro ao Douro e foz do Paiva  controlando a travessia do Douro da carraria antiqua entre Escamarão e Bitetos.",
+        "name": "Castelo de Fornos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.26212,
+          41.06222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romanizado no morro designado por Castelo de Gaia. Seria aqui o opida de Cale?",
+        "name": "Castelo de Gaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.624594,
+          41.139661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado pré-histórico romanizado.",
+        "name": "Castelo de Numão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.29073,
+          41.100054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto da aldeia de Prados (Freixedas); por aqui deveria passar uma via  N-S que ligaria Marialva (Meda) a Póvoa do Mileu (Guarda).",
+        "name": "Castelo de Prados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.178188,
+          40.723944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romanizado situado junto da estrada que ia atravessar o rio Tinhela junto das Caldas do Carlão",
+        "name": "Castelo do Carlão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.403304,
+          41.317264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado com origem no Calcolítico e sucessivas ocupações até à Idade do Ferro. Nas proximidades passaria a Via romana Salacia - Ebora.",
+        "name": "Castelo do Giraldo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.032676,
+          38.54075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Bronze com ocupação continuada até à Idade Média; do período romano apareceram colunas, silhares em granito e um fragmento de uma inscrição.",
+        "name": "Castelo dos Mouros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.107581,
+          40.915392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto a Mirandela; próximo deste povoado, a poente, passava a estrada romana secundária que ligava o Vale da Vilariça à via XVII.",
+        "name": "Castelo Velho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.163943,
+          41.492945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro da Idade do Bronze localizado estrategicamente na travessia da ribeira de Aziral. Caminho pré-romano com uso posterior.",
+        "name": "Castelo Velho de Caratão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.960633,
+          39.576949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado pré-histórico.",
+        "name": "Castelo Velho de Numão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192581,
+          41.07255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romanizado.",
+        "name": "Castelo Velho do Roxo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.108067,
+          37.929271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado na cidade da Guarda sobranceiro ao vicus de Póvoa de Mileu. Destruído.",
+        "name": "Castelos Velhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.260942,
+          40.542984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado no Cabeço de São João, dominando a travessia do rio Baceiro em Castrelos.",
+        "name": "Castelos Velhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.897479,
+          41.835219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado.",
+        "name": "Castrilhão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.041298,
+          41.667236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado em Cidadelhe (Lindoso).",
+        "name": "Castro A Cidade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.244292,
+          41.865123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Também conhecido por Castelo da Cola ou Cidade de Marrachique. Apesar do seu nível de romanização ser inconclusivo, este povoado com ocupação desde o Neolítico é importante na definição da rede viária romana na região pois por aqui passaria a via ligando Salacia rumo a Ossonoba e demais cidades portuárias do Algarve romano.",
+        "name": "Castro da Cola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.300563,
+          37.579005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Bronze/Ferro sobranceiro ao vicus de Quintas da Torre/Torre dos Namorados, junto do qual passava a Via Braga-Mérida.",
+        "name": "Castro da Covilhã Velha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.349956,
+          40.132268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobranceiro ao rio Tâmega na sua margem direita. A Via romana XVII Bracara - Aquae Flaviae - Asturica deveria passar a noroeste do castro na sua aproximação a Cahves. Um pouco a norte ficava a Villa romana da Grajinha.",
+        "name": "Castro da Curalha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.528003,
+          41.709393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado onde apareceram seis  estelas funerárias romanas.",
+        "name": "Castro da Devesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.787731,
+          41.821743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Ferro localizado num destacado cabeço cónico a meio da encosta Leste da Serra do Leiranco, marginado pela VIA XVII.",
+        "name": "Castro da Malhó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.62404,
+          41.75756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado em São Martinho de Mouros; nas proximidades existem pelo menos 8 inscrições rupestres de carácter votivo (http://eda-bea.es/pub/record_card_1.php?rec=22876) relacionadas com um possível santuário. Poderia ser sede de civitas.",
+        "name": "Castro da Mogueira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.892819,
+          41.11257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro (casas redondas).",
+        "name": "Castro da Ns. da Graça"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.137421,
+          41.241207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado próximo da aldeia de Bouçoães. Aqui apareceu uma ara votiva e uma estela funerária.",
+        "name": "Castro da Ns. da Ribeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.195951,
+          41.74999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado localizado na freguesia de Carapeços e junto da possível via romana que ligava Barcelos a Ponte de Lima.",
+        "name": "Castro da Picarreira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.633749,
+          41.591077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável castro romanizado no Monte de Lijó; na sua base passariam as vias romanas rumo ao rio Vizela.",
+        "name": "Castro da Polvoreira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.311307,
+          41.405229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado em Soeira.",
+        "name": "Castro da Ponte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.930723,
+          41.853578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro sem vestigios de romanização mas sobranceiro à via romana entre Cale (Porto) e Vissaium (Viseu) que passava na sua base rumo a Massarocas e S. Pedro do Sul.",
+        "name": "Castro da Sra. da Guia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.097696,
+          40.763611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado na Serra do Carvalho sobranceiro ao Itinerário XVII que ligava Braga a Astorga por Chaves que passava na sua vertente sul.",
+        "name": "Castro das Eiras Velhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.345456,
+          41.585447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romano localizada em Abaças; Foi destruído pela plantação de vinha. A rota romana Chaves-Douro passava nas proximidades.",
+        "name": "Castro de Abaças"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.704969,
+          41.22532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado no Alto da Maia/Castelo da Maia em Águas Santas; Por aqui deveria passar a Via romana Porto Guimarães.",
+        "name": "Castro de Águas Santas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.571572,
+          41.207919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto à Via Bracara-Cale; existe um miliário na Qta. do Paiço ali próximo.",
+        "name": "Castro de Alvarelhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.618426,
+          41.30084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado de S. Miguel de Amêndoa; nó viário.",
+        "name": "Castro de Amêndoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.064547,
+          39.668186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobranceiro a Anadia junto da Via XVI Braga-Lisboa.",
+        "name": "Castro de Anadia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.440092,
+          40.446059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado localizado no Monte Castro na margem esquerda do Rio Onda/Ribeira da Lage na Praia de Angeiras (Lavra, Matosinhos).",
+        "name": "Castro de Angeses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.716276,
+          41.26906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro no Alto de Santiago que está a ser destruído por uma pedreira. No sopé deste castro passava uma estrada romana que ligava Tongobriga ao vicus de Várzea do Douro.",
+        "name": "Castro de Arados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.227332,
+          41.097911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado de São Miguel-o-Anjo de onde serão provenientes uma ara dedicada à divindade Lalaecus (http://eda-bea.es/pub/record_card_2.php?rec=6780)(?) e outra dedicada à mesma divindade (http://eda-bea.es/pub/record_card_2.php?rec=6779) (?), hoje no Museu Pio XII em Braga.",
+        "name": "Castro de Ázere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.404692,
+          41.858012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado dominando a passagem da karraria antiqua, via medieval que teria origem numa via romana e que ligava o Porto a Barcelos, atravesssando o rio Ave na Ponte de D. Zameiro e o rio Este na Ponte dos Arcos seguindo depois para Rates.",
+        "name": "Castro de Boi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.676561,
+          41.324114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado também conhecido por Castro da Carcolao situado a 610 m de altitude nas encostas da serra da Arada junto do lugar de Carvalhais (São Pedro do Sul). O castro abrange uma área de cerca de 10 hectares onde ainda são visíveis várias dezenas de casas e pinturas rupestres espalhadas por quinze rochedos. A estrada romana entre Cale (Porto) e Vissaium (Viseu) passaria um pouco mais a sul por Santa Cruz da Trapa.",
+        "name": "Castro de Cárcoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.119837,
+          40.803776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado localizado no alto da Queimada da Serra do Louro (Palmela). A Via Lisboa-Alcácer do Sa-Évoral deveria passar a SW, descendo da Serra de S. Luis pela Calçada do Viso rumo a Setúbal.",
+        "name": "Castro de Chibanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.917611,
+          38.564365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado que em época romana seria designado por Aliobriga. No lugar do Marco apareceu um miliário a Numeriano entretanto desaparecido.  Este miliário indicaria a milha 18 pelo que não pode marcar a distância ate ao rio Douro. Assim teria de se procurar outro ponto de início de marcação das milhas, como por exemplo Vila Real que fica a cerca de 18 milhas. Assim é possivel que existisse um ramal da Via Chaves-Lamego que em Vila Real rumava para sudoeste em direcção a Cidadelhe e ao rio Douro.",
+        "name": "Castro de Cidadelhe - Aliobriga?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.844352,
+          41.178569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado no Santuário de Nossa Senhora da Cabeça em Nogueira. Daqui serão provenientes 4 estelas romanas em mármore actualmente no Museu da Casa do Adro em Viseu.",
+        "name": "Castro de Cigadonha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.822172,
+          41.779466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro da Idade do Ferro romanizado, na margem direita do Rio Bestança.",
+        "name": "Castro de Coroas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.051789,
+          41.057562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romanizado localizada na margem esquerda do Rio Douro junto a Crestuma (Vila Nova de Gaia). Recentemente foi descoberto um cais de construção romana junto do povoado na Praia de Favaios, provando a sua relação com o transporte fluvial.",
+        "name": "Castro de Crestuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.504046,
+          41.068764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado também chamado de Vilarelho; Seria o maior castro da região do actual concelho de Alijó dominando a passagem da via romana que ligava Alijó ao Pinhão que deveria passar no seu sopé.",
+        "name": "Castro de Favaios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.493653,
+          41.277985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoado situado no Monte de Sta. Maria também chamado Monte Redondo, lugar onde nos anos setenta se recolheu importante espólio, mas que hoje está totalmente destruído após a urbanização do local. Na base do castro subsiste o  topónimo de Vilar, onde existe uma  calçada (http://viasromanas.pt/vr/calcadadefiaes.jpg) que daria acesso ao castro, hoje designada por Travessa de Vilar. Este povoado corresponde à estação de Langobriga referida no Itinerário de Antonino entre Braga e Lisboa, mas mansio deveria ficar próximo da via romana que passa a cerca de 2 km para leste pelos lugares de Vendas Novas e Ferrada.",
+        "name": "Castro de Fiães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.517755,
+          40.984227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado na colina de São Pedro de Fontes também designado por «Castelo dos Mouros», onde apareceu uma ara dedicada à divindade Auge (http://eda-bea.es/pub/record_card_2.php?rec=14974) e muitos vestígios de cerâmica.",
+        "name": "Castro de Fontes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.802508,
+          41.228236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado num meadro do rio Sabor no Arrabalde de  Gimonde.",
+        "name": "Castro de Gimonde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.696142,
+          41.800017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado conhecido por Monte castro inserido na área urbana de Gondomar.",
+        "name": "Castro de Gondomar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.536657,
+          41.141748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado.",
+        "name": "Castro de Goujoim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.642941,
+          41.087094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romainizado junto ao antigo porto do rio Leça em Leixões. Estes indicios sugerem a existência de uma estrada que ligava Cale a este porto fluvial com eventual continuação para norte atendendo a que existia uma ponte medieval sobre o Leça que entretanto ruiu devido a uma cheia.",
+        "name": "Castro de Guifões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.678595,
+          41.200195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro da Idade de Ferro no Monte de S. Félix junto do qual passaria a via romana pelo litoral proveniente de Cale.",
+        "name": "Castro de Laúndos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.71494,
+          41.434733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Sobranceiro ao rio Minho, este castro romanizado controlava a travessia do rio era servido por um porto fluvial na era romana. Na área existe uma villa romana.",
+        "name": "Castro de Lovelhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.742956,
+          41.951779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado no Monte da Guilheta/Monte do Castelo. A via Per Loca Maritima proveniente do Porto para Viana do Castelo deveria passar junto a este castro.",
+        "name": "Castro de Moldes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.785239,
+          41.614734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado com origem na Idade do Bronze e com fortes indícios de romanização também designado por Castro de Paredes Secas. Referido nas Memórias Paroquiais de 1758 acerca da freguesia de Passô.",
+        "name": "Castro de Mondim/Sanfins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.730249,
+          41.012875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Ferro localizado num destacado cabeço cónico a meio da encosta Leste da Serra do Leiranco.",
+        "name": "Castro de Nogueira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.633855,
+          41.744982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto da travessia do rio Zêzere em Pedrógão Grande.",
+        "name": "Castro de Ns. da Confiança"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.130181,
+          39.91098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto ao rio Caima também chamado Castro das Baralhas",
+        "name": "Castro de Ossela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.415861,
+          40.82803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro sem vestígios de romanização situado em Paramos, perto de Espinho. É possível que uma estrada romana percorre o litoral a poente deste castro.",
+        "name": "Castro de Ovil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.621007,
+          40.979062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro perto de Esmolfe em Penalva do Castelo nas proximidades da via N-S proveniente de Moimenta da Beira rumo à civitas da Bobadela em Oliveira do Hospital. Teria sido abandonado com a fundação na sua base do importante vicus da Murqueira.",
+        "name": "Castro de Paramuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.663546,
+          40.681383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano com origem num castro da Idade do Ferro  situado numa colina sobranceira ao rio Alcoa, antiga Lagoa da Perderneira em Bárrio (Alcobaça). Imensos vestígios de estruturas; Na sua proximidade deveria passar a antiga via romana que ligava Conimbriga a Olisipo passando por Collipo (Leiria) e Eburobrittium (Óbidos).",
+        "name": "Castro de Parreitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.025199,
+          39.575361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado num esporão sobre o Rio Este, junto de um local de travessia do rio num provável itinerário pré-romano proveniente dos castros junto a Vila Nova de Famalicão que seguia na direcção de Barcelos.",
+        "name": "Castro de Penices"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.608464,
+          41.4145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro sobranceiro à travessia do Douro para Porto Antigo.",
+        "name": "Castro de Porto Manso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.078329,
+          41.096693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado; uma das vias de acesso a Tongobriga passava na sua base.",
+        "name": "Castro de Quires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.224892,
+          41.207175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobranceiro ao rio Úl, próximo da Via XVI Braga-Lisboa que passava na margem oposta.",
+        "name": "Castro de Recarei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.513185,
+          40.852197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto da passagem da Via transversal no sentido NW-SW entre Castro de Avelãs e a Região Mineira de Três Minas. Existe uma calçada entre o Castro de Ribas e o santuário de rupestre de Pias de Mouros, passando na Ponte do Regato do Pereiro.",
+        "name": "Castro de Ribas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.399545,
+          41.584858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado da Portela em Romariz. A via romana Porto-Viseu passa a 5 km daqui em Cabeçais, Fermedo.",
+        "name": "Castro de Romariz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.460288,
+          40.946031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobranceiro a Fundão e que deverá estar na origem do povoamento desta cidade. É provável que o povoado ficasse próximo do cruzamento a Via Aritium Vetus (Alvega, Abrantes)-Salmantica (Salamanca) com a Via  O-E que ligava a Civitas da Bobadela (Oliveira do Hospital) e Igaeditania (Idanha-a-Velha).",
+        "name": "Castro de S. Brás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.506875,
+          40.127108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado no alto do monte de S. Caetano (Lugar do Outeiro, Longos Vales, Monção). É provavel que existisse um caminho romano proveniente de Braga/Arcos de Valdevez passando nas proximidades do castro. A via poderia passar junto da importante Igreja Românica de Longos Vales que fazia parte do antigo Mosteiro de S. João, onde existem vestígios de ocuoação romana.",
+        "name": "Castro de S. Caetano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.443853,
+          42.040589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Ferro com indícios de romanização. Na vertente poente do castro, na Qta. da Raposeira,   existem vestígios de habitat romano.",
+        "name": "Castro de S. Domingos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.746725,
+          41.119913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romanizado perto do qual passaria a via entre Guimarães e Meinedo.",
+        "name": "Castro de S. Domingos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.296974,
+          41.277163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro totalmente destruído ao tornar-se pedreira para a construção do Porto de Leixões! Local estratégico dominando o nó rodoviário do Padrão da Légua por onde deveria passar a Via Veteris e a Karraria Antiqua, ambas referidas em documentção medieval mas que terão origem romana. Supõe-se que o castro ocupava a área entre a estação de metro da Fonte do Cuco e a rua de Trás.",
+        "name": "Castro de S. Gens, Custóias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.653662,
+          41.19437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro da Idade do Ferro fortemente romanizado localizado na freguesia de Ranhados (Mêda). O Castro teria vias de ligação para Norte, em direcção a Numão e a Freixo de Numão e ligações para Leste em direcção à Civitas Aravorum em Marialva.",
+        "name": "Castro de S. Jurge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.332683,
+          41.010914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado no Mte. de S. Martinho em Castelo Branco. Vestígios de povoamento romano no aro formado pelo castro e as  capelas de Ns. de Mércoles e de Santa Ana. Aqui há vestígios de um vicus romano por onde passa uma calçada. Poderá  corresponder à capital do povo Tapori mas não há certezas.",
+        "name": "Castro de S. Martinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.464854,
+          39.804164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado de S. Miguel-o-Anjo na freguesia de Calendário.",
+        "name": "Castro de S. Miguel-o-Anjo I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.534416,
+          41.3923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado de S. Miguel-o-Anjo em Perrelos (Delães, Vila Nova de Famalicão). Na encosta sul existe villa romana.",
+        "name": "Castro de S. Miguel-o-Anjo II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.425881,
+          41.399248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado localizado a oeste de Guimarães nas  freguesias de Figueiredo, Oleiros e Vermil.",
+        "name": "Castro de S. Miguel-o-Anjo III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.385905,
+          41.4579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Este é o único castro marítimo conhecido, confirmando a exploração dos recursos marinhos desde a Idade do Ferro. Com sinais de romanização, este castro integra-se numa série de sítios romanos ao longo desta costa, ligadas à pesca e à preparação do Garum, uma pasta de peixe,  para exportação. Este facto sugere a existência de uma via ao longo do litoral entre Porto e Caminha pelo que é designada Per Loca Maritima.",
+        "name": "Castro de S. Paio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7307,
+          41.281566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado junto da calçada de Alpajares, a via secundaria que liga Freixo de Espada à Cinta ao rio Douro.",
+        "name": "Castro de S. Paulo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.898802,
+          41.058407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado na Sra. do Desterro no topo dum monte chamado Cabeço do Castro. Estrategicamente situado num dos acessos à Serra da Estrela e próximo da Via Marialva-Bobadela que passava em Seia.",
+        "name": "Castro de S. Romão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.698422,
+          40.389195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro sobranceiro à Via XVII, gormando hoje uma ilha da albufeira da barragem do Alto Rabagão.",
+        "name": "Castro de S. Vicente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.784355,
+          41.77382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado de Sabrosa também conhecido por Castelo de Sancha e Cristelos, sobranceiro à EN 323. Não muito longe deveria passar a via romana que ligava Panoias a Alijó.",
+        "name": "Castro de Sabrosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.571233,
+          41.278508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro sem vestígios de romanização situado num meandro do rio Antuã a nascente de Estarreja.",
+        "name": "Castro de Salreu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.549997,
+          40.761471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável civitas da região de Basto, atendendo a 3 epígrafes honoríficas achadas na região, a inscrição a Gordiano de Refojos, a inscrição a Antonino Pio de Basto, CIL II 2381, a inscrição a Constâncio Cloro de Abadim, assim como 2 estátuas de guerreiros galaicos, uma delas com uma inscrição na cetra onde se lê: «Artifices / Calubrigens/es · et · Abianien(ses)», provável referência a dois povos, os Abianienses e os Calubrigenses.",
+        "name": "Castro de Santa Comba, Refojos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.975465,
+          41.506786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado às portas de Viseu, ponto de cruzmanento de várias vias. No sopé do castro deveria passar a via que vinha do Porto pela Serra de Arouca e a via que se dirigia ao rio Douro.",
+        "name": "Castro de Santa Luzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.920483,
+          40.698385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro com vestígios de romanização.",
+        "name": "Castro de Santa Olaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.719546,
+          40.170698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobranceiro ao rio Ave dominando a sua travessia na Ponte Medieval de D. Zameiro. Aqui passaria a karraria antiqua, a via medieval com provável origem romana que ligava Porto a Barcelos.",
+        "name": "Castro de Santagões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.684323,
+          41.359256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto da Via Viseu-Celorico da Beira.",
+        "name": "Castro de Santiago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.482047,
+          40.646048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado em Torre de Dona Chama, provável oppidum dominando a travessia do rio Tuela da Via XVII na Ponte Romana da Pedra.",
+        "name": "Castro de São Brás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.120722,
+          41.654729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado controlando a estrada per loca maritima que passa ali perto.",
+        "name": "Castro de São Lourenço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.761587,
+          41.556119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado no Monte de St. Ovídeo em St. Maria de Avioso, junto da Via Bracara-Cale.",
+        "name": "Castro de St. Ovídeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.612419,
+          41.265559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado junto a Fafe.",
+        "name": "Castro de St. Ovídeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.185163,
+          41.455924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado sobranceiro a Bracara Augusta que tem vindo a ser escavado desde o século XIX, mas que hoje está ao abandono. Para além de casas circulares foi ainda identificada uma Basílica Paleocristã e um \"Palácio\" Suevo-Visigótico. A via Bracara-Emerita deveria passar não muito longe.",
+        "name": "Castro de Sta Marta das Cortiças"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.395305,
+          41.51486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado no monte de Sta. Maria Madalena, Gaia (Ponte de Lima). Possivelmente o povoado associado à mansio LIMIA.",
+        "name": "Castro de Sta. Maria Madalena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.564398,
+          41.752995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado localizado junto da aldeia de Pinhovelo em Macedo de Cavaleiros. Hoje, o IP2 passa ao lado. Ainda em fase de escavação, mas este seria um importante povoado da civitas Zoelarum .",
+        "name": "Castro de Terronha de Pinhovelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.988795,
+          41.543234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobranceiro à travessia do rio Úl pela Via XVI Braga-Lisboa.",
+        "name": "Castro de Úl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.497697,
+          40.813528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto da povoação de Vaiamonte (Monforte).",
+        "name": "Castro de Vaiamonte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.52457,
+          39.091979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Também conhecido por Castro do Cerro ou do Coteiro, trata-se de um castro romanizado que foi totalmente destruído devido a ter sido instalada aqui uma pedreira. Poderia passar aqui próximo uma via secundária pelo litoral.",
+        "name": "Castro de Valadares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.639896,
+          41.102943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado próximo da aldeia de Valtelhas ou Vale de Telhas. A Via romana XVII proveniente de Braga em direcção a Astorga passava aqui perto. O itinerário refere aqui a mansio de Pinetum pelo este poderia ser o antigo nome do povoado. A mansio propriamente dita, poderia ficar junto da travessia do rio Rabaçal pois existentem vestígios de um habitat romano junto do parque de campismo.",
+        "name": "Castro de Vale de Telhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.233715,
+          41.623205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobranceiro à Via XVII que ligava Braga a Astorga por Chaves. É provável que na base do castro ficasse a mansio de Salacia referido no Itineráriode Antonino.",
+        "name": "Castro de Vieira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.123001,
+          41.636252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado na base do qual se viria a implantar a villa romana.",
+        "name": "Castro de Vila Mou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6968,
+          41.732556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado calcolítico localizado na freguesia de Vila Nova de São Pedro, concelho de Azambuja. O espólio recolhido está no Museu Arqueológico do Carmo em Lisboa.",
+        "name": "Castro de Vila Nova de S. Pedro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.840359,
+          39.219801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado na margem direita do rio Vouga próximo de S. Pedro do Sul.",
+        "name": "Castro do Banho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.105192,
+          40.7377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado proto-histórico romanizado.",
+        "name": "Castro do Banho/Ladoeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.137092,
+          41.259053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado no Monte Castelo.",
+        "name": "Castro do Barbudo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.470161,
+          41.652653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado.",
+        "name": "Castro do Bom Sucesso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.605215,
+          40.633027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado da Idade do Ferro. Admite-se que a carraria antiqua passava nas proximidades. Esta via atravessava o Douro em Várzea do Douro/Bitetos (margem Norte) - Outeiro do Castelo/Escamarão (margem Sul), continuando depois pelo vale do Paiva rumo a Viseu.",
+        "name": "Castro do Cabeço dos Mouros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.084833,
+          40.956107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Ferro romanizado uma ara com inscrição  Reve Langanidaeco (http://eda-bea.es/pub/record_card_3.php?rec=20083). Nas proximidades correria uma via proveniente de Castelo Branco rumo ao Fundão (?).",
+        "name": "Castro do Cabeço Pelado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.458288,
+          39.947927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado",
+        "name": "Castro do Castorigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.449807,
+          41.370956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Também conhecido por Castelo dos Mouros, este importante  povoado situa-se próximo da estrada romana que ia atravessar o rio Tinhela na Ponte de Murça.",
+        "name": "Castro do Cavadal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.473839,
+          41.402474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro implantado num outeiro da albufeira da barragem da Venda Nova; a VIA XVII entre Braga e Astorga passava na encosta leste, vencendo aqui a milha 39 desde Braga.",
+        "name": "Castro do Codeçoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.953453,
+          41.693943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado dominando a passagem da via romana XIX que ligava Braga a Valença.",
+        "name": "Castro do Cossourado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.637135,
+          41.915644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado.",
+        "name": "Castro do Coto da Pena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.835076,
+          41.866269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado relacionado com a exploração mineira da Serra de Santa Justa.",
+        "name": "Castro do Couce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.485987,
+          41.166259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Este castro romanizado situa-se junto à Portela de Romarigães onde passva a Via XIX entre Braga e Valença por Ponte de Lima, correspondendo à milha milha XXVIII desde Braga. Aqui deveria existir uma mutatio de apoio à via.",
+        "name": "Castro do Couto de Ouro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.634002,
+          41.871096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro.",
+        "name": "Castro do Cruito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.036617,
+          41.135188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro romanizado em Vila Cova da Lixa (Felgueiras).",
+        "name": "Castro do Ladário"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.14524,
+          41.317302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro dominando o caminho para Arco de Baúlhe.",
+        "name": "Castro do Ladário, Basto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.990588,
+          41.461484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto do Castelo de Póvoa de Lanhoso. Ali próximo, em Pinheiro na EN 103 passava a Via Romana XVII que ligava Braga a Astorga passando em Chaves e Bragança.",
+        "name": "Castro do Lanhoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.280313,
+          41.587014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado onde apareceram quatro estelas funerárias romanas; na aldeia de Meixedo apareceram reutlizadas mais quatro.",
+        "name": "Castro do Lombeiro Branco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.792225,
+          41.842862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado em Brito (Guimaraes).",
+        "name": "Castro do Monte da Forca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.368708,
+          41.467841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado em Pousada de Saramagos, o povoado na origem de Vila Nova de Famalicão. A Via XVI Braga-Porto passava ali perto em Pousda. O marcador indica os antigos banhos castrejos da Idade do Ferro.",
+        "name": "Castro do Monte das Eiras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.444801,
+          41.433805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado junto do lugar de Palhares em Jesufrei (Vila Nova de Famalocão).",
+        "name": "Castro do Monte das Ermidas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.523878,
+          41.460047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado localizado na freguesia de Abade do Neiva e junto da possível via romana que ligava Barcelos a Ponte de Lima.",
+        "name": "Castro do Monte Facho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.645655,
+          41.544673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante cidade castreja romana e cujo espólio está no <br>Museu Municipal de Penafiel.",
+        "name": "Castro do Monte Mozinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.311105,
+          41.146366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado também conhecido por Santuário da Sra. da Saúde. A estrada romana XVI entre Porto e Lisboa corria na sua base.",
+        "name": "Castro do Monte Murado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.57536,
+          41.05696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado do Monte Padrão em Monte Córdova. Centro de visitas.",
+        "name": "Castro do Monte Padrão/Monte Córdova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.449262,
+          41.313035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto à Via romana XVI entre Braga e Porto que passava por Quebradas e Portela. Localização aproximada.",
+        "name": "Castro do Monte Redondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.447315,
+          41.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado que dominava o vale de Arouca. O castro está um pouco afastado da via Porto-Viseu, mas é provável que existisse uma ramal que pasaria aqui em direcção a Castelo de Paiva.",
+        "name": "Castro do Monte Valinhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.264033,
+          40.935838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado do Muro em Vandoma, Baltar. A estrada romana que ligava Cale (Porto) a Tongobriga (Marco de Canaveses) deveria passar próximo.",
+        "name": "Castro do Muro em Vandoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.392896,
+          41.197211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado relacionado com a exploração mineira da Serra de Santa Justa.",
+        "name": "Castro do Pias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.478412,
+          41.166175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Conhecido por Castro do Pópulo, da Touca Rota ou Castelo de S. Marcos, o povoado domina o cruzamento de vários estradas. A estrada E-O que ia de Vila Real a Murça por Panoias e a via N-S que ligaria Chaves ao rio Douro por Três Minas, Carlão e Carrazeda de Ansiães.",
+        "name": "Castro do Pópulo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.489156,
+          41.372608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado onde apareceram dez estelas funerárias romanas.",
+        "name": "Castro do Sagrado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.807221,
+          41.839615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto da via romana que ligava Barcelos a Ponte de Lima.",
+        "name": "Castro do São Estevão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.643483,
+          41.722659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto da estrada da Barca do Lago ao Vale do Lima pela Ponte de Fragoso.",
+        "name": "Castro do Senhor dos Desamparados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.735567,
+          41.541188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto a Mangualde provalvelmente designado por Araocelum na época romana. Na sua base situa-se a importante mansio da Quinta da Raposeira.",
+        "name": "Castro do Sra. do Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.743796,
+          40.611344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado num esporão rochoso que domina a via que passava no Vale do Mondego. Freguesia de Faia (Guarda).",
+        "name": "Castro do Tintinholo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.287779,
+          40.5731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado em Parada da Gonta, rodeado pelos rios Pavia, Asnes e Ribeira de Sasse. A via romana que ligava Aeminium (Coimbra) a Vissaium (Viseu) deveria passar nas proximidades. mais info... (http://paradadegonta.blogs.sapo.pt/9286.html)",
+        "name": "Castro dos Três Rios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.989435,
+          40.587033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoado na Idade do Ferro e com evidências de posterior ocupação romana, onde apareceram umas moedas com as legendas «BAESURI» e «BAE» fornecendo fortes argumentos para situar aqui a antiga Baesuri. No entanto permanece a dúvida se BAESURI não estaria na outra margem nas emediações de Ayamonte.",
+        "name": "Castro Marim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.441552,
+          37.218572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro romanizado.",
+        "name": "Castro Soalhão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.101197,
+          41.140697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado na margem direita do rio Ocreza. A via romana entre Alvega e Castelo Branco poderia passar próximo.",
+        "name": "Cerca do Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.796632,
+          39.67631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoado junto a Silves, possivel localização de Cilpes.",
+        "name": "Cerro da Rocha Branca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.458097,
+          37.185584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romanizado na povoação de Garvão, local de passagem do eixo viário proveniente de Alcácer do Sal rumo ao Algarve; outra possivel localização da  mansio Arannis do Itinerario XXI de Antonino.",
+        "name": "Cerro do Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.344549,
+          37.7095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano junto a Tavira, dominando a travessia do rio Gilão.",
+        "name": "Cerro do Cavaco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.657237,
+          37.137972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado a norte da aldeia de Longa; na sua base passava uma via romana (?) vinda de Longa pela capela de Santo Isidoro rumo Chavães e Tabuaço, existindo um troço lajeado em Cunhos.",
+        "name": "Citânia da Longa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.59272,
+          41.072059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Apesar da importância deste povoado não se conhecem vias romanas associadas.",
+        "name": "Citânia de Briteiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.315892,
+          41.527714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado no Monte do Facho em Barcelos também conhecida por Cidade de Canhoane.",
+        "name": "Citânia de Roriz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.560904,
+          41.57788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Ferro muito próximo da Citânia de Briteiros, mas ao contrário desta não existem sinais de romanização. Teria a população passado para Briteiros na era romana?",
+        "name": "Citânia de Sabroso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.341389,
+          41.511721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante cidade castreja posteriormente romanizada. Dominava um vasto território. O espólio recolhido pode ser visto no interessante Museu Arqueológico de Sanfins de Ferreira na base da citânia, ocupando uma casa senhorial no centro da vila.",
+        "name": "Citânia de Sanfins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.385957,
+          41.323876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado no Monte de Santa Luzia em Viana do Castelo, controlando a travessia do rio Lima da estrada que vinha do Porto per loca maritima.",
+        "name": "Citânia de Santa Luzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.835424,
+          41.704789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado no Monte Facho e Monte da Suvidade entre Afife e Vila Praia de Âncora.",
+        "name": "Cividade de Âncora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.854024,
+          41.786451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado dominando a passagem da Karraria Antiqua, via medieval que teria origem numa via romana e que ligava o Porto a Barcelos, atravesssando o rio Ave na Ponte de D. Zameiro e o rio Este na Ponte dos Arcos seguindo depois para Rates.",
+        "name": "Cividade de Bagunte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.655575,
+          41.383656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado localizado junto da Via Nova também conhecido por Castro de Gróvios ou Castro de Caires. Apesar de dos sinais de romanização, o povoado  romano viria a estabelecer-se na base do castro no sítio do Campo da Bouça junto do lugar do Paço em Caires, onde há abundantes vestígios de um possível vicus que teria uma mutatio de apoio à via que aqui vencia 10 milhas de Braga.",
+        "name": "Cividade de Biscaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.353548,
+          41.648834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro sobranceiro ao Rio Neiva junto da  travessia  deste pela estrada romana  entre Barcelos e Ponte de Lima pelo Vale da Facha. Afectado pela florestação do monte.",
+        "name": "Cividade de Carmona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.648447,
+          41.646877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cividade de S. Miguel em Eja, dominado Entre-os-Rios; Anegia na Idade Média.",
+        "name": "Cividade de Eja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.302696,
+          41.082894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado na margem direita do rio Lima.",
+        "name": "Cividade de Lanheses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.670777,
+          41.740085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano junto da via secundaria entre Barcelos e Ponte de Lima.",
+        "name": "Cividade de Porteladia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.623272,
+          41.709045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante castro romanizado localizado junto do lugar da Ponte em São Julião de Caldelas (Vila Verde).",
+        "name": "Cividade de S. Julião de Caldelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.394628,
+          41.688978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado junto da Casa do Belinho. A via Per Loca Maritima proveniente do Porto para Viana do Castelo deveria passar junto a este castro.",
+        "name": "Cividade do Belinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.776636,
+          41.599845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado sobranceiro ao mar. É possível que no sopé deste castro corresse uma via romana chamada de Per Loca Maritima proveniente de Cale que interligava os diversos castros ao longo da linha costeira.",
+        "name": "Cividade do Terroso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.720988,
+          41.412522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado.",
+        "name": "Cramanchão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.041994,
+          41.519047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado situado a norte da aldeia de Castelãos, dominando a passagem da via romana proveniente de Chaves rumo a Vilar de Perdizes.",
+        "name": "Facho de Castelões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.561027,
+          41.810871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoado da Idade do Ferro romanizado estrategicamente situado no eixo viário N-S que percorria o Alentejo rumo ao Algarve, próximo da confluência da via proveniente de Olisipo (Lisboa) por Salacia (Alcácer do Sal) com outra proveniente de Pax Iulia (Beja), atravessando  depois a serra Algarvia rumo a Ossonoba (Faro).",
+        "name": "Mesas Castelinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.125172,
+          37.485188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado no alto da Serra de Monforte relacionado com as explorações mineiras de Tinta e Pó.",
+        "name": "Monte Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.287927,
+          39.727871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado romanizado de grandes dimensões junto da via romana.",
+        "name": "Monte da Circa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.038921,
+          41.82873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado da Idade do Bronze junto das ruínas do Monte da Ponte ou da Fonte. Por aqui passava uma via romana proveniente do Torrão rumo a Évora passando por Alcáçovas. Cruzava a ribeira a ribeira das Alcáçovas na Ponte da Alcalaínha, marginava o monte e seguia para norte até ao Monte dos Tabuleiros de Baixo onde confluía na via romana proveniente de Alcácer do Sal e juntas seguiam para Évora.",
+        "name": "Monte da Ponte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.079254,
+          38.458214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado fortificado em fase de escavação com uma área de cerca de 10 hectares localizada num outeiro sobranceiro ao rio Grande da Pipa em Castanheira do Ribatejo. Os resultados preliminares sugerem um povoado romano com alguma relevância despoletando a hipótese de este local corresponder ao Opido de Ierabriga mencionada nas fontes clássicas em oposição à sua localização habitual em torno da cidade de Alenquer.",
+        "name": "Monte dos Castelinhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.975404,
+          39.011993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano",
+        "name": "Ns. do Castro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.028328,
+          40.51738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romanizado próximo das Termas de S. Vicente em Pinheiro, Penafiel.",
+        "name": "Outeiro Divino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.306596,
+          41.120653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romanizado no morro da Pena Ventosa / Sé (Porto). Seria Cale?",
+        "name": "Povoado da Pena Ventosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.611636,
+          41.142389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vicus mineiro que poderia ser designado por  Tiria na época romana atendendo à ara votiva consagrada à deusa tutelar dos Tiriensis achada na Capela da Sta. Maria da Ribeira. Entual travessia do Douro neste local, inserida numa via entre Caldas do Carlão e Freixo de Numão.",
+        "name": "Povoado da Qta. da Ribeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.262009,
+          41.14522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano",
+        "name": "Povoado de Carapeços"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.637831,
+          41.595677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoado pré-histórico.",
+        "name": "Povoado de Leceia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2814,
+          38.728088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povado romano no Alto de S. Cristovão em Ruivães, nas proximidades da Via XVII à qual estaria ligada por um ramal que passa em Botica.",
+        "name": "Povoado de S. Cristovão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.038514,
+          41.682482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localizado num cabeço em esporão sobre o Rio<br>Corgo, este povoado romano está relacionado com uma via que passava ali perto, junto da Igreja de Nossa Senhora de<br>Guadalupe, vinda da travessia do Rio Corgo na Ponte de Piscais e que seguiria rumo a Mirandela.",
+        "name": "Povoado de Santa Cabeça"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.715614,
+          41.322387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Bronze dominado a paisagem em redor. Por aqui passaria uma via rumo a Estremoz, passando na Villa romana de Sta. Maria do Ameixial. Está ser destruído por uma pedreira!",
+        "name": "Povoado de São Bartolomeu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.72207,
+          38.943544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado de vasta cronologia estrategicamente situado junto da Via XVI e do variante para Leiria.",
+        "name": "Povoado de Trás de Figueiró"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.439811,
+          39.976768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Bronze à romanização?.",
+        "name": "Povoado do Álamo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.319772,
+          38.02824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado pré-histórico romanizado na margem direita do rio Caia.",
+        "name": "Povoado do Baldio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.258848,
+          39.071951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado situado a sudoeste de Aldeia Velha; provavel assentamento militar romano para controle da via.",
+        "name": "Sabugal Velho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.890825,
+          40.334194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoado de longa cronologia, sobranceiro ao rio Douro.",
+        "name": "São Salvador do Mundo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.367115,
+          41.152512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado da Idade do Ferro sobranceiro a Vouzela junto do qual passava a Via Talabriga (Cabeço do Vouga) e Vissaium (Viseu).",
+        "name": "Sra. do Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.095572,
+          40.721553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado; pertenceria ao povo Zoelae. Aqui apareceram 2 miliários já convertidos em sarcófagos o que indicia existência de uma estação viária da Via XVII, talvez a mansio Reboretum ou Compleutica do Itinerário de Antonino.",
+        "name": "Torre Velha de Castro de Avelãs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.807053,
+          41.796045
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,999 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios do antigo aqueduto romano que alimentava a cidade de Olisipo correndo paralelo à obra do século XVIII.",
+        "name": "Aqueduto de Lisboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.249832,
+          38.764171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Balneário Romano das Termas da Sulfúrea em Cabeço de Vide, próximo da Via XIV.",
+        "name": "Balneário Romano das Termas da Sulfúrea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.578542,
+          39.136078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios do balneário romano nas Termas de S. Pedro do Sul. Um dos complexos termais de origem romana mais bem conservados no actual território português; ao abandono...",
+        "name": "Balneário romano de S. Pedro do Sul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.090936,
+          40.739347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestigios de uma grande barragem romana que abastecia de água a cidade de Chaves.",
+        "name": "Barragem da Abobeleira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.491943,
+          41.75674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Barragem romana em frente da Ermida da Ns. da Represa, Vila Ruiva.",
+        "name": "Barragem da Sra. da Represa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.916059,
+          38.233259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Barragem romana da qual resta um muro rectilíneo com cerca de 40m e respectivos contrafortes espaçados entre si de 3m. A represa permitia armazenar cerca de 2100m3 de água proveniente do Barranco da Fornalha e a sua albufeira atingiria os 90m de comprimento. Esta barragem está relacionada com uma villa romana que existia 100m a norte.",
+        "name": "Barragem do Álamo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.444142,
+          37.387973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Barragem romana bem preservada que faria parte da Villa adjacente no Monte do Muro.",
+        "name": "Barragem do Muro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.016294,
+          39.016016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Barragem romana em 'opus incertum'  bem conservada.",
+        "name": "Barragem do Pego da Moura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.578289,
+          38.155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ruínas da barragem romana romana de Belas que captava a água que alimentava a cidade de Olisipo (Lisboa) através de um aqueduto. Sabemos por Francisco d'Holanda na sua obra \"Da Fábrica que Falece à Cidade de Lisboa\" que o aqueduto já não funcionava no século XVI e a sua função só foi recuperada com a construção do Aqueduto das Águas Livres no seculo XVIII.",
+        "name": "Barragem Romana de Belas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.244557,
+          38.79323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "duas inscrições (http://www.portugalromano.com/site/c-cantius-modestinus-um-egitano-ilustre-idanha-a-velha-castelo-branco/) embutidas na porta lateral da Capela de S. Sebastião em Coito de Midões assinalam a construção de dois templos na Bobadela a expensas de Cantius Modestinus, um é dedicado ao Génio municipium (http://eda-bea.es/pub/record_card_1.php?rec=18960), CIL II 401, e outro a Victoria (http://eda-bea.es/pub/record_card_1.php?rec=18961), CIL II 402.",
+        "name": "Cantius Modestinus Templum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.942245,
+          40.383311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estrutura romana para captação da água que abastecia a cidade de Conímbriga através de um aqueduto.",
+        "name": "Castellum de Alcabideque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.465317,
+          40.106555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortificação romana próximo de Igrejinha (Arraiolos)  eventualmente associada ao controlo de uma via entre Évora e Idanha-a-Velha (?).",
+        "name": "Castellum de Santa Justa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.86973,
+          38.765071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortim romano implantado junto da barragem homónima, próximo da confluência do Ribeiro das Covas na Ribeira de Tera. A ausência de cerâmica de construção e a presença de cerâmicas importadas permitem equacionar uma função militar, eventualmente associada ao controlo de uma via entre Évora e Idanha-a-Velha (?).",
+        "name": "Castellum de Soeiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.859252,
+          38.860214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortificação romana próximo de Igrejinha (Arraiolos)  eventualmente associada ao controlo de uma via entre Évora e Idanha-a-Velha (?).",
+        "name": "Castellum do Mau Vizinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.856133,
+          38.711826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível forte romano de forma octogonal com mais de 2km de perímetro e 38 hectares de área. Esta imensa estrutura às portas de Viseu da qual restam muros e fossos poderá estar relacionada com o controle militar da vias que irradiavam da cidade romana. A tradicional relação com Viriato não passa de uma lenda.",
+        "name": "Cava de Viriato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.910276,
+          40.66849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Villa rural integrando um centro oleiro para produção de ânforas.",
+        "name": "Centro Oleiro da Manta Rota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.524386,
+          37.165907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Complexo industrial - Cetárias.",
+        "name": "Complexo Industrial da Qta. do Lago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.005881,
+          37.025435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Unidade industrial para produção de garum integrada na villa romana de",
+        "name": "Complexo industrial da Qta. do Marim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.81225,
+          37.033434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cetárias junto da Praia de Martinhal (Sagres).  Constitui hoje um dos maiores centros oleiros conhecidos da província romana da Lusitânia. 10 fornos, sendo um para cerâmica de construção e os restantes para produção de ânforas.",
+        "name": "Complexo Industrial do Martinhal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.922149,
+          37.02146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Neste sítio situado na base de Castro Marim poderia existir um embarcdouro na Época Romana, dado que aqui foram recolhidos muitos materiais romanos como ânforas, terra sigillata, paredes finas e cerâmica comum.",
+        "name": "Embarcadouro da Enterreira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.44364,
+          37.213036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ermida de Ns. de Bótoa, 17 km a norte de Badajoz, situa-se junto da travessia do rio Xévora pela via romana proveniente de Olisipo rumo a Emerita; nas imediações situava-se Budua, a estação viária tipo mansio referida no Itinerário XIV de Antonino.",
+        "name": "Ermida de Ns. de Bótoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.916168,
+          39.002142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Complexo industrial para o fabrico de ânforas relacionada com o comércio do estuário do Sado.",
+        "name": "Fábrica de Ânforas da Herdade do Pinheiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.715039,
+          38.480004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Complexo industrial para o fabrico de ânforas destinadas ao comércio por via fluvial e marítima do estuário do Sado com origem numa feitoria Fenícia fundada no século VII-VI a.C.",
+        "name": "Fábrica de Ânforas de Abul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.681654,
+          38.428306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ruínas de uma fábrica de salga de peixe na Praia do Creiro em Setúbal.",
+        "name": "Fábrica de Salga do Creiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.976753,
+          38.481496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Inscrição rupestre Laneane Tang(inus?) f(ecit?) por cima da chamda «Fonte da Tigela».",
+        "name": "Fonte da Tigela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.860694,
+          40.412389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Santuário rupestre dedicado a divindades indígenas. A via romana para Chaves ou Itinerário XVII de Antonino marginava o santuário.",
+        "name": "Fonte do Ídolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.421929,
+          41.548614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Forno de cerâmica da época romana no lugar da Ponte, Rua de Nogueira, EM1244.",
+        "name": "Forno de Louredo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.812212,
+          41.249749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Forno cerâmico bastante bem preservado localizado junto da aldeia do Eixo (Aveiro).",
+        "name": "Forno do Eixo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.568915,
+          40.635584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortim romano implantado no Monte da Chaminé.",
+        "name": "Fortim da Chaminé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.934181,
+          38.637553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortificação romana eventualmente relacionada com a via romana que ligava Salacia a Pace Iulia, ou seja entre Alcácer do Sal e Beja.",
+        "name": "Fortim de Casa Branca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.10819,
+          38.15411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fortim romano implantado num esporão sobranceiro à Ribeira do Lucefécit conhecido como Outeiro dos Castelinhos do Rosário controlando a travessia da ribeira de Lucefecit neste ponto. Poderá estar associada a uma via romana N-S que seguia para o Rosário e Alandroal (junto da Villa de Vilares) servindo a intensa exploração mineira da região.",
+        "name": "Fortim do Outeiro dos Castelinhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.34666,
+          38.596585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Igreja visigótica que sucedeu a um habitat romano localizada na freguesia de Famalicão na Nazaré. Servia de barracão de uma quinta até que finalmente a sua importância foi reconhecida e hoje está a ser profundamente estudada e valorizada. Na época romana esta zona formava um istmo entre o mar e a Lagoa da Pederneira.",
+        "name": "Igreja de S. Gião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.089498,
+          39.563034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável villa romana junto da Igreja de S. João dos Azinhais dado que aqui apareceram duas aras, uma funerária e outra votiva dedicada a Júpiter.",
+        "name": "Igreja de S. João dos Azinhais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.261401,
+          38.273504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A Igreja de S. Pedro fundada no século X integra alguns materiais romanos nas suas paredes (silhares almofadados). No nártex está uma ara e base de coluna; Um cipo romano está integrado num murete no exterior; Por aqui passaria uma via romana proveniente  da Bobadela em direcção ao rio Alva.",
+        "name": "Igreja de S. Pedro de Lourosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9318,
+          40.317455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A igreja actual assenta sobre um antigo templo visigótico do qual restam alguns  poucos vestigíos como pilastras, colunas e capitéis. Por aqui passaria a via romana entre Évora e Serpa.",
+        "name": "Igreja de Vera Cruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.680727,
+          38.229394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Inscrição num penedo situado numa encruzilhada de velhos acaminhos e interpretada como marco territorial relacionado com a exploração das Minas do Teixo na Serra do Marão. A leitura da inscrição como Castro Oresbi, ou seja \"O Castro de Oresbi\" ainda hoje bem visível foi recentemente revista (2916) para Est Castram Santi Oresbi, ou seja «É propriedade de Santo Oresbio» remetendo para um contexto alto-medieval.",
+        "name": "Inscrição Castra Oresbi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.921318,
+          41.223773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estela possivelmente do ano 23 a.C. recolhida no interior da Igreja de Argomil (Pomares, Pinhel) com a epígrafe «IMP / CEASAR / DIVI F / AVGVSTV / COS XI / IMP VIII», «Ao imperador César Augusto, filho do Divino, Cônsul pela décima primeira vez e Imperador pela oitava vez». Interpretado como marco territorial militar por Jorge de Alarcão. (ver foto (http://viasromanas.pt/img/estela_argomil.jpg)).",
+        "name": "Inscrição de Argomil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.173039,
+          40.615822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Inscrição votiva num penedo ofertada pelos povos Veaminicori e Patravioi às divindades protectoras dos Magareaicoi, talvez habitando o castro do Outeiro da Maga, e dos Caelobrici que poderiam habitar o Castro de Cela, podendo este povoado corresponder a Caelobriga que segundo Ptolomeu integrava o território dos Coilarni.",
+        "name": "Inscrição de Lamas de Moledo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.909068,
+          40.830801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Inscrição embutida num muro de uma casa na Rua Principal indicando a edificação de uma ponte em honra do imperador Tito: Imp. Tito. VIII. Co(n)s / [p]ontem aedificavit / Severus Vituli f.»; Esta inscrição é muito importante porque poderá ser uma referência a uma ponte sobre o rio Mondego neste local; A placa deve ser proveniente do vicus da Cumieira, onde a tradição localiza a antiga «Cidade de Nabril».",
+        "name": "Inscrição de Póvoa de Midões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.975239,
+          40.392513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Inscrição rupestre num rochedo do sítio conhecido por Volta, lugar de Pindelo (Nespereira, Cinfães); a interpretação do texto suscita ainda muitas dúvidas, mas as possíveis referências aos povos PAESURI e SEARAS neste local levanta a hipótese de que aqui seria a divisão territorial entre estes dois povos, ficando os Paesuri a norte, com possível sede em Cárquere ou no Castro de Sampaio e os Searas a sul, confrontando com o territorium dos Interannienses com capital em Vissaium (Viseu). Próximo daqui passaria uma via romana proveniente da travessia do rio Douro junto do Castro de Sampaio.",
+        "name": "Inscrição do Pindelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.155756,
+          41.011778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ara votiva aos Lares Viários no Museu Etnográfico e Rural de Agrochão, clara referência à passagem da Via XVII (index.html#chavesastorga) nas proximidades da aldeia.",
+        "name": "Lares Viales de Agrochão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.030638,
+          41.692599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável nome romano das Ilhas das Berlengas segundo a Geografia de Ptolomeu. Aqui deveria existir um porto romano em articulação a com o porto e fábrica de salga de peixe de Peniche que na época era também uma ilha.",
+        "name": "Londobris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.505902,
+          39.414426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Exploração mineira romana junto do rio Chança. Poderia existir uma via proveniente de Paymogo que cruzava o rio Chança neste local e seguia pelo Serro do Marco até Santa Luzia, onde entronca na via que ligava a Mina de São Domingos a Messangil.",
+        "name": "Mina da Volta Falsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4357,
+          37.701455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante exploração aurífera romana nas proximidades da variante da Via XVII que passa na aldeia de Sapelos.",
+        "name": "Mina do Poço das Freitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.597065,
+          41.737724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vasta colecção de materiais romanos recolhidos na região de Olhão.",
+        "name": "Museu Paroquial de Moncarapacho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.788925,
+          37.0843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Oficina para produção de salgas e molhos de peixe situada na Travessa de Frei Gaspar em Setúbal, antiga Caetobriga, vicus portuário sobranceiro ao estuário do rio Sado.",
+        "name": "Oficina de Salga de Caetobriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.890336,
+          38.523289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Complexo industrial romano para o fabrico de ânforas relacionada com o comércio do estuário do Tejo.",
+        "name": "Olaria Romana da Qta. do Rouxinol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.14481,
+          38.645424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Inscrição gravada num penedo no Lugar da \"Bouça da Fervença\" junto da Citânia de Sanfins que identifica os habitantes da citânia – os Fidueneae. no Lugar da \"Bouça da Fervença\".<br>Inscrição: Numidi / Cosuneae / Fiduenearum / hic / l (ibentes) (?) / f (idem) s (olverunt) ou Cosuneae / Numidi / Fiduenearum...<br>Leitura: Aqui se cumpriram de boa vontade as promessas a Cosunea divindade dos Fidueneae. (Silva A.C.F., 1980)",
+        "name": "Penedo das Ninfas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.383439,
+          41.327929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Porta norte da antiga cerca romana da cidade de Évora.",
+        "name": "Porta de Dona Isabel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.909206,
+          38.572921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Diversos vestígios de um complexo industrial romanos para preparados de peixe com as respectivas cetárias ainda visíveis no designado Núcleo Arqueológico da Rua dos Correeiros (http://ind.millenniumbcp.pt/pt/Institucional/fundacao/Pages/fundacao_NARC.aspx), localizado na zona portuária da antiga Olisipo. Registou-se também uma habitação com termas e um troço de via.",
+        "name": "Rua dos Correeiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.137082,
+          38.709767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável templo romano sob a arruinada Igreja de S. Pedro de Almuro; na sua construção foram reutilizados imensos materiais da época romana.",
+        "name": "S. Pedro de Almuro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.486216,
+          38.997739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Santuário rupestre proto-histórico em época romana republicana. Escadas e os pavimentos talhados na rocha são os elementos visíveis do antigo santuário assente num esporão rochoso.",
+        "name": "Santuário da Rocha da Mina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.476305,
+          38.662557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Materiais romanos e visigóticos reaproveitados na Ermida da Sra. da Rocha sobranceira ao mar, em particular as colunas romanas reutilizados na entrada.",
+        "name": "Santuário da Sra. da Rocha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.38646,
+          37.095942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Sítio romano com provável origem no culto à divindade indígena Igaedus a partir de uma ara votiva aqui achada (http://eda-bea.es/pub/record_card_1.php?rec=20130). Local de culto dos Igaeditanos com capital em Idanha-a-Velha. Por aqui poderia passar a via rumo a Castelo Branco, provável capital dos Taporos.",
+        "name": "Santuário da Sra. do Almortão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.173394,
+          39.907064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A Ermida da Ns. Da Granja (Aldeia de Sta. Margarida, Proença-a-Velha) assenta sobre um santuário romano. Por aqui passaria uma via romana proveniente talvez do Fundão rumo a Igaedis em Idanha-a-Velha. Fragmento de um possível miliário fincado no exterior.",
+        "name": "Santuário da Sra. do Granja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.256553,
+          40.055278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Santuário romano situado na herdade de S. Miguel da Mota em Terena (Alandroal). Pouco resta do antigo santuário dedicado ao deus Endovélico, mas o local merece uma visita.",
+        "name": "Santuário de Endovélico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.443036,
+          38.643282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Imponentes vestígios de um templo romano junto da Capela da Ns. das Cabeças em Orjais. A escavação revelou a existência de um podium de planta rectangular onde assentaria o antigo templo, estrutura constituída por grandes silhares de faces perfeitamente regularizadas, apresentando-se almofadadas ao longo da fachada principal. Duas aras votivas dedicadas à divindade indígena Bande Brialeacus achadas nas proximidades, divindade que surge também próximo da Guarda. O Castro pré-romano situa-se no topo do monte.",
+        "name": "Santuário de Orjais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.417884,
+          40.339987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Santuário romano junto da foz do rio de Colares num pequeno outeiro sobranceiro à Praia das Maçãs (Colares, Sintra).",
+        "name": "Santuário do Alto da Vigia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.472933,
+          38.824219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Santuário Luso- romano inserido num povoado fortificado situado no topo de um cabeço em  Pousafoles do Bispo. Aqui existe uma rara inscrição rupestre na chamada língua «lusitana» referindo o sacrifício de animais a divindades indígenas entre elas Trebaruna e Reve.",
+        "name": "Santuário do Cabeço de Fráguas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.222411,
+          40.424386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Várias inscrições rupestres relacionadas com o Castro luso-romano da Mogueira no alto do monte (S. martinho de Mouros).",
+        "name": "Santuário rupestre da Mogueira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.893611,
+          41.1115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Impressionante santuário rupestre bem preservado junto da aldeia do Assento em Vale de Nogueiras; várias inscrições em latim e uma em grego. São ainda visíveis os sulcos e entalhes associados à construção de templos dedicados a Serápis e a Ísis.",
+        "name": "Santuário rupestre de Panoias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.682046,
+          41.283478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Santuário rupestre conhecido por Pias de Mouros em Argeriz (Valpaços), relacionado com o Castro de Ribas que lhe fica proximo.",
+        "name": "Santuário rupestre Pias dos Mouros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.390694,
+          41.590778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Imponente estrutura hidráulica romana situada a sul da cidade de Estremoz, ao km 145  da EN4 que destruiu parte da estrutura; um canal subterrâneo conduzia a água para o vicus situada na zona a sul da Ermida de Nossa Senhora dos Mártires.",
+        "name": "Tanque dos Mouros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.580045,
+          38.833619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Termas romanas hoje integradas no moderno complexo termal e que estaria situada na berma da estrada que ligava o povoado do Monte Mozinho em Penafiel a Entre-os-Rios.",
+        "name": "Termas Romanas de S. Vicente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.294497,
+          41.117929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco de divisão territorial que está na capela visigótica de S. Pedro de  Balsemão encastrado na parede da fachada. Ver foto (http://viasromanas.pt/img/terminoaugustal_balsemao.jpg)",
+        "name": "Terminus Augustal de Balsemão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.783276,
+          41.107022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada do Término Augustal de de Goujoim no lugar das Lameiras (Qta. das Lameiras) isão territopróximo do Castro de Goujoim. Provavelmente marcaria a divisão territorial entre os povos COILARNI e ARABRIGENSES. Ver foto (http://viasromanas.pt/img/terminoaugustal_goujoim.jpg).",
+        "name": "Terminus Augustal de Goujoim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.639365,
+          41.091814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco de divisão territorial entre os IGAEDITANI, com capital em Idanha-a-Velha e os LANCIENSES. Foi encontrado encastrado na casa paroquial de Peroviseu e entretanto transferido para o novo Museu Arqueológico Municipal José Monteiro no Fundão. Ver foto (http://viasromanas.pt/img/terminoaugustal_peroviseu.jpg)",
+        "name": "Terminus Augustal de Peroviseu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.500156,
+          40.13636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Terminus Augustal encastrado nas traseiras da Igreja Paroquial de Úl em Oliveira de Azeméis. Embora já não  se leia as cidades que delimitava talvez marcasse a divisão territorial entre o território de TALÁBRIGA, junto à travessia do rio Vouga e o de LANGOBRIGA na zona de Fiães, capital dos TURDULI VETERES povo que habitava o que hoje é grosso modo os concelhos de Gaia e Feira.  Ver foto (http://viasromanas.pt/img/terminoaugustal_ul.jpg)",
+        "name": "Terminus Augustal de Úl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.49494,
+          40.81418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco de divisão territorial na Capela de S. Bartolomeu em Guardão, Caramulo, Tondela. Talvez delimitasse a fronteira entre o território da civitas de Talábriga em Cabeço do Vouga e uma das civitas adjacentes com capital em Viseu e na Bobadela.",
+        "name": "Terminus Augustal do Guardão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.165754,
+          40.562906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Inscrição rupestre gravada num penedo isolado no cimo de um cabeço, conhecido por Cavalinho, a norte da povoação de Alhais de Cima, inde se lê o termo FINIS, possivelmente um marco de divisão territorial entre as  civitates dos Interaminienses a sul, com sede em Viseu e dos Coilarni a norte, com sede possivelmente em Cárquere ou Lamego.",
+        "name": "Terminus do Cavalinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.714832,
+          40.875012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Inscrição rupestre do sítio do Marcadouro/Mercadourada junto à aldeia de Britelo (Penela da Beira). Esta inscrição junto de uma calçada que poderia integrar a via romana proveniente de Paredes da Beira rumo a Marialva, passando junto do vicus do Casteidal/Qta. de St. Tirso em Penela da Beira e das minas de ouro de Santo António na Granja rumo a Penedono. A leitura da inscrição é a seguinte: <br>Visancoru(m) / Camali / Concili <br>e foi considerada uma marcação de uma propriedade privada.",
+        "name": "Terminus do Marcadouro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.436814,
+          41.049799
+        ]
+      }
+    }
+  ]
+}

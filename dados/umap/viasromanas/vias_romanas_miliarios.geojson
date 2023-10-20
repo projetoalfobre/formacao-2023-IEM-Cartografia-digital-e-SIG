@@ -1,0 +1,4219 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Conjunto de 7 miliários referentes à milha XIV marcando a entrada no vale do rio Homem.",
+        "name": "7 Miliários da Portela de Sta. Cruz - m.p.XIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.324925,
+          41.68348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois fragmentos de miliários na Rua da Calçada em Segura. A estrada romana proveniente de Mérida passava por aqui depois de atravessar o Tejo na Ponte Romana de Alcantara e o rio Erges na Ponte Romana de Segura. Entrava na povoação pela Porta Sul da antiga Vila e logo depois aparece o 1º fragmento de miliário numa esquina e pouco mais à frente aparece o 2º fragmento também fincado ao chão. Poderá ser um único miliário partido em dois. A via continuava para norte ao longo da Rua da Calçada.",
+        "name": "Miliário 1 de Segura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.978565,
+          39.826495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo tomabdo junto da ribeira de Monte Novo e relacionado com a estação viária da Fonte da Cruz, 500 m para poente.",
+        "name": "Miliário 2 da Fonte da Cruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.894,
+          39.228556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ver descrição em Miliário 1 de Segura.",
+        "name": "Miliário 2 de Segura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.978533,
+          39.827197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Nas obras de demolição da capela de Sta. Luzia apareceram dois miliários: o miliário a Macrino (http://viasromanas.pt/vr/marcodesavalpacos.jpg) que hoje está no terreiro de uma casa da aldeia junto da EN213 e um outro nas fundações da mesma.",
+        "name": "Miliário a Macrino em Sá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.344374,
+          41.671566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Probo que apareceu na Alcáçova de Santarém, hoje ocupada pelo Jardim das Portas do Sol. Ver foto (http://viasromanas.pt/vr/marcodesantarem.jpg). O marcador indica os vestígios existentes junto do jardim.",
+        "name": "Miliário da Alcáçova de Santarém"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.676864,
+          39.233785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário no Monte da Alfarrobeira, junto da travessia da Ribeira da Viscossa. Por este local passava a via romana proveniente de Lisboa rumo a Évora que integrava o Itinerário XII de Antonino.",
+        "name": "Miliário da Alfarrobeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.985171,
+          38.534958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário identificado em 2015 numa casa do lugar da Barca (Maia) indicando 27  mihas a Braga. Terá sido deslocado da via romana Bracara - Cale que nesta zona segue aproximadamente a EN14.",
+        "name": "Miliário da Barca m.p.XXVII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.614834,
+          41.245601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "André Carneiro achou um fragmento de um miliário anepígrafo que estava no caminho de acesso ao monte ao km 41 da EN254, mas entretanto está desaparecido(!).",
+        "name": "Miliário da Barrosinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.774351,
+          38.626825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário na Bouça do Castro em Atiães.",
+        "name": "Miliário da Bouça do Castro, Atiães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.500871,
+          41.626254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fuste de um miliário epigrafado que estava junto do caminho entre a Qta. do Pomarinho e o Monte das Flores que deriva da EN380, entretanto transferido para o Convento dos Remédios. Também designado por Miliário do Monte das Flores. Um outro fragmento deste miliário encontrou-se a poucos metros.",
+        "name": "Miliário da Cabida II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.974811,
+          38.524771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário proveniente da Torre ou Solar da Camoeira inserido na Via Évora-Beja e indicando a milha XI. Está hoje à entrada dos serviços administrativos da EP, antiga JAE, em Évora.",
+        "name": "Miliário da Camoeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.909821,
+          38.555425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Local original do Miliário a Maximino e Máximo da milha XI entretanto transladado para a entrada principal dos serviços administrativos da antiga JAE em Évora.  Integrava a Via Évora - Beja.",
+        "name": "Miliário da Camoeira  XI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.965178,
+          38.435661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Galieno encontrado in situ no lugar da Carreirinha. Este miliário faz parte de a via que ligava a civitas de Tongobriga na aldeia do Freixo em Marco de Canaveses ao rio Douro, troço que provavelmente pertenceria ao Itinerário entre Braga e Mérida. O marcador indica a sua localização actual no Museu Municipal de Baião.",
+        "name": "Miliário da Carreirinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.032253,
+          41.164145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco anepígrafo da Via Lisboa-Mérida no Monte da Coreia. Indicava talvez a milha 56 desde Santarém; ver foto (http://viasromanas.pt/vr/marco_monte_da_coreia.jpg).",
+        "name": "Miliário da Coreia m.p.LVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.836124,
+          39.229001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragoso de Lima identificou um miliário em mármore «na extrema da Coroada com o Motum» que poderá corresponder ao Cabeço Redondo junto ao Mte. Metum, fazendo também referência a mais 4 marcos iguais «entre a Coroada e o Monte de José Navas»; estes marcos indiciam a passagem da via romana cruzando aqui a ribeira de Toutelga.",
+        "name": "Miliário da Coroada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.288271,
+          38.073999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Licínio implantado junto da estrada, a 100 m do Cruzeiro de S. João do Campo.",
+        "name": "Miliário da Costa do Cruzeiro - m.p.XXVII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.198761,
+          41.747498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No caminho velho entre Gimonde e Babe, num sitio conhecido por Cruz do Marrão apareceu um miliário a Caro, actualmente no Museu Abade de Baçal em Bragança.",
+        "name": "Miliário da Cruz do Marrão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.682878,
+          41.803123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário ilegível junto da necrópole da Ermida da Ns. do Carmo, actualmente em risco de total ruína. Poderia integrar uma via entre Arronches e o Monte das Esquilas em Monforte.",
+        "name": "Miliário da Ermida da Ns. do Carmo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.300427,
+          39.077408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo próximo do marco geodésico/moínho da Esparragosa, 50 m para poente. Pertence à VIA XII Braga-Mérida, mesmo à entrada de Évora.",
+        "name": "Miliário da Esparragosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.934584,
+          38.553551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada de um miliário dedicado a Valentino I e Valente que apareceu junto da Ponte da Fonte dos Cântaros na Herdade da Diabrória, a sul de S. Brissos (e do aeroporto). Este miliário pertencia à Via Alcácer do Sal - Beja, mas não se conhece o seu paradeiro.",
+        "name": "Miliário da Fonte dos Cântaros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.943379,
+          38.053333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Hipotética localização do miliário dedicado a Caracala que apareceu na Herdade dos Campos a sul de Barbacena, actualmente desaparecido.",
+        "name": "Miliário da Herdade dos Campos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.279506,
+          38.941342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Em 1784  na Horta do Agacha, apareceu  um miliário dedicado a Crispo, Licínio Júnior e Constantino II (IRCP 675), assinalando a passagem da Via XII rumo a Mérida, seguindo portanto a sul de Estremoz e junto do vicus junto da Ermida de Nossa Senhora dos Mártires.",
+        "name": "Miliário da Horta do Agacha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.583674,
+          38.828703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Constâncio I aparecido no Campo do Saganho e hoje colocado no local da milha 26 nas Várzeas de Covide onde surge o topónimo Jeirinha em referência à via.",
+        "name": "Miliário da Jeirinha de Covide m.p.XXVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.204008,
+          41.739261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Mário Saa recolheu na Lagoa Grande (terrenos do Casal da Pucariça) um miliário a Constantino Magno (http://viasromanas.pt/vr/marcodalagoagrande.jpg) que está hoje em exposição na Fundação Paes Teles no Ervedal (Avis). Deveria assinalar a milha 25.",
+        "name": "Miliário da Lagoa Grande m.p.XXV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.324822,
+          39.35737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Referência de Mário Saa a dois miliários tombados junto da via entre o Monte da Coreia e o Monte de S. Marcos. Indicavam talvez a milha 55.",
+        "name": "Miliário da Lameira, m.p.LV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.848318,
+          39.230409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Nas proximidades do Lugar dos Marcos (Grada) no sitio da Leira Grande apareceu um possível miliário eventualmente ligado a uma via romana que seguia para o Bussaco por Poço, Alto do Loisal e Sula. No entanto, este marco é dado como proveniente da Vacariça.",
+        "name": "Miliário da Leira Grande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.427699,
+          40.396017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário na Quinta da Manizola em Évora; desconhece-se o local de proveniência deste marco.",
+        "name": "Miliário da Manizola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.930141,
+          38.590112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo junto da Herdade da Mitra em Valverde, a 150 m do desvio para a Anta Grande do Zambujeiro. A via seguia o caminho de terra que passa junto do monumento comemorativo chamado \"Pedra da Pinha\".",
+        "name": "Miliário da Mitra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.012808,
+          38.535064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Maximino e Máximo junto da Igreja da Ns. da Assunção, a cerca de 200 m da villa romana de Ns. de Tourega. A 120 m deste local existe o topónimo Porto da Calçadinha, referência à calçada romana que por aqui passava.",
+        "name": "Miliário da Ns. de Tourega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.026364,
+          38.501475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fuste de miliário anepígrafo na margem esquerda com a respectiva base no leito do rio; assinalava a milha XIII da via romana de Ebora a Pax Iulia.",
+        "name": "Miliário da Ovelheira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.973332,
+          38.407718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário da Via XVI talvez proveniente da Igreja de Santiago de Antas que está na Qta. da Devesa em Vila Nova de Famalicão. Recentemente convertida num parque, o miliário está no exterior cravado num penedo.",
+        "name": "Miliário da Qta. da Devesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.507708,
+          41.409888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Constantino Magno que apareceu na Quinta da Lagoa, a sul da aldeia de Faia, actualmente no Museu da Casa do Miradouro em Viseu (CIL II 4642). Relacionado com a travessia do rio Távora junto da Ponte do Pontigo.",
+        "name": "Miliário da Qta. da Lagoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.548406,
+          40.943582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário proveniente do lugar da Deveza Alta em Santiago de Antas, posteriormente deslocado para o portão da Qta. de Pereira em Esmeriz, mas que entretanto desapareceu.",
+        "name": "Miliário da Qta. da Pereira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.511204,
+          41.37894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Cláudio indicando a milha VII ao rio Mondego que apareceu deslocado na Quinta da Ponte em Espinho (Mangualde).",
+        "name": "Miliário da Qta. da Ponte, m.p.VII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.789124,
+          40.559139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário encastrado numa parede da Qta. do Pomar em Casal, Silvã de Cima. Pertenceria à via romana entre Mangualde e Aguiar da Beira.",
+        "name": "Miliário da Qta. do Pomar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.674056,
+          40.733017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário talvez proveniente da Igreja de Santiago de Antas no Itinerário Via XVI Braga-Lisboa que está junto da capela da Qta. do Vinhal em Vila Nova de Famalicão.",
+        "name": "Miliário da Qta. do Vinhal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.527252,
+          41.412486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cruzeiro integrado num muro da Qta. da Cruz em Mangualde que reutiliza um possivel miliário. Pertenceria à via N-S proveniente de Penalva do Castelo rumo a Mangualde com continuação para a Bobadela.",
+        "name": "Miliário da Quinta da Cruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.758665,
+          40.619176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Adriano da milha XX pertencente à VIA XIX - Braga-Tui-Astorga deslocado para o interior da Quinta do Antepaço.",
+        "name": "Miliário da Quinta do Antepaço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.591345,
+          41.772081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Junto da necrópole romana da Qta. do Bravo apareceu um miliário a Adriano (http://eda-bea.es/pub/record_card_2.php?rec=21858) (CIL II 4633) actualmente no Museu do Carmo (http://www.museuarqueologicodocarmo.pt/) em Lisboa.",
+        "name": "Miliário da Quinta do Bravo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.99621,
+          39.049407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de miliário na Rua do Forno em Póvoa de Espinho, Mangualde.",
+        "name": "Miliário da Rua do Forno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.787187,
+          40.567917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário reutilizado nas alminhas da capela de Sra. de Cervães; depois de atravessar a ribeira de Cassurães segue pela Rua da Calçada,  chamado \"Caminho Velho\", antiga via romana, <br>seguindo depois para a Qta. de Sta. Marinha, onde há habitat e restos da calçada, indo fazer a travessia do Mondego junto à Qta. do Moínho.",
+        "name": "Miliário da Sra. de Cervães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.698779,
+          40.584311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada do Miliário da Torre dos Namorados no Museu do Fundão (http://viasromanas.pt/vr/marcodatorredosnamorados.jpg).",
+        "name": "Miliário da Torre dos Namorados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.307326,
+          40.138505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário proveniente da zona da Ponte do Arco, hoje submersa pela barragem da Venda Nova; esteve muitos anos nos jardins do bairro da central da EDP e hoje está na entrada da aldeia da Venda Nova, num jardim junto da EN103.",
+        "name": "Miliário da Venda Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.960489,
+          41.673862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco Miliário da Via XVII com cerca de 1,76 m de altura, sustentando uma varanda de uma casa em Vila Nova da Raínha. Não apresenta campo epigráfico.",
+        "name": "Miliário da Vila Nova da Raínha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.105498,
+          41.679424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário ilegível proveniente da Igreja da Ns. de Febres em Adães, hoje depositado na Casa Paroquial de Úl.",
+        "name": "Miliário de Adães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.495149,
+          40.814109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada de dois fragmentos de um miliário (http://viasromanas.pt/vr/marcodeagrochao.jpg) na chamada Estrada Velha (http://arqueologia.igespar.pt/POC/?sid=sitios.resultados&subsid=2133421) que passa a norte da povoação pelo sopé do Cabeço do Marco e do Alto dos Malhões, certamamente referências toponómicas a este marco pelo que a milha XXXV a Chaves seria vencida neste local.",
+        "name": "Miliário de Agrochão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.037825,
+          41.69842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário deitado à entrada de um casa no início da Travessa da Paz em Água Levada.",
+        "name": "Miliário de Água Levada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.801249,
+          40.580746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário na esquina do Monte de Alcarapinha; indicava possivelmente 46 milhas a Évora.",
+        "name": "Miliário de Alcarapinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.309585,
+          38.899656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ramalheiras, local aproximado onde apareceu o miliário de Alfeizerão.",
+        "name": "Miliário de Alfeizerão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.093798,
+          39.499685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário encontrado em 2005 numa casa particular na Rua de São Brás no centro de Alter do Chão onde ainda se encontra. A Via Braga-Mérida tinha aqui uma estação, a mansio de Abelterio, existindo também ainda vestígios de uma importante villa em Ferragial d'El Rei. O miliário é dedicado a Constâncio Cloro e deveria indicar a milha 66 que era vencida aqui; mais info aqui:  http://www.uc.pt/fluc/iarq/pdfs/Pdfs_FE/FE_83_2006",
+        "name": "Miliário de Alter do Chão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.662347,
+          39.201071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Por volta de 1630 Coelho Gasco menciona um miliário a Constâncio Cloro (http://eda-bea.es/pub/record_card_2.php?rec=21857) indicando a milha XXIII que apareceu na Travessa do Açougue Velho (http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=54914), hoje desaparecido (CIL II 306, 4632) atestando a passagem da Via Braga - Lisboa nesta povoação; no entanto, as 23 milhas indicadas excedem em muito a distância entre Alverca e Lisboa que é aproximadamente de 18 milhas, sendo por isso provável um erro na leitura de Gasco, trocando o numeral «XVIII» por «XXIII» o que é bastante plausível.",
+        "name": "Miliário de Alverca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.040062,
+          38.899148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Apareceu no lugar da Boavista em Anais reutilizado como coluna de uma casa, mas sem paradeiro conhecido (?).",
+        "name": "Miliário de Anais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.520498,
+          41.690579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximadas de um miliário a 1750 m do Casal de Aranhas de Cima como marco divisório do concelho de Abrantes.",
+        "name": "Miliário de Aranhas de Cima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.249045,
+          39.292508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo com cerca de 1,82 m de altura e 43 cm de diâmetro servindo de base para uma mesa num quintal de uma casa da povoação.",
+        "name": "Miliário de Argana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.080169,
+          41.695497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Constante I da milha XXIX no lugar de Barreiros em S. Martinho de Coura, num largo por detrás da Igreja.",
+        "name": "Miliário de Barreiros m.p.XXIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.651834,
+          41.878214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O único miliário até agora encontrado no Algarve está em exposição no Museu Municipal de Olhão e é proveniente do lugar de Bias do Sul a nascente de Olhão. Pertencia ao troço da VIA XXI entre Balsa (Luz de Tavira) a Ossonoba (Faro) indicado a milha X contadas a partir de Faro, provalvelmente na fronteira entre as duas civitates.",
+        "name": "Miliário de Bias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.841011,
+          37.02592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário da milha XXII (http://viasromanas.pt/vr/marcodaboucamirandela.jpg) a Chaves que hoje está junto ao Café Estrela do Norte na Ferradosa, mas que seria proveniente de Bouça.",
+        "name": "Miliário de Bouça em Ferradosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192657,
+          41.644289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Maximino e Máximo.",
+        "name": "Miliário de Cabaninhas - m.p.XXIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.235305,
+          41.736292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No Monte dos Cabeceiros existe um miliário anepígrafo da Via Lisboa-Mérida talvez assinalando a milha 48.",
+        "name": "Miliário de Cabeceiros m.p. XLVIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.965338,
+          39.239811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário da VIA XVI Braga-Lisboa na Quinta de St. Catarina em Cabeçudos (Quinta do Souto), Vila Nova de Famalicão. Este miliário apareceu a 1/4 de légua da quinta ou uma milha.",
+        "name": "Miliário de Cabeçudos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.511528,
+          41.36485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo da Via XVII à entrada da aldeia de Calvão,  a cerca de 7 milhas de Chaves.",
+        "name": "Miliário de Calvão m.p.VII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.54369,
+          41.788952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No sítio da Portela de Câmbua, local de passagem da via romana Braga-Tui, apareceu um miliário (http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=3549) indicando 27 milhas a Braga tendo sido partido em 4 esteios e depois perdido. A via romana passava seguramente neste local de passagem natural do vale superior do Labruja para o vale do rio Coura, na linha divisória entre os concelhos de Ponte de Lima e Paredes de Coura.",
+        "name": "Miliário de Câmbua m.p. XXVII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.616901,
+          41.849604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco miliário anepígrafo semi-enterrado e ainda provavelmente in situ que assinalava a passagem da via Salacia - Ebora dos Itinerários XII e XXI de Antonino. Está a sete milhas de Alcácer do Sal pelo que seria essa a distância indicada.",
+        "name": "Miliário de Carvalhos de Baixo m.p.VII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.415478,
+          38.420682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário da Via XVII dedicado a Valeriano e Galieno que apareceu junto da Fuente del Robledo (Castrocalbón).",
+        "name": "Miliário de Castrocalbón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.003232,
+          42.167592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possivel miliário recentemente descoberto no adro da Capela de São Pedro de Cepões e poderia marcar a milha XXIII da via XIX Braga-Tui-Astorga que passava muito próximo daqui ao longo da margem esquerda do Rio Labruja.",
+        "name": "Miliário de Cepões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.589253,
+          41.815021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Tito e Domiciano indicando 18 milhas; <br>também seria daqui o miliário a Constâncio que hoje está na CM de Terras de Bouro",
+        "name": "Miliário de Chã de Vilar - m.p.XVIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2958,
+          41.703961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada do local de achamento do miliário dedicado a Licínio Pai no sítio de Chãos em Santa Luzia (Mangualde), indicando a milha XI (armazenado no Museu Grão Vasco com o nr. 51).",
+        "name": "Miliário de Chãos m.p.XI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.781291,
+          40.583335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário que apareceu a servir de marco divisório delimitando os montes da Chilra e dos Alpendres, actualmente numa casa particular em Serpa. Poderia assinalar a via entre Serpa e Pias com 10 milhas pelo que este miliário indicava VII milhas a Serpa.",
+        "name": "Miliário de Chilra m.p. VII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.483311,
+          37.988425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Cláudio indicando 38 milhas a Braga (42 a Chaves) que apareceu, segundo Martins Capela, nas proximidades da travessia do rio Rabagão na base do Castro de Codeçoso, tendo sido posteriormente destruído para fazer postes pelos habitantes de Pondras. Um dos fragmentos poderá ter sido reutilizado no forno comunitário da aldeia de sanfins.",
+        "name": "Miliário de Codeçoso - Milha 38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.953596,
+          41.690147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização original do miiliário de Corte do Alho (Vale de Vargo, Pias) que hoje está no Museu de Moura. Trata-se de um miliário a Adriano indicando VIII milhas possivelmente contadas a partir de S. Pedro da Adiça, presumivelmente Arucci.",
+        "name": "Miliário de Corte do Alho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.410834,
+          38.026512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a servir de pilar de uma varanda de uma casa da aldeia; ver foto (http://viasromanas.pt/vr/marco_de_cortico.jpg). Teria sido deslocado da via romana Braga-Chaves que passa  a cerca de 600 m a sul.",
+        "name": "Miliário de Cortiço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.703603,
+          41.772839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Pequeno fragmento de um miliário convertido em bebedouro no jardim de uma casa nova na saída para Arcos. A via romana passa a pouco metros a norte.",
+        "name": "Miliário de Cortiço 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.704491,
+          41.767247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Décio na Rua da Carreira a servir de pilar de um alpendre de uma casa,  mas proveniente da milha XXVI em Várzeas.",
+        "name": "Miliário de Covide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.215602,
+          41.737486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo da Via XVII como suporte de varanda na aldeia. Teria sido deslocado do seu local original na travessia do rio Rabagão em «Porto Carros», local hoje submerso pela albufeira da barragem na base do Castro do Codeçoso.",
+        "name": "Miliário de Currais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.939894,
+          41.706616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável miliário anepígrafo (http://www.faroldanossaterra.net/2015/07/16/coleccao-arqueologica-do-museu-municipal-de-carregal-do-sal-enriquecida-com-oferta-de-um-marco-miliario-anepigrafo/) recolhido numa casa de Vila da Cal em Currelos; teria sido encontrado no caminho que passa junta da casa que seria assim via romana. A cerca de 500 m para sul fica o sítio do Passal.",
+        "name": "Miliário de Currelos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.997129,
+          40.422445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de miliário suportando uma varanda.",
+        "name": "Miliário de Ervedosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.078777,
+          41.710659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No lugar de Espinheiros (Labruja) apareceu um miliário (http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=162597) dedicado a Constantino Magno indicando 26 milhas a Braga, suportando o alpendre de uma casa rural e hoje na chamada «Colecção da JAE» (https://web.archive.org/web/20131205090514/http://viasromanas.blog.pt/2011/11/5180731/) em Viana do Castelo. Este miliário é crucial para o acerto das distâncias de Ponte de Lima a Valença.",
+        "name": "Miliário de Espinheiro m.p.XXVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.601967,
+          41.843034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Perto de Videferre. Reaproveitado numa construção.",
+        "name": "Miliário de Espiño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.561658,
+          41.858568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Na Igreja Matriz de Sta. Maria de Evoramonte, antiga N. Sra. da Conceição, existe um miliário dedicado a Constantino que foi reaproveitado para pia baptismal. Provável localização da estação DIPO do itinerário Lisboa- Mérida ou VIA XII.",
+        "name": "Miliário de Evoramonte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.716457,
+          38.77033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco miliário num muro de uma casa em Lameira do Monte. Localização aproximada.",
+        "name": "Miliário de Fagilde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.806173,
+          40.625865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Base de miliário anepígrafo que esteve até aos anos 20 junto da Igreja de Faia, passando posteriormente para o jardim de uma casa particular da aldeia. Relacionado com a travessia do rio Távora junto da Ponte do Pontigo.",
+        "name": "Miliário de Faia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.544202,
+          40.949387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo no quintal da «Estalagem» na aldeia de Fataúnços.",
+        "name": "Miliário de Fataúnços"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.078295,
+          40.727272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário achado no sítio da Muradelha, provavelmente o vicus Vagornica.",
+        "name": "Miliário de Fiães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.275642,
+          41.735002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário in situ assinalando a passagem da via romana entre Évora e Beja.",
+        "name": "Miliário de Fontalva 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.959436,
+          38.494677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de miliário da mesma milha que o Fontalva 2.",
+        "name": "Miliário de Fontalva 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.953131,
+          38.494667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de miliário no leito do rio Xarrama.",
+        "name": "Miliário de Fontalva 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.96176,
+          38.481393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada de um miliário dedicado a Magnêncio que pertencia à VIA XIX, mas que foi deslocado para aqui para suporte dum alpendre de uma casa rural.",
+        "name": "Miliário de Fonte do Olho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.649753,
+          41.887253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No adro da capela de S. Cláudio apareceu um miliário a Maximiano e uma inscrição honorífica a Cláudio (http://eda-bea.es/pub/record_card_2.php?rec=12555) embutida na parede (CIL II 6217), actualmente no Museu Abade de Baçal em Bragança.",
+        "name": "Miliário de Formil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.829085,
+          41.794925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Apareceu reutilizado numa obra da da Quinta de Santo António em 1907.",
+        "name": "Miliário de Frielas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.144463,
+          38.825943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Assinalava uma via por San Cristóbal de Aliste e San Vitero, onde apareceu outro miliário.",
+        "name": "Miliário de Gallegos del Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.406752,
+          41.827296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "name": "Miliário de Ganade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.78804,
+          42.02795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "name": "Miliário de Lamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7568,
+          42.043967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fuste de miliário ilegível que apareeu a cerca de 200 m a nascente do Monte Lindim; assinalava a milha XV da via romana de Ebora a Pax Iulia.",
+        "name": "Miliário de Lindim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.98926,
+          38.382299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "name": "Miliário de Lucenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.621469,
+          41.952565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo em calcário encontrado em 1876 no lugar de Martinelo (na época objecto de culto a S. Silvestre e hoje no Museu Arqueológico de Santarém), assinalando uma via romana que ligava Tomar e Conímbriga a Aritium Vetus e Ammaia cruzando o rio Zêzere em Alcamim, junto da Foz do Isna. Localização aproximada.",
+        "name": "Miliário de Martinelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.239829,
+          39.718241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de miliário a servir de pilar ao altar-mor da Ermida de Santa Catarina. A via romana ladeava este  monumento de origem templária rumo ao rio Guadiana.",
+        "name": "Miliário de Monsaraz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.371665,
+          38.444637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Base quadrangular de um possível miliário, encontrada junto da necrópole visigótica de Mouriscas em Fonte do Sapo, a cerca de 200 m do vicus romano. Nó viário articulando as vias rumo ao rio Tejo.",
+        "name": "Miliário de Mouriscas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.10576,
+          39.494722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um miliário encostado a uma casa da aldeia de Nozelos.",
+        "name": "Miliário de Nozelos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.072778,
+          41.645556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável localização original do miliário a Valentiniano I indicando a milha VI, encontrado na \"Bouça do Benefício Paroquial da Antiga Igreja Matriz\" já transformado em cruzeiro que hoje está no Museu Pio XII (http://museupioxii.blogspot.pt).",
+        "name": "Miliário de Oleiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.490488,
+          41.613316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo numa casa derrubada da aldeia. Pertencia a uma via que partindo de Chaves rumava a Sul em direcção ao rio Douro.",
+        "name": "Miliário de Outeiro Jusão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.481625,
+          41.718131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Maximino e Máximo proveniente do lugar da Pala na milha XII da VIA NOVA que passa mais a poente a meia encosta e que está hoje no adro da Igreja Paroquial de Paredes Secas.",
+        "name": "Miliário de Paredes Secas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.331007,
+          41.657429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Nas Serra da Pastoria apareceu um miliário dedicado a Trajano que indica a milha V a Chaves. Actualmente está no Museu de Chaves com o nº ARC401. O marcador indica aproximadamente a milha 5 no traçado proposto, junto da Capela do Senhor dos Aflitos.",
+        "name": "Miliário de Pastoria, m.p.V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.550841,
+          41.736122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cipo no Museu Municipal de Penamacor proveniente do sítio da Líria em Pedrogão de São Pedro que seria muito provavelmente um miliário da via romana para Mérida (index.html#namorados) que passava nas proximidades, embora não se possa excluir que seja um fuste de coluna. A  inscrição original poderá ter sido apagada num fenómeno tão comum de «cristianização» dos antigos miliários como indiciam os dois cruciformes gravados um no topo e outro lateral. Foto (http://viasromanas.pt/vr/marco_pedrogao.jpg).",
+        "name": "Miliário de Pedrogão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.170519,
+          40.166538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Referência a um miliário da VIA XIX proveniente do Largo da Feira na freguesia de São Julião, extremo sul do concelho de Valença no adro da Igreja dos Terceiros em Ponte de Lima. (Colmenero et alii, 2004). Mas onde estará? No actual museu ninguém sabe onde para este miliário, caso ainda exista.",
+        "name": "Miliário de Ponte de Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.587061,
+          41.765031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Probo achado em 1910 «na junção da ribeira do Vale do Bispo com a ribeira do Andreu», hoje no Museu Nacional de Arqueologia em Lisboa. Talvez indicasse a milha 47.",
+        "name": "Miliário de Ponte de Sor m.p.XLVII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.982136,
+          39.239679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Na povoação espanhola de Rabal, vizinha de Vilarelho da Raia (Chaves) existe um miliário anepígrafo reutilizado como suporte numa casa. Deveria pertencer à via proveniente de Chaves pela margem direita do Tâmega rumo à Galiza.",
+        "name": "Miliário de Rabal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.440341,
+          41.847878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo que servia de coluna numa varanda de uma casa em ruínas e hoje está numa casa particular em  Mesquitela.",
+        "name": "Miliário de Roda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.783672,
+          40.620089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada de um miliário recentemente descoberto na Mata de S. Jerónimo em Atiães pertencente à VIA XIX - Braga-Tui-Astorga.",
+        "name": "Miliário de S. Jerónimo, Atiães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.498123,
+          41.638226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário convertido em cruzeiro no cemitério de S. Mamede de Infesta.",
+        "name": "Miliário de S. Mamede de Infesta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.608472,
+          41.192328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Referência de Mário Saa a um miliário no sítio romano de S. Marcos, talvez na milha 54.",
+        "name": "Miliário de S. Marcos, m.p.LIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.867343,
+          39.229485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Convertido em cruzeiro junto à capela de Anjo da Guarda em Prozelo (Amares).",
+        "name": "Miliário de S. Miguel-o-Anjo, Prozelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.346493,
+          41.61917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Décio transformado em cruzeiro enterrado invertido à entrada da povoação;",
+        "name": "Miliário de Sá - m.p.XXV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.22152,
+          41.738276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Adriano (http://www.celtiberia.net/imagftp/U3687-san_vitero4.jpg.jpg) indicando VI milhas à mansio de Caesera junto da igreja de San Vitero.",
+        "name": "Miliário de San Vitero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.348907,
+          41.778506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Aqui apareceu um miliário da Tetrarquia, Galério, Diocleciano, Maximiano e Constâncio assinalando a passagem da via proveniente de Beja rumo ao sul. A via poderia bifurcar neste sítio, seguindo um ramo para Myrtilis (Mértola) e outro para Arannis (Sta. Bárbara dos Padrões?) e Ossonoba (Faro); Está no Museu de Beja.",
+        "name": "Miliário de Santa Clara do Louredo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.872473,
+          37.970879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois fragmentos de um miliário dedicado a Carino no alpendre da Capela de Santa Marta (Lama de Arcos, Chaves); Por aqui seguia a Via Aquae Flaviae - Asturica Augusta por Senabria.",
+        "name": "Miliário de Santa Marta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.410145,
+          41.807938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Na Capela de Santa Marta de Lucenza, suportando a pia baptismal. Junto da capela restam os vestígios de um assentamento romano, provável mutatio?",
+        "name": "Miliário de Santa Marta de Lucenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.610878,
+          41.941193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco miliário dedicado a Caracala que assinalava a passagem da via Salacia - Ebora do Itinerário XII de Antonino junto a Santa Susana. Apareceu na margem da ribeira de Rio Mourinho, zona hoje submersa pela albufeira da barragem do Pego do Altar. Actualmente desaparecido. Deveria indicar 10 milhas a Salacia.",
+        "name": "Miliário de Santa Susana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.372462,
+          38.444624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário que apareceu nos anos 80 na Qta. de Santa Teresa em Alenquer; apesar de muito danificado ainda é possível ler parte o numeral «XV» na indicação miliária.",
+        "name": "Miliário de Santa Teresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.997939,
+          39.042677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível fragmento de um miliário integrado no muro oste do Seminário Camboniano que poderá ser um dos miliários descritos por Argote neste local (talvez o miliário a Caracala). A Via Braga-Lisboa passava neste local, seguindo pela Rua Frei Bartolomeu dos Mártires, Rua Miguel Torga e Rua Francisco da Costa até entroncar na EN 204, seguindo depois rumo a Cabeçudos.",
+        "name": "Miliário de Santiago das Antas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.510203,
+          41.402245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo junto da Igreja paroquial de S. Brissos.",
+        "name": "Miliário de São Brissos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.102848,
+          38.526076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possivel localização do miliário a Augusto, dado que este apareceu num sítio designado por «Lapavale»,  a cerca de 800 m para nordeste da aldeia de Sapelos, num carvalhal conhecido pelo topónimo Ribeira da Costa, junto da ribeira de Calvão. No miliário lê-se o numeral LXV[...] que pode indicar o itervalo entre a milha 65 e a milha 68 que era vencida no local indicado pelo marcador. Actualmente o marco está no Centro de Interpretação do Parque Arqueológico do Vale do Terva em Bobadela (Boticas).",
+        "name": "Miliário de Sapelos - m.p. LXV??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.581545,
+          41.732904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "name": "Miliário de Seoane de Oleiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.670182,
+          41.996858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vasta necrópole onde se encontrou um miliário dedicado a Crispo, Licínio Júnior e Constantino II (http://www.matriznet.dgpc.pt/MatrizNet/Objectos/ObjectosConsultar.aspx?IdReg=125051) hoje no MNA.",
+        "name": "Miliário de Silveirona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.608599,
+          38.880774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Local conhecido por «Vilar», provável mutatio dado que aqui apareceu um miliário (http://arqueologia.igespar.pt/POC/?sid=sitios.resultados&subsid=2199610) já transformado em sarcófago, actualmente no Museu Abade de Baçal em Bragança (nº 1566). Da inscrição original restam umas poucas letras TRIB POT e o numeral «XXI».",
+        "name": "Miliário de Soeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.925917,
+          41.852987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário no Museu Municipal de Soure.",
+        "name": "Miliário de Soure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.625861,
+          40.056876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo à entrada do largo da Herdade de Sousa da Sé, fragmentado em duas partes. Aqui existe também um monólito em forma de menir que podera ter origem num miliário; A via segue pelo caminho rural paralelo ao CF até à travessia da ribeira da Fonte Boa ou do Freixo",
+        "name": "Miliário de Sousa da Sé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.835818,
+          38.636838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário anepígrafo enterrado em posição invertida no caminho que vai entre a igreja paroquial  e a Quinta da Fontes, no acesso à Qta. da Torre. Terá sido deslocado da Via XIX que passa a 1 milha para leste.",
+        "name": "Miliário de Souto de Rebordões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.558934,
+          41.718441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "André de Resende refere dois miliários «in preadio quod vocat Tabularios»; um estaria já ilegível e o outro como um miliário a Maximiano (CIL II 433)  indicando 12 milhas a Évora o que corresponde à distância no terreno; Mário Saa ainda fotografou um deles, mas hoje estão ambos desaparecidos. O marcador indica o ponto do percurso as 12 milhas de Évora e a 15 milhas do Torrão situdo num cruzamento de caminhos rurais.",
+        "name": "Miliário de Tabuleiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.070042,
+          38.471966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário que está derrubado num cabeço por detrás da capela; existe ainda um outro nas redondezas partido em dois fragmentos; a via passa entre a capela e o casal.",
+        "name": "Miliário de Tamazim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.276226,
+          39.331887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário proveniente do lugar de Tamazinhos perto do Rabaçal hoje uma aldeia abandonada. O miliário é dedicado ao Imperador Décio e indica a milha VIII contadas a partir de Conímbriga. Hoje está em exposição no Espaço-Museu do Rabaçal que alberga também os achados provienientes da importante Villa Romana do Rabaçal que fica ali perto.",
+        "name": "Miliário de Tamazinhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.454819,
+          40.029869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possivel miliário anepígrafo no Alto da Mariana a norte de Tancos, junto dum marco divisorio da freguesia, localizado a  a 10 milhas de Tomar e a 1 milha do Tejo. Integrava uma via romana com origem em Tomar rumo à travessia do rio Tejo entre Tancos e Arripiado, seguindo depois de encontro à via para Mérida.",
+        "name": "Miliário de Tancos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.401696,
+          39.470466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Caracala proveniente do sítio de Tartomil na Praia de Valadares, hoje em exposição no Museu do Solar dos Condes de Resende em Canelas.",
+        "name": "Miliário de Tartomil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.59873,
+          41.072151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário Décio na milha XVI.",
+        "name": "Miliário de Teixugos, Chorense - m.p.XVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.309735,
+          41.693855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada do Miliário de Tojeiras de Cima que se encontra a 750 m para sudeste do lugar do Casal,  num cabeço junto ao marco divisório do concelho.",
+        "name": "Miliário de Tojeiras de Cima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.244073,
+          39.277085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Maximino e Máximo que estava junto do chafariz do Monte da Torre do Curvo, hoje no acervo do extinto Museu de Elvas.",
+        "name": "Miliário de Torre do Curvo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.38599,
+          38.918607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo da Via XVII convertido em cruzeiro próximo da aldeia de Travassos da Chã.",
+        "name": "Miliário de Travassos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.791495,
+          41.76395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário proveniente da igreja paroquial de Úl e actualmente no jardim junto à Igreja Matriz de Oliveira de Azeméis.",
+        "name": "Miliário de Úl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.477682,
+          40.84027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento inferior de um miliário a Constantino Magno achado na extrema dos casais de Vale da Lama e Aranhas de Baixo e hoje está em exposição no Museu Municipal da Chamusca.O fragmento superior, designado por Vale da Lama II apareceu também deslocado num cabeço, 130 m para sul de Vale da Lama  servindo de marco divisório do concelho e hoje está armazenado no Castelo de Abrantes.",
+        "name": "Miliário de Vale da Lama I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.267716,
+          39.312886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Base de um miliário a Constantino Magno que apareceu na extrema entre os casais de Aranhas de Baixo (Ulme, Chamusca) e de Vale da Lama (Bemposta, Abrantes), hoje no Museu Municipal da Chamusca. O fragmento superior apareceu 130 m a sul e serve de marco divisório.",
+        "name": "Miliário de Vale da Lama I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.48025,
+          39.359614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento superior do miliário a Constantino Magno que apareceu deslocado num cabeço, 130 m para sul de Vale da Lama, servindo de marco divisório do concelho e hoje está armazenado no Castelo de Abrantes. A base deste mesmo miliário, designado por Vale da Lama I, apareceu também deslocado na extrema dos casais de Vale da Lama e Aranhas de Baixo e hoje está em exposição no Museu Municipal da Chamusca.",
+        "name": "Miliário de Vale da Lama II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.272524,
+          39.318691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo entretanto desaparecido. Milha 2 a Chaves. Na igreja existe uma inscrição honorífica dedicado a Treboniano Galo.",
+        "name": "Miliário de Vale de Anta m.p.II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.502256,
+          41.739741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Base quadrangular e arranque do fuste de um possível miliário que apareceu junto da aldeia romana de Vale do Grou, situada num cruzamento de vias, actualmente no Museu de Mação.",
+        "name": "Miliário de Vale do Grou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9321,
+          39.564743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo integrado num muro no sitio de Vale do Touro em Vila Meã Oliveira do Conde. Por aqui deveria passar uma via romana proveniente de Vissaium (Viseu) em direcção a Aeminium (Coimbra) e a Bobadela. A via romana seria no caminho que ali passa?",
+        "name": "Miliário de Vale do Touro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.983575,
+          40.431046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco miliário anepígrafo entretanto deslocado para o exterior dum armazém em Vilarandelo. Localização aproximada.",
+        "name": "Miliário de Valelongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.369694,
+          41.667091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário da via romana Bracara Augusta - Tudae dedicado a  Augusto indicando 42 milhas a Braga encontrado no caminho para o cais de Arinhos onde fazia a travessia do rio Minho. Integrava o Itinerário XIX de Antonino de Braga a Astorga que indica precisamente 43 milhas para este troço da via.",
+        "name": "Miliário de Valença"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.64487,
+          42.031525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário na escadaria da Junta de Feguesia em conjunto uma ara votiva aos Deuses Manes; este miliário deveria pertencer à Via Braga-Mérida que passava por aqui rumo Centum Cellae, seguindo a margem esquerda do Zêzere, apesar de o miliário ter aparecido na margem direita, no sitio do Galrado para onde terá sido deslocado em data incerta; no entanto, não é possível descartar a hipótese de pertencer a outra via que atravessando o Zêzere em Valhelhas, seguia rumo à Covilhã.",
+        "name": "Miliário de Valhelhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.40201,
+          40.406976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco miliário desaparecido dedicado a Numeriano (CIL II 4641) que  indicava o numeral IIXX, ou seja 18 milhas, contadas talvez a partir do rio Douro. Relacionado com a via romana proveniente do rio Douro rumo à travessia do rio Távora junto da Ponte do Pontigo.",
+        "name": "Miliário de Vide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.566928,
+          40.949356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo encontrado deitado numa horta junto da Capela de N. Sra. da Paz em Vila Marim. Este é o único miliário conhecido nesta região pelo que não sabemos se pertence a uma hipotética VIA Oeste-Este entre Braga e Vila Real ou se pertence a uma VIA Norte-Sul que ligaria Chaves ao Douro. O outros miliários conhecidos também não ajudam a esclarecer: o de Constantim a leste reforça a primeira hipótese enquanto que o miliário de Cidadelhe em Mesão Frio aponta para a segunda. Todos estes miliários estão desaparecidos. A dúvida permanece até que apareçam mais vestígios.",
+        "name": "Miliário de Vila Marim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.779298,
+          41.305314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Referência a um miliário de que só resta a transcrição da sua inscrição. Seria dedicado a Maximino e Máximo e indicava cento e tal milhas, mas já só se lia « C...».",
+        "name": "Miliário de Vinhais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.001262,
+          41.835021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário da via Talábriga-Viseu no Museu Municipal de Vouzela. Foi encontrado no adro da igreja e indica 18 milhas a Viseu.",
+        "name": "Miliário de Vouzela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1123,
+          40.722682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Referência de Mário Saa a um miliário anepígrafo da Via Lisboa-Mérida junto do marco geodésico de «Vale do Gato», hoje designado por Lapa.",
+        "name": "Miliário do «Vale do Gato» m.p.LVIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.795769,
+          39.216666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um marco miliário da Via XVII com ranhuras laterais e uma abertura circular no seu interior que indica a sua reutilização como mó. Encontra-se na entrada de uma propriedade junto da EN206, a 600 m de Vila Nova da Raínha, próximo do Alto da Pinha. Não apresenta campo epigráfico.",
+        "name": "Miliário do Alto da Pinha, m.p. XXXI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.093961,
+          41.681426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário do Arco da Traição no Museu Machado de Castro em Coimbra. O Museu assenta sobre um impressionante   Criptopórtico Romano (http://mnmachadodecastro.imc-ip.pt/pt-PT/minisitios/ContentDetail.aspx?id=828) que é hoje o edifício romano melhor conservado em Portugal e servia de infra-estrutura ao antigo Forum onde confluíam a decumanus maximus e a cardus maximus; os vestígios destas vias urbanas indicam que o seu cruzamento se faria no canto sudeste do edifício. Depois de muitos anos em obras, o criptopórtico está hoje aberto ao público. Visita obrigatória!",
+        "name": "Miliário do Arco da Traição"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.425766,
+          40.209017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário anepígrafo deitado por terra a cerca de uma milha a  nascente da Herdade do Barrocal. Localização aproximada. Indicaria 5 milhas a Évora.",
+        "name": "Miliário do Barrocal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.984253,
+          38.518183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário encastrado num muro na confluência da Rua do Calvário com a estrada para a Abadia, em Póvoa de Espinho, Mangualde.",
+        "name": "Miliário do Calvário"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.792125,
+          40.564448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Na Qta. do Caneiro à saída de Chaves, logo à saída de Chaves, apareceu em 1992 um miliário a Constantino (?) entretanto já desaparecido.",
+        "name": "Miliário do Campo da Roda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.467273,
+          41.731981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo no Carvalhal, Lamalonga.  Outros dois marcos apareceram na Capela de S. João em Lamalonga,  o miliário a Constâncio Cloro (http://viasromanas.pt/vr/marcodelamalonga.jpg) que está hoje no Museu Abade Baçal em Bragança e um outro anepígrafo, indiciando que a milha seria vencida algures nesta zona.",
+        "name": "Miliário do Carvalhal, Lamalonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.066413,
+          41.685699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada do miliário a Licínio II (http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=2618929), hoje no Museu do Fundão; a via passa próximo da Qta. da Malta e da villa da Qta. do Prado Vasco, esta já na outra margem, seguindo depois pela Qta. do Lameirão e Coito de Cima, onde se achou o miliário.",
+        "name": "Miliário do Coito de Cima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.295325,
+          40.221764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Constantino Magno actualmente armazenado na Junta de Freguesia do Tramagal que apareceu na Rua da Tapada da Moura no lugar do Crucifixo. O marcador indica a provável localização original junto da igreja deste miliário que estará relacionado com a travessia do rio Tejo na Barca de Rio Moinhos.",
+        "name": "Miliário do Crucifixo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.268368,
+          39.440985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A base do cruzeiro na estrda para S. João do Campo é um Miliário a Décio (http://www.serra-do-geres.com/cidades_vilas_e_aldeias/ficheiros/campo_do_geres_ficheiros/campo_do_geres.htm) indicando 27 milhas a Braga que era vencida nas proximidades.",
+        "name": "Miliário do Cruzeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.197111,
+          41.749569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Adriano já sem inscrição  e transformado em cruzeiro no chamado Outeiro do Rei.",
+        "name": "Miliário do Cruzeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.213584,
+          41.738927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada do miliário anepígrafo que apareceu junto da via romana na base do Povoado de Facho de Castelões em Calvão, a 9 milhas de Chaves. Desconhece-se o seu paradeiro.",
+        "name": "Miliário do Facho de Castelões m.p.IX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.56256,
+          41.809576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Este miliário foi indentificado pelo Pa. Martins Capela junto à Igreja e teria sido entretanto destruído; parte dele reapareceu em 1992 nas obras da Escola Profissional de Arqueologia, onde se encontra. Provavelmente pertencia à Via Braga-Mérida.",
+        "name": "Miliário do Freixo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.146947,
+          41.164926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Notícia de um miliário dedicado a Magnêncio (http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=58181) actualmente desaparecido. Estaria deslocado da Via XVII a sul ou assinalava outra via?",
+        "name": "Miliário do Lama de Ouriço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.34046,
+          41.701289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um miliário anepígrafo eventualmente integrado numa possível via que ligaria Tomar a Évora.",
+        "name": "Miliário do Monte da Parreira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.933033,
+          38.648411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um possível miliário. Poderia integrar uma via de Évora a Santarém.",
+        "name": "Miliário do Monte da Valeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.000602,
+          38.641343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários anepígrafos eventualmente relacionados com a Via Évora - Alter do Chão - Idanha-a-Velha.",
+        "name": "Miliário do Monte das Sete Chaminés"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.887187,
+          38.665166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário conhecido como «marcão» ou «polícia» no cruzamento da Rua das Flores com a Rua 25 de Abril, mas que seria proveniente da Qta. de S. João. Deveria assinalar a passagem da Via XV entre Lisboa e Mérida.",
+        "name": "Miliário do Monte Galego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.029399,
+          39.454797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um miliário que apareceu junto do  Monte Silval no caminho que vai para Almansor de Baixo. Poderia integrar uma via de Évora a Santarém.",
+        "name": "Miliário do Monte Silval"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.036751,
+          38.677451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Junto do monte. Este miliário poderia assinalar a Via Évora-Vila Viçosa.",
+        "name": "Miliário do Mte. da Aldeia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.730953,
+          38.651454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois fragmentos de um possível miliário anepígrafo ou coluna.",
+        "name": "Miliário do Mte. da Prata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.170738,
+          38.503884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois fragmentos de um possível miliário anepígrafo.",
+        "name": "Miliário do Mte. da Venda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.125723,
+          38.50644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário proveniente do chafariz da Herdade da Torre do Curvo indentificado em 1956 por Mário Saa; Foi despois levado para o Museu Municipal António Tomáz Pires em Elvas, entretanto encerrado pela C.M. e o seu espólio armazenado(!).",
+        "name": "Miliário do Museu de Elvas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.162124,
+          38.876754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Caro reutilizado num cruzeiro do lugar de Pilar; serve de marca divisória entre a freguesias de Fiscal, Ferreiros e Carrazedo. Seria talvez da milha VIII desde Braga.",
+        "name": "Miliário do Pilar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.386314,
+          41.641764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário tombado no leito do rio Xarrama a servir de poldra e vários outros fragmentos. Assinalava seguramente 12 milhas a Évora, correspondendo à via  romana de Ebora a Pax Iulia. Contudo a via cruzava o rio Xarrama cerca de 300 metros a montante junto da Azenha do Silveira.",
+        "name": "Miliário do Porto da Camoeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.971284,
+          38.422004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado à Tetrarquia de Constante, Galério, Maximiano e Diocleciano que apareceu junto da villa de Porto da Lama durante movimentação de terras do campo de aviação de Sta. Catarina de Sítimos actualmente desactivado. Actaulamente encontra-se deitado por terra nas ruínas do depósito de água em Alcácer do Sal (!).",
+        "name": "Miliário do Porto da Lama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.511955,
+          38.372822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Maximino da milha XVIII (18) que está hoje no jardim do Solar de Bertiandos como pelourinho, mas que teria vindo do lugar de St. Amaro em Fornelos, Ponte de Lima. Contém uma inscrição que revela reparações da via na frase \"vias et pontes temporis vetustate conlapsos restituerunt\". Pertence à VIA XIX - Braga-Tui-Astorga.",
+        "name": "Miliário do Solar de Bertiandos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.62587,
+          41.760153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada do marco miliário que apareceu no Vale da Portela já muito desgastado e onde apenas se lê [… …] A / MILIA (actualmente no Museu de Idanha-a-Velha).",
+        "name": "Miliário do Vale da Portela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.129756,
+          40.02347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Referência a um miliário anepígrafo da Via Lisboa-Mérida em Vale de Perlim, Alter do Chão. Apebas resta uma foto (http://viasromanas.pt/vr/marcodeperlim.jpg) de Félix Alves Pereira em 1912.",
+        "name": "Miliário do Vale de Perlim m.p.LVII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.815211,
+          39.222461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário no interior da antiga capela de S. Pedro em Zebral, outrora pia baptismal e hoje cimentado ao chão, lendo-se ainda as letras CAESAR / NCVS / IV. No mesmo local existia um outro miliário entretanto desaparecido.",
+        "name": "Miliário do Zebral m.p.XXXI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.02141,
+          41.662697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fuste de uma coluna ou miliário no Monte do Andrades.",
+        "name": "Miliário dos Andrades"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.097061,
+          38.508143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Na Capela da Ns. dos Prazeres, na confluência das ribeiras do Vale de Açor e do Monte Novo, Mário Saa recolheu um  Miliário dedicado a Tácito  hoje em exposição na Fundação Paes Teles no Ervedal (http://www.paesteles.org.pt). A milha 50 da via Lisboa - Mérida seria vencida nas proximidades.",
+        "name": "Miliário dos Prazeres, m.p.L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.943804,
+          39.229223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fuste de um miliário anepígrafo junto à Fonte de Tordavela em Antigo de Arcos, actual Antigo de Serraquinhos. Teria sido deslocado da via romana que corre mais a sul pela aldeia de Arcos? Ou assinalaria uma outra via de ligação à região mineira de Gralhas/Solveira/Vilar de Perdizes?",
+        "name": "Miliário em Antigo de Arcos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.657059,
+          41.778984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário anepígrafo junto da Capela de S. Sebastião  talvez proveniente da mutatio do Sagrado em S. Pedro Velho, dado que aqui apareceram dois miliários, hoje no Museu do Abade de Baçal em Bragança. A via romana passaria 300 m a sul.",
+        "name": "Miliário em Babe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.63159,
+          41.817072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Magnêncio (http://valpacos.no.sapo.pt/patrimonio/13marcos.html) numa casa particular em Carlão  proveniente de Possacos (Valpaços), assinalando portanto o Itinerário Braga-Chaves-Bragança-Astorga (http://viasromanas.pt/index.html#chaves) ou VIA XVII.",
+        "name": "Miliário em Carlão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.407862,
+          41.317381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo defronte da Capela de São Bartolomeu em Casas dos Montes, à entrada de Chaves. Assinalava 1 milha a Chaves.",
+        "name": "Miliário em Casas dos Montes m.p.I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.48474,
+          41.737749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo no jardim da antiga escola primária de Cervos. Foi encontrado em Arcos, mas teria vindo do Alto do Pindo e posteriormente deslocado para aqui.",
+        "name": "Miliário em Cervos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.682528,
+          41.739959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco miliário dedicado a Teodósio dentro da Capela da Ns. da Ribeira em Coja. Este miliário poderia pertencer à via entre Coimbra e Bobadela ou relacionada com as vias de servidao à exploração mineira ao longo do rio Alva.",
+        "name": "Miliário em Coja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.983691,
+          40.262721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de Miliário (http://viasromanas.pt/vr/marcodaferradosa.jpg) na berma da estrada da EN206 junto a uma casa.",
+        "name": "Miliário em Ferradosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.18958,
+          41.642906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário da Via Braga - Lisboa indicando 12 milhas a Coimbra proveniente da zona da Vermiosa hoje em exposição na Câmara Municipal da Mealhada.",
+        "name": "Miliário em Mealhada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.453219,
+          40.377936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada de um Miliário anepígrafo que está na berma da estrada que passa na aldeia.",
+        "name": "Miliário em Monsalvarga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.364297,
+          41.632802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Milliário a Claudio da Via XVII deslocado para o pátio do Castelo de Montalegre, proveniente da aldeia de Arcos na freguesia de Cervos.",
+        "name": "Miliário em Montalegre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.790783,
+          41.82596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco miliário dedicado a Adriano na «Casa Grande» em Paços da Serra, solar actualmente convertido em turismo rural. Integraria a Via Bobadela - Celorico da Beira - Marialva; o miliário indica 21 milhas contadas talvez a partir de Celorico da Beira.",
+        "name": "Miliário em Paços da Serra m.p.XXI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.650126,
+          40.459809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Constâncio Cloro que está na Casa de Pielas em Painzela (CIL II 4763); segundo Colmenero o marco seria proveniente da Qta. das Goladas em Urjais, Braga (Colmenero, 2004); os vestígios romanos na Casa da Torre/Lugar do Castro em Abadim poderão estar associados a uma via romana.",
+        "name": "Miliário em Painzela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.002135,
+          41.520352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário convertido em cruzeiro no Largo do Souto em Panóias (Braga) provavelmente deslocado da via romana Braga-Tui-Astorga, o itinerário XIX de Antonino.",
+        "name": "Miliário em Panóias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.466401,
+          41.572049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo deslocado para o largo da aldeia.",
+        "name": "Miliário em Santa Cruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.325916,
+          41.680143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização aproximada de um Miliário anepígrafo que está numa casa particular na aldeia de Vassal.",
+        "name": "Miliário em Vassal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.355755,
+          41.615611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marco proveniente da Cantina de Leiranco/ Cruz de Leiranque, local hoje submerso pela barragem do Alto Rabagão, actualmente no Largo da Seara em Viade de Baixo",
+        "name": "Miliário em Viade de Baixo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.863662,
+          41.760617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Maximino e Máximo proveniente de Fornelos, Ponte de Lima e integrado na VIA XIX entre Braga e Tui. Esteve antes nos jardins da antiga JAE em Viana do castelo e hoje está no pátio da Biblioteca Municipal de Vila Nova de Cerveira. Deveria indicar a milha XVII atendendo a que Fornelos está a 17 milhas de Braga.",
+        "name": "Miliário em Vila Nova de Cerveira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.744329,
+          41.939656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "miliário a Maximino Daia (http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=51420) num casa particular; é proveniente da travessia do rio Rabaçal em Vale de Telhas.",
+        "name": "Miliário emVale de Gouvinhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.201832,
+          41.627904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário da milha 8 a Igaedis numa casa particular como pé de mesa, mas  proveniente das ruínas de uma casa de campo, próximo da aldeia de Águas, no concelho de Penamacor. Estaria assim deslocado da sua posição original que deverá corresponder a Bemposta na Via Braga-Mérida.",
+        "name": "Miliário na Aldeia de Santa Margarida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.275873,
+          40.063545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado talvez a Tibério que hoje está no interior da capela de St. Antão em Famalicão da Serra (Guarda). Junto da capela passava a via romana que descia a vertente nascente da Serra da Estrela em direcção a Belmonte, troço integrado na grande Via romana que ligava Braga a Mérida.",
+        "name": "Miliário na Capela de St. Antão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.376535,
+          40.442417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Maximino e Máximo (http://viasromanas.pt/vr/marcodevaltelhas2.jpg) no adro da capela de N. Sra. de Fátima, proveniente da Ponte Romana do Arquinho em  Possacos.",
+        "name": "Miliário na capela de Vale de Telhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.22693,
+          41.613761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário (marconaestradaparacampodogeres.jpg) na berma direita da estrada, junto ao estradão de terra.",
+        "name": "Miliário na estrada para Campo do Gerês"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.193826,
+          41.752659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário (http://viasromanas.pt/vr/marcodevaltelhas.jpg) junto à fonte \"romana\" de Vale de Telhas também proveniente da travessia do rio Rabaçal.",
+        "name": "Miliário na fonte de Vale de Telhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.227773,
+          41.616208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Caracala convertido em sepultura no adro da Igreja Românica de S. Pedro em Rubiães. A via XIX que ligava Braga a Tui passa nas traseiras da igreja.",
+        "name": "Miliário na Igreja de Rubiães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.625695,
+          41.896611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um miliário no exterior da Igreja de São Brás em Sapardos; pertenceria à VIA XIX.",
+        "name": "Miliário na Igreja de São Brás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.647397,
+          41.915836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Adriando da via romana Bracara - Cale deslocado para o jardim da Qta. do Paiço, na base do importante Castro de Alvarelhos.",
+        "name": "Miliário na Qta. do Paiço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.613103,
+          41.301947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Nerva proveniente da Qta. do Outeiro em Frossos pelo que deveria indicar a milha II; Foi transformado em pedra de lagar e hoje está numa das entradas do claustro da Sé de Braga;",
+        "name": "Miliário na Sé de Braga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.427213,
+          41.55014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário anepígrafo tombado junto da via romana Bracara Augusta a Tudae no tramo entre Amares e Santa Cruz.",
+        "name": "Miliário na Via Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.325297,
+          41.677724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de miliário encastrado num forno da aldeia de São Fins que pertenceria à Via XVII.",
+        "name": "Miliário no Forno de São Fins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.93303,
+          41.701736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Referência a um fragmento de miliário no  Monte da Celada/Selada, certamente deslocado da Via Lisboa-Mérida que passava cerca de 1 km a norte do monte. Talvez indicasse a milha 63.",
+        "name": "Miliário no Monte da Selada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.722304,
+          39.187968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Magnêncio em exposição no Museu Abade Pedrosa em Stanto Tirso. Este miliário é proveniente da Ponte de Sedões em Trofa Velha e pertencia à VIA XVI Braga-Lisboa.",
+        "name": "Miliário no Museu Abade Pedrosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.472158,
+          41.344454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Probo que apareceu nas fundações da Casa dos Bicos durante as obras de restauro realizadas entre 1981 e 1982.",
+        "name": "Miliário no Museu da Cidade de Lisboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.156754,
+          38.758437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Caro proveniente do lugar do Ferronho em exposição no Museu das Terras da Maia. Segundo o Abade Pedrosa este miliário estaria 2 km a sul do cruzamento da Carriça e a 19 m a poente de EN14. Posteriormente aparece enterrado na berma da EN14 junto da capela dos Passos de onde foi translado para o museu.",
+        "name": "Miliário no Museu da Maia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.613155,
+          41.26518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário aparecido no Vicus de S. Pedro em Campo Maior; Inscrição: DOMI / NIAVS / IM ASNNE / NTIFIIG / EMERI/TE; possivel localização da mansio Ad Septem Aras a 53 milhas de Mérida, atendendo a um outro miliário aqui encontrado.",
+        "name": "Miliário no Museu de Campo Maior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.068692,
+          39.012457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Galério (http://arqueologia.igespar.pt/POC/?sid=trabalhos.resultados&subsid=2237836) proveniente da Ponte de Vale de Telhas em Valpaços pertencente à VIA XVII.",
+        "name": "Miliário no Museu de Vila Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.743828,
+          41.297383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fuste de um possível miliário anepígrafo junto à Fonte do Forno na aldeia de Ardãos. A existência de um miliário na aldeia é justificada pela passagem da via romana que ligava o Alto do Pindo a Chaves passando por Ardãos, Seara Velha e Vale de Anta.",
+        "name": "Miliário? de Ardãos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.612049,
+          41.766166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário anepígrafo (ou fuste de coluna) reaproveitado numa parede de uma casa da aldeia, junto da casa paroquial na rua da Praça. Admitindo que se trata de um miliário, este poderia ter sido deslocado da via romana (index.html#castelobranco_sabugal) que passava a cerca de 2 km para noroeste, junto do antigo  Convento de Anascer, percorrendo a margem direita da ribeira de Meimoa, trajecto  atestado pelo miliário de Coito de Cima e que seguia a rumo a Sabugal pela Serra da Opa.",
+        "name": "Miliário? de Benquerença"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.237122,
+          40.226556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível fuste de miliário integrado nas ruínas da antiga albergaria de Bolelas (São João das Lampas, Sintra).",
+        "name": "Miliário? de Bolelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.391484,
+          38.873286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário anepígrafo enterrado numa rua da aldeia de Carvalhal do Estanho.",
+        "name": "Miliário? de Carvalhal do Estanho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.042847,
+          40.713734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possivel miliário integrado num muro de divisão de propriedade; Caso se confirme como marco romano, este poderia assinalar uma via romana proveniente de Cale que se dirigia à Ponte de Negrelos em S. Martinho do Campo, passando junto do Castro do Monte Padrão em Monte Córdova e que se dirigia quase recto à Citânia de Sanfins.",
+        "name": "Miliário? de Casais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43377,
+          41.309158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Em 1947, Russel Cortez refere uma miliário dedicado a Trajano encontrada «Feira de Constantim», antiga designação medieval da povoação, mas esta informação é duvidosa.",
+        "name": "Miliário? de Constantim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.697072,
+          41.282785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível fuste de miliário recolhido na Igreja de Muxagata.",
+        "name": "Miliário? de Muxagata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.468154,
+          40.656907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um possível miliário à saída da Ponte sobre a Ribeira de Machede.",
+        "name": "Miliário? de Ns. de Machede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.779117,
+          38.576241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário anepígrafo servindo de cruzeiro junto da Capela de São Domingos em Prados de Baixo (Rua, Moimenta da Beira). Na fachada da capela existe uma estela funerária com a inscrição VICTOR./MARII.F./HEIC.SE:/P.IACET",
+        "name": "Miliário? de Prados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.56294,
+          40.937091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário convertido em pia baptismal proveniente da Capela de São João Baptista da Grova. A pia terá passado para a igreja paroquial em data incerta. Falta confirmar esta informação...",
+        "name": "Miliário? de S. João da Grova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.597616,
+          41.839821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário na esquina da Capela de São Sebastião em Casal de Cima (Santiago de Cassurrães).",
+        "name": "Miliário? de São Sebastião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.704639,
+          40.581328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No sítio do Padrão em Teixelo (Tarouca) existe um cipo anepígrafo com cruciformes, provavelmente um marco do couto do mosteiro de Tarouca e eventual reaproveitamento de um miliário que nesse caso assinalaria X, dado que este local dista 10 milhas de Lamego; a via seguia percorria mais  21 milhas até o rio Vouga (Ponte do Vouguinha) e daí a Viseu.",
+        "name": "Miliário? de Teixelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.779005,
+          40.986685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário em Vale de Estrada (Prados), no planalto da serra de Soida. Por aqui passaria uma estrada romana proveniente de Celorico da Beira rumo a Videmonte.",
+        "name": "Miliário? de Vale de Estrada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.353048,
+          40.565576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "50 m a sul da JF, numa casa particular, existe um possível miliário anepírafo servindo de base da caixa de correio.",
+        "name": "Miliário? de Valhelhas 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.402178,
+          40.406471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário reutilizado no Cruzeiro junto da Capela de Santa Luzia em Abadia de Espinho.",
+        "name": "Miliário? do Cruzeiro de Espinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.791238,
+          40.559344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível miliário reutilizado como marco divisório do Couto do Mosteiro de Salzedas.",
+        "name": "Miliário? do Padrão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.707036,
+          41.072384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fuste de um possível miliário deitado por terra junto de sepulturas alti-medievais.",
+        "name": "Miliário? em Ançada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.781658,
+          40.603073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um possível miliário no início da Rua do Pinheiro em Vale Formoso marcando a entrada da Judiaria. Se não foi deslocado da Via Braga-Mérida que passa ali perto, mas na outra margem do Rio Zêzere, talvez indicasse uma estrada  para a Covilhão passando em Orjais e Terlamonte.",
+        "name": "Miliário? em Vale Formoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.378513,
+          40.376353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Fragmento de um possível miliário junto da antiga estação CF da Trofa.",
+        "name": "Miliário? na estação da Trofa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.553845,
+          41.339451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Sítio também conhecido por «Padrões da Cal» de onde são provenientes  13 miliários (http://arqueologia.igespar.pt/POC/?sid=sitios.resultados&subsid=168786) entretanto transladados deste local após a construção da barragem, estando hoje agrupados na berma do novo estradão que corre a cota superior no sítio do Sarilhão.",
+        "name": "Miliários da Bouça do Gavião - m.p.XXIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.188699,
+          41.771619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "dois miliários (http://arqueologia.igespar.pt/POC/?sid=trabalhos.resultados&subsid=168965) e recentemente apareceu mais um  miliário a Maximiano",
+        "name": "Miliários da Bouça do Mó - m.p.XXX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17406,
+          41.775746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários, um a Carino, na milha XXII.",
+        "name": "Miliários da Ervosa, Santa Comba - m.p.XXII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.263072,
+          41.725882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Conjunto de miliários no sítio romano da Fonte da Cruz junto da ribeira de Monte Novo, assinalando a milha 52 da Via Lisboa-Mérida. Um miliário dedicado talvez a Maximiano ou Caracala (?) e mais quatro fragmentos de miliários, num dos quais só se lia «IMP CAE».",
+        "name": "Miliários da Fonte da Cruz m.p.LII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.901626,
+          39.22755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Três miliários deslocados na Rua da Estrada Velha a servir de marcos divisórios.",
+        "name": "Miliários da Foz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.22285,
+          39.258108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "20 miliários. A ponte é sem dúvida uma construção romana, actualmente em ruínas.",
+        "name": "Miliários da Ponte Feia - m.p.XXXIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.135212,
+          41.795443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "milha XXXIV;  9 miliários, a Caracala, Tito, Décio, Domiciano, Magnêncio, Maximino e Máximo, Nerva e Adriano (http://geira.cm-terrasdebouro.pt/main.aspx?menu=44&item=23), um dos quais indica reparações da via na frase vias et pontes temporis vetustate conlapsos restituerunt; talvez fosse a fronteira entre os Braccari e os Quarquerni;",
+        "name": "Miliários da Portela do Homem - m.p.XXXIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.131719,
+          41.808197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário dedicado a Augusto da milha XXX da VIA XIX junto ao portão da Quinta do Castro e talvez proveniente da Azenha do Ribeiro em Romarigães. Dentro da quinta existe mais dois miliários, um anepígrafo e outro dedicado a Valentiano I como esteio duma ramada.",
+        "name": "Miliários da Quinta do Castro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.627834,
+          41.901117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários junto da torre medieval do monte e mais dois fragmentos junto ao casario talvez deslocados da Via Évora-Portel-Serpa que passava a cerca de 4 km para Nordeste precisamente nos limites da herdade da Torre do Lobo",
+        "name": "Miliários da Torre do Lobo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.91623,
+          38.420486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Na milha conservam-se 23 miliários, dos quais 16 são anepígrafos. A bibliografia refere 7 miliários com epígrafes. Um de Adriano (117-138), datável do ano 135; dois de Maximino e Máximo (235-238), datáveis do ano 238; um de Décio (250); um de Caro (282-283); um de Magnêncio (350-353) e outro de Decêncio (351-353).",
+        "name": "Miliários da Volta do Covo  - m.p.XXXII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.147614,
+          41.794483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Um miliário a Adriano e outro a Carino.",
+        "name": "Miliários das Podrigueiras m.p.XX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.28566,
+          41.717004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Adriano indicando m.p. XVIII a Viseu; outro miliário daqui parece indicar a milha XX, ambos actualmente na Casa do Miradouro em Viseu. Aqui também apareceram dois outros miliários actualmente desaparecidos, sendo um anepígrafo e outro dedicada a Numeriano.",
+        "name": "Miliários de Abrunhosa-a-Velha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.64221,
+          40.578395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários provenientes de Alcafozes estão no Museu de Epigrafia de Idanha-a-Velha, assinalando a passagem da Via Braga-Mérida nesta povoação; possível miliário no interior da aldeia, já muito  danificado. Também num muro de uma casa da aldeia existe uma coluna cilíndrica que poderá ser um fragmento de miliário ou coluna.",
+        "name": "Miliários de Alcafozes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.119415,
+          39.94978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Aqui apareceram 2 miliários da Via XII hoje no Museu de Vila Viçosa e o MNA.",
+        "name": "Miliários de Alcobaça"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.361,
+          38.887758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários deslocados reutilizados como esteios de um latada em Benfeitas, o miliário a Constâncio Cloro da milha XXVI e o miliário a Caracala da milha XXXI, ambos actualmente em exposição no Museu Municipal de Oliveira de Frades.",
+        "name": "Miliários de Benfeitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.283167,
+          40.672827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cinco miliários junto ao ribeiro dedicados a Heliogábalo, Caracala, Décio, Caro e Maximiano.",
+        "name": "Miliários de Cabaninhas - m.p.XVII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.293859,
+          41.69576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Quatro miliários, um a Tácito, outro talvez a Juliano e mais dois anepígrafos.",
+        "name": "Miliários de Esporões, Chamoim - m.p.XXIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.248691,
+          41.731823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Quatro miliários: miliário a Tito e Domiciano onde se pode ler «VIA NOVA FACTA» indicando 19 milhas; miliário a Caracala fragmentado; miliário anepígrafo deslocado para a aldeia de Moimenta Nova onde suporte uma varanda junto à igreja; seria desta milha um miliário anepígrafo que hoje está na CM de Terras de Bouro.",
+        "name": "Miliários de Lagedos m.p.XIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.291451,
+          41.708882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A milha XXXVI é assinalada por vários miliários agrupados num parque de merendas junto à estrada actual. A via cruza esta estrada e segue pela encosta abaixo. Vários troços em calçada. No local onde a milha era vencida existe ainda um miliário.",
+        "name": "Miliários de Lama de Picón - m.p.XXXVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.119351,
+          41.834061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Milha XV no lugar do Bico da Geira;   4 miliários; um miliário  a Maximiano da milha XV (http://viasromanas.pt/vr/marcodageiramilhaXV.jpg), miliário a Caro(?) e outro anepígrafo, todos in situ; dois miliários desta milha, um a Magnêncio e outro a Carino(?), estão hoje na CM de Terras do Bouro.",
+        "name": "Miliários de Lampaças - m.p.XV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.318421,
+          41.697015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários provenientes da vicus de Almoínhas em Loures, hoje em exposição no Museu Municipal da Quinta do Conventinho, um deles indicando 10 milhas a Olisipo. Estes miliários assinalavam a confluência de duas vias romanas provenientes de Conímbriga rumo a Lisboa, uma passando por Collipo e Eburobrittium (Leiria e Óbidos) e outra, a principal, passando por Seilium e Scallabis (Tomar e Santarém).",
+        "name": "Miliários de Loures"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.160867,
+          38.819929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários pertencentes à Via Ebora a Pax Iulia provenientes das proximidades, um dos quais indica 17 milhas a Évora e outro dedicado a Crispo indicava a milha 19.",
+        "name": "Miliários de Ns. de Aires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.984891,
+          38.34095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A milha 21  fica no lugar de Pontelha da Geira que é assinalada pelo miliário a Caro e o miliário a Heliogábalo. Perto deste local ficaria a MANSIO SALANIANA referida no Itinerário de Antonino.",
+        "name": "Miliários de Pontelha, Travassos - m.p.XXI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.273334,
+          41.720144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Numeriano indicando a milha 28 que apareceu no adro da igreja de Reigoso. Um outro miliário dedicado a Constantino apareceu na eira da Casa Paroquial, actualmente em exposição no Museu Municipal de Oliveira de Frades.",
+        "name": "Miliários de Reigoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.262631,
+          40.692026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Conjunto de vários miliários abandonados na berma da estrada. Apresentam sinais de reutilização (furos e cortes), mas alguns destes esteios são  indubitavelmente miliários pois além da forma cilíndrica apresentam a típica base quadrangular. No outeiro adjacente existe um Calvário que integra 2 aras romanas na sua construção. A Via romana Braga-Mérida passava por aqui rumo à Ponte Romana de Segura sobre o Rio Erges.",
+        "name": "Miliários de Segura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.978225,
+          39.828801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Um miliário e mais 3 fragmentos no Monte da Sitima  que deveriam assinalar a milha 8 da Via Évora-Portel-Moura.",
+        "name": "Miliários de Sítima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.942125,
+          38.462074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Na Capela do Espírito Santo dentro do cemitério apareceu um miliário a Macrino (http://valpacos.no.sapo.pt/patrimonio/13marcos.html), actualmente no jardim junto ao mercado em conjunto com um outro  miliário a Caracala (http://arqueologia.igespar.pt/POC/?sid=sitios.resultados&subsid=2241728) que apareceu no pátio da casa de Francisco Coroado em Vilarandelo; aqui também apareceu um   fragmento de miliário (http://arqueologia.igespar.pt/POC/?sid=sitios.resultados&subsid=2241729) entretanto deslocado para o Museu de Chaves.",
+        "name": "Miliários de Vilarandelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.325936,
+          41.663562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliários, um dedicado a Tito e Domiciano e outro anepígrafo provenientes da  milha XIII da VIA NOVA que passa mais a poente a meia encosta, estando o primeiro no adro da Igreja Paroquial de Vilela e outro no pátio de uma casa particular atrás da igreja.",
+        "name": "Miliários de Vilela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.32551,
+          41.664462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "21 miliários (http://viasromanas.pt/geira/milha_XXXI.htm) junto ao ribeiro do Pedredo; vestígios da antiga pedreira que serviu para o fabrico dos miliários da via.",
+        "name": "Miliários do Bico da Geira - m.p.XXXI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.16055,
+          41.78793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A milha XXVIII seria nas traseiras da igreja no sítio da Leira dos Padrões; um miliário a Caro está dentro do jardim de uma casa particular à entrada da povoação; fragmento de um miliário indicando a milha 28 e outro miliário anepígrafo encastrados em paredes de casas da aldeia; fragmento de miliário na Leira do Cotelo, no lugar do Porto do Carro a norte da aldeia; Argote refere um miliário a Magnêncio neste local e em 1728 o Pa. Matos Ferreira mencionou mais dois miliários neste local todos já desaparecidos;",
+        "name": "Miliários do Campo do Gerês - m.p.XXVIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.193901,
+          41.758391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Quatro fragmentos de miliários anepígrafos junto do marco geodésico do Marco que deveriam assinalar a passagem da  Via Évora-Serpa.",
+        "name": "Miliários do Marco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.914721,
+          38.452495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários anepígrafos partidos em três fragmentos no Monte da Venda que integravam a via romana Évora-Mérida do Itinerário XII de Antonino entre Lisboa e Mérida. A via passaria a poente de Azaruja por Castelo Ventoso, Monte do Almo, Monte da Venda e Monte da Torre rumoa a Évora Monte.",
+        "name": "Miliários do Monte da Venda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.783916,
+          38.714474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vários de miliários associados à «Via Nova» em redor de Barreiros no concelho de Amares: três fragmentos na Qta. do Agrolongo (http://viasromanas.pt/vr/marcos_agrolongo_amares.jpg) e um fragmento na  Qta. da Pena (http://viasromanas.pt/vr/marco_quinta_pena_amares.jpg). O marcador indica o local onde a milha VI seria vencida junto do lugar de Além/Sra. das Angústias.",
+        "name": "Miliários em Barreiros - m.p.VI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.387936,
+          41.617511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários anepígrafos provenientes da Casa da Abadia em Bouçoães (Valpaços), antiga casa paroquial, hoje guardados na Junta de Freguesia.",
+        "name": "Miliários em Bouçoães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.209613,
+          41.742039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários provenientes das Ponte de Sedões, Trofa Velha, em exposição na Casa da Cultura da Troga em S.Martinho do Bougado.",
+        "name": "Miliários em Bougado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.574002,
+          41.337785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliários recolhidos por Mário Saa em exposição na sua casa-museu, Fundação Arquivo Paes Teles no Ervedal (Avis). Um miliário a Constantino Magno proveniente da Lagoa Grande (Bemposta, Abrantes) e um miliário a Tácito proveniente da Capela de Ns. dos Prazeres em Vale de Açor (Ponte de Sor).",
+        "name": "Miliários em Ervedal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.813911,
+          39.043478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O marcador indica o miliário que está junto da igreja visigótica de Idanha, junto da rua que seguia para a porta sul; Os restantes miliários estão no museu de epigrafia, mesmo ao lado, e são ambos  provenientes de Alcafozes.",
+        "name": "Miliários em Idanha-a-Velha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.14453,
+          39.996133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Conjunto de vários miliários da VIA XIX reutilizados na construção da capela de S. Bartolomeu das Antas. Contam-se 6 miliários, dois deles suportando o alpendre, o de Magnêncio da milha XXXI 31, proveniente de Pereiros em Rubiães e o de Nerva da milha XXXVI 36 proveniente do Monte das Contenças em Fontoura; os restantes estão hoje ao redor da capela sendo um deles a Juliano da milha XXXII 32 proveniente da Ponte de Rubiães, outro a Maximino e Máximo, outro a Maximino II Daia e outro anepígrafo.",
+        "name": "Miliários em S. Bartolomeu das Antas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.643094,
+          41.899276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Os 5 miliários que estavam reunidos nos jardins da antiga JAE em Viana do Castelo foram transferidos para as novas instalações da empresa (agora designada por Estradas de Portugal) entre o km 3 e 4 da EN203 que liga Viana a Ponte de Lima (Av. São Nicolau, 1114, Mazarefes); A lista dos marcos é a seguinte: 1. miliário dedicado a Maximino Daia proveniente do Monte da Gândara (Sapardos, Cerveira) indicando a milha 34; 2. miliário dedicado a Constâncio I ou II do lugar da Ranhoura (Sapardos, Cerveira); 3. miliário provenientes do lugar da Freita (Labruja, Ponte de Lima); 4.  miliário dedicado a Constantino I do Espinheiro (Labruja, Ponte de Lima) e finalmente um miliário muito duvidoso sem inscrição  encontrado no caminho para o Cais de Arinhos em Valença.Ver aqui fotos dos miliários. (http://viasromanas.blog.pt/2011/11/5180731/)",
+        "name": "Miliários em Viana do Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.77013,
+          41.681401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliário a Constante achado nas proximidades (IRCP 676) e  um miliário proveniente de Cabanas na Herdade de Alcobaça em Elvas dedicado a Marco Aurélio.",
+        "name": "Miliários em Vila Viçosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.415042,
+          38.779969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Colecção de vários miliários provenientes na região de Viseu recolhidos no jardim da Assembleia Distrital de Viseu.",
+        "name": "Miliários na Casa do Miradouro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.911242,
+          40.660614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários anepígrafos na leira da casa relacionados com a milha 28 da VIA XIX que seria na Portela de Romarigães junto ao castro romanizado do Couto do Ouro.",
+        "name": "Miliários na Casa Grande de Romarigães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.625637,
+          41.866578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dentro da Igreja Paroquial apareceram 4 miliários,  dois estão dentro da igreja, o miliário Macrino ou Carino e o miliário a Décio (http://arqueologia.igespar.pt/POC/?sid=sitios.resultados&subsid=48902), este indicando 6 milhas a Chaves; um outro miliário anepígrafo está no adro da igreja e um fragmento de um miliário a Dalmácio foi deslocado para  a casa do Pe. Fernando Pereira em Vilar de Nantes.",
+        "name": "Miliários na Igreja de S. Julião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.394807,
+          41.717806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários anepígrafos na Porta Norte da cidade romana de Conímbriga, por onde chegava a via proveniente de Aeminium e partia a via rumo a Collippo.",
+        "name": "Miliários na Porta de Conímbriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.493886,
+          40.099887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cinco miliários deslocados na Quinta de Faldejães em Ponte de Lima; todos pertencem à VIA XIX  (Braga-Lima-Tui-Astorga) que passava próximo; 3 deles vieram da Quinta do Antepaço e outro estava na capela de S. Sebastião em Labruja.",
+        "name": "Miliários na Quinta de Faldejães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.58496,
+          41.777736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Neste casal localizado a sul de Velhascos (Mação) existem vários fustes de colunas com cerca de 35 cm de diâmetro que poderão ser miliários Um deles está deitado dentro de um palheiro e os outros fragmentos encontram-se ainda em posição vertical à entrada da estação e à beira de um cruzamento de vias romanas.",
+        "name": "Miliários no Casal da Sra. da Graça"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.129671,
+          39.506279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "4 miliários no Castelo de Belmonte provenientes da Ribeira do Colmeal e das Lameiras;",
+        "name": "Miliários no Castelo de Belmonte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.347997,
+          40.359372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Quatro miliários no Museu do Convento do Carmo em Lisboa. Três deles provêm da via Lisboa - Braga, dois  provenientes de S. João do Couto (Tomar) e o terceiro,   dedicado a Adriano, provém da Qta. do Bravo em Alenquer. O quarto miliário em exposição provém da Qta. do Cadouço (Famalicão da Serra, Guarda) que pertencia ao Itinerário Braga-Mérida",
+        "name": "Miliários no Convento do Carmo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.140243,
+          38.712146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Grande coleccção de miliários no acervo do Museu Nacional de Arqueologia, mas apenas uns poucos em exposição.<br>Lista não exaustiva: <br>- Miliário da Correlhã (Ponte de Lima);<br>- Miliário de Silveirona (Estremoz);<br>- Miliário a Probo de Ponte de Sor;<br>- Miliário a Dalmácio de Possacos (Valpaços);<br>- Miliário a Tibério da Ponte do Arco (Montalegre);<br>- Miliário a Constâncio II de Chamosinhos (São Pedro da Torre, Valença);<br>- Miliário a Diocleciano e Maximiano da Herdade de Alcobaça (Elvas);",
+        "name": "Miliários no MNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.206836,
+          38.697317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Miliários no Museu Municipal de Oliveira de Frades; Todos provenientes da via Talábriga-Viseu, nomeadamente, 2  miliários de  Reigoso e mais 2 de Benfeitas.",
+        "name": "Miliários no Museu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17632,
+          40.732345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O Abade Baçal recolheu vários miliários da região que estão hoje em exposição no Museu Municipal Abade Baçal. São 8 miliários:<br>- n.º 1566 - miliário a Augusto da Capela de S. Sebastião em Vilar, Soeira;<br>- n.º 1570 - miliário a Adriano da capela de S. Pedro Velho de Babe;<br>- n.º 1572 - miliário a Caracala da capela de S. Pedro Velho em Babe;<br>- n.º 1575 - miliário a Caro da Cruz do Marrão, Gimonde;<br>- n.º 1580 - miliário a Maximiano da Capela de S. Claudio em Formil;<br>- n.º 1583 - miliário a Caracala de Castro de Avelães;<br>- n.º 1584 - miliário a Augusto de Castro de Avelães;<br>- n.º 1585 - miliário a Constâncio I de Capela de S. João em Lamalonga;",
+        "name": "Miliários no Museu Abade Baçal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.753156,
+          41.805864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Enorme colecção de miliários pertencentes às vias que partiam de Bracara Augusta dos quais de destaca os seguintes:<br>Miliário a Augusto indicando 43 milhas a Tui pelo que devera indicar o início da VIA XIX. <br>Miliário a Heliogábalo indicando a milha III da VIA XVII que apareceu em junto à EN103 em Areias, Gualtar.<br>Miliário a Tibério indicando a milha I da VIA XVII que apareceu na Qta. das Goladas junto à Rua do Padre Manuel Alaio em Braga.<br>Miliário a Adriano indicando a milha XIII da VIA XVI que apareceu em Santiago de Antas, Famalicão.<br>Miliário a Maximino e Máximo indicando a milha I da VIA XIX que apareceu no Monte dos Cones à saída de Braga.<br>Miliário a Claudio indicando a milha IV que tanto poderá pertencer à VIA XVII como à VIA XIX.<br>Os restantes são de incerta via dedicados a Nerva, Caracala, Caro, Carino (milha VII), Diocleciano, Constâncio I, Galério e Magnêncio.",
+        "name": "Miliários no Museu D. Diogo de Sousa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.427727,
+          41.546197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O Museu da Guarda tem em exposição dois miliários provenientes do lugar de Barrelas em Famalicão da Serra e que assinalavam a passagem da Via Romana Braga-Mérida pela vertente oriental da Serra da Estrela: o miliário a Tácito e Miliário a Constantino Magno. Aqui está também a ara consagrada a Júpiter pelos Vicani Sangoabonienses que apareceu na Coriscada (Mêda) além de muitas outras peças arqueológicas recolhidas no distrito.",
+        "name": "Miliários no Museu da Guarda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.267541,
+          40.537599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Enorme colecção de miliários recolhidos na região, nomeadamente: os três miliários da Venda dos Padrões,  o miliário a Cláudio proveniente de Arcos, o miliário a Tibério provenientes do Pindo,  miliário a Augusto proveniente de Sapelos, o miliário a Trajano da Pastoria, o fragmento de miliário a Caracala ou Adriano (http://arqueologia.igespar.pt/POC/?sid=trabalhos.resultados&subsid=2585764), o miliário a Constâncio proveniente de Eiras e vários fragmentos encontrados nas imediações de Chaves.",
+        "name": "Miliários no Museu da Região Flaviense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.471717,
+          41.740032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O museu guarda o miliário do Louredo.",
+        "name": "Miliários no Museu de Beja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.86306,
+          38.013824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Quatro fragmentos de miliários no Museu Monográfico de Conímbriga, achados dentro da cidade ou nas suas proximidades: dois a Constâncio Cloro, um a Tácito e outro a Galério Maximiano. Ver em aqui (http://www.matriznet.imc-ip.pt/MatrizNet/Objectos/ObjectosListar.aspx?TipoPesq=4&NumPag=1&RegPag=50&Modo=1&Desc=mili%C3%A1rio&BaseDados=11&IdAutor=).",
+        "name": "Miliários no Museu de Conímbriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.490328,
+          40.098312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O museu tem em exposição dois miliários; um apareceu em Quintas da Torre (Torre dos Namorados) é dedicado a Maximiano e indica a milha XXII contadas a partir de Idanha-a-Velha (Igaedis); da inscrição original ainda se lê [IMP(erator)] CAES(ar) / MASVMI/ANVS / [M(ilia) P(assuum)] XXII. O outro miliário, dedicado a Licínio, é proveniente do Coito de Cima (Salgueiro) lendo-se ainda:  VALERIO / LICINIANO / LICINIO / IUNIOR.",
+        "name": "Miliários no Museu do Fundão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.500014,
+          40.136297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O museu tem em exposição o miliário de Alagoas (Aldeia de St. António), e o miliário de St. Estevão na  dedicado a Tácito e que indicava a milha VII contadas talvez a partir da travessia do rio Côa em sabugal que seria assim o limite teritorial entre duas civitas.",
+        "name": "Miliários no Museu do Sabugal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.092684,
+          40.352313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Três miliários depositados no museu: o miliário dedicado a Licínio Pai achado no lugar de Chãos (Santa Luzia, Mangualde) e dois fragmentos de miliários ambos provenientes algures de Vouzela, um é dedicado a Constantino I e no outro apenas restam com algumas letras.",
+        "name": "Miliários no Museu Grão Vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.910756,
+          40.660081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vários miliários no Museu Arqueológico da Sociedade Martins Sarmento. O museu mento guarda o miliário de S. Martinho de Sande, supostamente pertencente à Via Braga-Mérida e mais 5 miliários encontrados perto de Braga, 3 de incerta via, o miliários do Prado e o miliário da Qta. de Germil em Panoias pertencenetes à Via XIX - Braga-Valença.",
+        "name": "Miliários no Museu Martins Sarmento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.296424,
+          41.442751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois miliários:   Miliário a Constante (http://viasromanas.pt/vr/marcodearealdebaixo.jpg), proveniente do Areal de Baixo em Braga pelo que deveria indicar a milha I da VIA XVII (http://viasromanas.pt/index.html#bragachaves) que ligava Braga a Chaves e o Miliário a Constantino II indicando a milha VIII (http://http://viasromanas.pt/vr/) desde TONGOBRIGA que pertencia à via que ligava a civitas de Tongobriga na aldeia do Freixo em Marco de Canaveses ao rio Douro, troço que pertenceria à Via Braga-Mérida (http://viasromanas.pt/index.html#bragamerida).",
+        "name": "Miliários no Museu Nacional Soares dos Reis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.621532,
+          41.147796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vários miliários provenientes das vias na região de Bracara Augusta.<br><br>VIA XVI - Braga-Lisboa:<br>- Os miliário de Lousado e de Carreiras em Vila Nova de Famalicão.<br><br>VIA XIX - Braga - Tui - Astorga<br>1 - Miliário a Adriano de S. Pedro de Merelim;<br>2 - Miliário a Valentiano I da milha VI de Oleiros;<br>3 - Miliário da Igreja Velha de Arcozelo;<br>4 - Miliário a Valentiano I  talvez da Portela Pequena de Romarigães;",
+        "name": "Miliários no Museu Pio XII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.425803,
+          41.548492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Três cipos nas ruas da vila poderão ser colunas ou miliários reutilizados.",
+        "name": "Miliários? em Penedono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.394954,
+          40.989621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois possíveis miliários anepígrafos suportando o alpendre da Capela de Santa Eulália em Repeses.",
+        "name": "Miliários? em Repeses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.925426,
+          40.644465
+        ]
+      }
+    }
+  ]
+}

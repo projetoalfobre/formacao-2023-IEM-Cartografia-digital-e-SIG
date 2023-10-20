@@ -1,0 +1,1979 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Pequeno troço de calçada da a via Bracara-Tongobriga-Emerita.",
+        "name": "Calçada  da Mouta-Espiúca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.166581,
+          41.334597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada que poderia integrar a via Amarante - Aboadela - Serra do Marão - Vila Real.",
+        "name": "Calçada  de Marancinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.028954,
+          41.266504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "name": "Calçada da Azenha do Silveira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.965725,
+          38.424269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da via romana que ligava Cale (Porto) a Vissaium (Viseu) junto da Ponte da Barreira em Manhouce.",
+        "name": "Calçada da Barreira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.213475,
+          40.828626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana  Salacia-Ebora na Herdade da Biscainha junto da albufeira da barragem do Pego do Altar.",
+        "name": "Calçada da Biscainha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.348352,
+          38.439392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada com 300 m possivelmente da via romana entre Collippo e Scallabis; a calçada parece no entanto uma construção da época medieval.",
+        "name": "Calçada da Carreirancha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.768005,
+          39.610257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada medieval com 50 m sobre a antiga via romana que passava na Ponte da Catribana.",
+        "name": "Calçada da Catribana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.413978,
+          38.887875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada romana (?) que dava acesso à povoação de Linhares na Serra da Estrela.",
+        "name": "Calçada da Corredoura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.467711,
+          40.540915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada romana (?) que deveria integrar uma via que ligava Ammaia (Aramenha, Marvão) a Igaeditania (Idanha-a-Velha) proveniente da  travessia do Rio Tejo na Barca de Perais continuando para Castelo Branco.",
+        "name": "Calçada da Coutada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.616157,
+          39.687224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Calçada com 50m junto da Estação CF da Covilhã (hoje asfaltado); a via deveria seguir por Orjais até Vale Formoso.",
+        "name": "Calçada da Covilhã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.49719,
+          40.278662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana Talabriga - Vissaium (Cabeço do Vouga a Viseu) passando por Talhadas, Ereira, Benfeitas e Reigoso.",
+        "name": "Calçada da Ereira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.297535,
+          40.673164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da via Picoto - Feira - Oliveira de Azeméis.",
+        "name": "Calçada da Felgueira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.504971,
+          40.842964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Sulcos na rocha na crista da montanha:",
+        "name": "Calçada da Fonte do Pião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.86376,
+          40.216998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana Talabriga - Vissaium junto a Vouzela.",
+        "name": "Calçada da Ladeira da Forca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.112969,
+          40.720346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada romana com cerca de 500 m que permitia o acesso a Celorico da Beira após a travessia do Rio Mondego na Ponte da Lavandeira.",
+        "name": "Calçada da Lavandeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.39407,
+          40.640502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado com 337 m da antiga estrada medieval que ligava Braga a Barcelos. A sua utilização em época romana é praticamente segura podendo integrar uma via romana que ligava Braga ao litoral.",
+        "name": "Calçada da Naia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.445642,
+          41.53878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada com 200 m junto da Qta. da Costa em Fornos de Algodres. O caminho romano começa junto à capela da Sra. da Graça, seguindo por trás da zona industrial, pelos limites das quintas da Lomba, do Seminário de S. José e  da Costa, descendo para a travessia do Rio Mondego na Ponte dos Juncais, mas hoje está cortada pela A25. Admite-se que este troço fazia parte da Via Viseu-Celorico da Beira, mas Fornos parece estar num nó rodoviário de vias N-S que ligavam os vicus de Infias, Algodres e Queiriz a norte com os acessos à Serra da Estrela a sul.",
+        "name": "Calçada da Ns. da Graça"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.532852,
+          40.622988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada na descida para o rio Mondego, eventualmente com origem romana.",
+        "name": "Calçada da Pedra da Sé, Tábua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.054159,
+          40.371729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada que dava acesso à travessia do rio Côa junto da Quinta da Ervamoira, onde existia uma mutatio de apoio à via.",
+        "name": "Calçada da Penhascosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.099386,
+          41.005504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado próximo de Aldeia Viçosa (Guarda).",
+        "name": "Calçada da Portela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.327559,
+          40.586645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado junto da aldeia da Ramalhosa (Guarda); esta via continua pela calçada de Tintinolho rumo a Póvoa do Mileu na Guarda.",
+        "name": "Calçada da Ramalhosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.298906,
+          40.569588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada da via romana entre Viseu e Mangualde.",
+        "name": "Calçada da Roda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.77964,
+          40.616321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana Talabriga - Vissaium (Cabeço do Vouga - Viseu) depois de p+assar na aldeia de São Tiaguinho.",
+        "name": "Calçada da São Tiaguinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.148406,
+          40.710938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da antiga estrada que ligava Idanha-a-Velha a Monsanto que passava na Serrinha, junto do Alto da Bigorna. Este troço deveria integrar a via romana que partia de Igaedis rumo a norte.",
+        "name": "Calçada da Serrinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.136703,
+          40.012392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada entre Labogueira e São Martinho que fazia parte da via romana entre Talabriga (Cabeço do Vouga) e Vissaium (Viseu). O marcador indica o cruzamento com a IP3/A24.",
+        "name": "Calçada da Sra. do Castro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.967999,
+          40.684148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dois troços de lajeado junto da aldeia de Valezim (Serra da Estrela); o primeiro na sitio de Darrua e o outro junto da Capela de S. Domingos, seguindo rumo a Loriga pela Portela de Arão.",
+        "name": "Calçada da Valezim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7192,
+          40.357001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da calçada entre Alagoas e Coval (Escariz) que integrava a via romana Porto-Viseu.",
+        "name": "Calçada da Venda da Serra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.384621,
+          40.913823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da via romana entre Granja do Tedo e Arcos.",
+        "name": "Calçada da Via Granja do Tedo - Arcos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.587865,
+          41.056979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado junto das Caldas de Carlão.",
+        "name": "Calçada das Caldas de Carlão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.371617,
+          41.329471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Restos de um troço da via romana que ligava Vissaium (Viseu) a Cale (Porto) por São Pedro do Sul.",
+        "name": "Calçada de Abraveses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.916032,
+          40.680224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada com 80 m que faria parte da via romana proveniente de Viseu rumo à Bobadela cruzando o rio Mondego para Midões.",
+        "name": "Calçada de Alagoas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.958074,
+          40.439048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Este troço de calçada romana pertencia à Via Viseu-Bobadela e partia de Banhos (Termas de Alcafache) atravessava a ponte com origem romana sobre o rio Dão e ascendia ao lugar do Peso, nó rodoviário.",
+        "name": "Calçada de Alcafache"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.869297,
+          40.602061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífico troço lajeado da calçada romana proveniente de Viseu, na descida para o Rio Vouga. Ver foto (http://viasromanas.pt/vr/calcadadealmargemviseu.jpg).",
+        "name": "Calçada de Almargem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.898244,
+          40.753867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado que desce de Poiares (Freixo de Espada à Cinta) até ao rio Douro. Este troço integrada o chamado \"Carril Mourisco\" proveniente do planalto do Mirandês que cruzava o rio DOuro em Barca de Alva e continuava para sul rumo ao território dos Cobelci com sede em Torre de Almofala e dos Igaeditani com sede em Idanha-a-Velha.",
+        "name": "Calçada de Alpajares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.099386,
+          41.005504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada romana (?) entre Castelo Branco e Fundao.",
+        "name": "Calçada de Alpedrinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.473796,
+          40.103512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana de Cale a Tongobriga após a travessia da ribeira de Cavalum na Ponte de Santa Marta (Penafiel), ascendendo a montaha rumo ao Castro de Quires.",
+        "name": "Calçada de Arnova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.238566,
+          41.209067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado em Pinheiro de Baixo.",
+        "name": "Calçada de Barreiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.79358,
+          40.59141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana entre Beira Valente e Moimenta da Beira passando nos sítios de Cabeça, Carguencho e Cidade de Mouraria, também chamada de «Estrada Larga».",
+        "name": "Calçada de Beira Valente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.637001,
+          40.998714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado numa subida íngreme entre Bodelos e Agrelos, após cruzar a ribeira da Camba, rumo a Cabeça Santa, hoje designada por  «Rua da Via Romana». Esta via partia do cruzamento de Oldrões para sudeste, mas onde ligaria?",
+        "name": "Calçada de Bodelos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.290934,
+          41.140931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado possivelmente com origem romana.",
+        "name": "Calçada de Bucelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.098636,
+          38.903821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado com cerca de 300 m que deriva da EM507 logo depois do cruzamento com a estrada de acesso a Sanjurge. Integraria a «Estrada para Montalegre» antiga via romana que se dirigia para noroeste rumo a Vilar de Perdizes, servindo diversos povoados mineiros na periferia de Chaves.",
+        "name": "Calçada de Bustelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.49562,
+          41.779948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada que acompanha o rio Cabrela possivelmente com origem romana.",
+        "name": "Calçada de Cabrela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.346264,
+          38.862643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Uma da vias romanas que partia da cidade romana de Ammaia (S. Salvador de Aramenha, Marvão) rumo a sul atravessava a Ribeira dos Alvarrões na Ponte Romana da Madalena e seguia encosta acima por esta calçada que passa no lugar de Carris. Este caminho continua durante alguns quilómetros até confluir com a EN 359, seguindo talvez por Ribeira de Nisa e Portalegre rumo a Évora.",
+        "name": "Calçada de Carris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.401371,
+          39.354269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana descendo do cemitério até à Ponte Pedrinha, onde atravessa o rio Paiva. Esta via deveria rumar a   Vissaium (Viseu).",
+        "name": "Calçada de Castro Daire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.936004,
+          40.894778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada que seguia para a Ponte do Vouguinha ligando Viseu à região de Moimenta da Beira.",
+        "name": "Calçada de Cepões I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.817587,
+          40.740717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada que seguia para a Ponte do Vouguinha ligando Viseu à região de Moimenta da Beira.",
+        "name": "Calçada de Cepões II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.810666,
+          40.754604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante troço da via romana junto da zona industrial de Coimbrões. Este troço deveria pertencer à Via entre Viseu e Bobadela pela Ponte de Alcafache (http://viasromanas.pt/index.html#viseubobadela) onde atravessa o Rio Dão.",
+        "name": "Calçada de Coimbrões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.88689,
+          40.630832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de uma calçada que integraria a via romana entre Castelo Branco e Idanha-a-Velha.",
+        "name": "Calçada de Escalos de Baixo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.393061,
+          39.887458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada com possivel origem romana ligando a villa de São Miguel de Odrinhas ao vicus de Faião.",
+        "name": "Calçada de Faião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.361998,
+          38.885365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana Talabriga - Vissaium (Cabeço do Vouga a Viseu).",
+        "name": "Calçada de Figueiredo das Donas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.063478,
+          40.726792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado com 1500 m após passar nos Viveiros de Folgosinho e segue rumo à Pedra Furada, na cumeada da Serra da Estrela. Integrava segurament a via romana de Vissaium (Viseu) a Centum Cellae (Belmonte), podendo integrar o grande Itinerário de Braga a Mérida.",
+        "name": "Calçada de Galhardos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.517838,
+          40.499546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da via romana que ligava Cale (Porto) a Vissaium (Viseu) junto da aldeia de Gestoso.",
+        "name": "Calçada de Gestoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.247199,
+          40.851985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de calçada em Lajeirão (São Cosmado, Armarmar).",
+        "name": "Calçada de Lajeirão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.654465,
+          41.055446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana Seia -  Alvoco da Serra junto da aldeia de Loriga  (Serra da Estrela).",
+        "name": "Calçada de Loriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.70383,
+          40.334398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada com provável origem romana que ligaria o vicus da Murqueira ( Esmolfe) a  Mangualde, podendo seguir para Sul rumo a Bobadela.",
+        "name": "Calçada de Ludares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.706585,
+          40.634948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífico troço de calçada romana com 50m e 5,6 m de largura junto à Capela de N. Sra. da Conceição; indicada na EN232. Ver foto (http://viasromanas.pt/calcadademourilhemangualde.jpg). Deveria pertencer à Via que atravessa a Serra da Estrela entre Viseu e Famalicão da Serra (http://viasromanas.pt/index.html#viseufamalicao).",
+        "name": "Calçada de Mourilhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.735859,
+          40.576562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana com cerca de com 1 km junto da Aldeia de Nacomba (Rua da Via Romana).",
+        "name": "Calçada de Nacomba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.621525,
+          40.948144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada perpendicular à linha férrea em Paialvo, designada por Calçada de Casal Salgueiro. Poderia integrar a Via XVI.",
+        "name": "Calçada de Paialvo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.462979,
+          39.558906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado com possível origem romana situada a oeste do marco geodésico do Pendão em Paranho de Besteiros.",
+        "name": "Calçada de Paranho de Besteiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.095928,
+          40.611356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No sentido NO-SE podendo integrar a via para Marialva.",
+        "name": "Calçada de Paredes da Beira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.468752,
+          41.055123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada (http://arqueologia.igespar.pt/index.php?sid=sitios.resultados&subsid=56155) próximo do cemitério  que integraria uma provável via romana chamada de «Estrada da Cova» proveniente da travessia do rio Zêzere que passa na base do Castro da Ns. da Confiança rumo à Sertã.",
+        "name": "Calçada de Pedrogão Pequeno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.125703,
+          39.900952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada junto ao muro do Mosteiro de Pombeiro seguindo até confluir com o CM1175 por onde continua já em asfalto.",
+        "name": "Calçada de Pombeiro de Ribavizela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.224671,
+          41.384277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada junto da velha escola primária de Porto Antigo (Cinfães) que pertencia à presumível via romana que seguia para Vissaium (Viseu) por Castro de Daire.",
+        "name": "Calçada de Porto Antigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.074394,
+          41.089326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada junto da travessia da ribeira de Seixe em Odeceixe. Pertencia provavelmente à via romana entre Mirobriga (Santiago do Cacém) e Laccobriga (Lagos).",
+        "name": "Calçada de Porto da Torre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.752518,
+          37.430764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada que contorna o Castro de Porto Manso, na local de cruzamento da via férrea.",
+        "name": "Calçada de Porto Manso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.081682,
+          41.098024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada que contorna o Castro de Porto Manso, na local de cruzamento da via férrea.",
+        "name": "Calçada de Porto Manso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.081682,
+          41.098024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Calçada Romana em muito bom estado pertencente à Via Talábriga-Viseu (http://viasromanas.pt/index.html#marnelviseu). A via está a ser destruída em alguns pontos. Ver foto (http://viasromanas.pt/calcadadepostasneiros.jpg)",
+        "name": "Calçada de Postasneiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.157939,
+          40.705907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada romana (?). Marcador indicativo.",
+        "name": "Calçada de Póvoa da Atalaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.432763,
+          40.064222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Um dos melhores troços de calçada romana em Portugal. Começa à saída da aldeia de Ranhados segue junto do campo de futebol e passa debaixo da A25, ascendendo depois à zona industrial de Coimbrões. Este troço deveria pertencer à Via entre Viseu e Bobadela pela Ponte de Alcafache (http://viasromanas.pt/index.html#viseubobadela) onde atravessa o Rio Dão.",
+        "name": "Calçada de Ranhados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.896284,
+          40.64204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da presumível via romana entre a Guarda e Pinhel, partindo da aldeia de Rapoula pelo caminho da Sra. da Lagoa, seguindo próximo do casal romano de Vilares.",
+        "name": "Calçada de Rapoula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.201837,
+          40.602727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de calçada junto do povoado romano do Monte de S. Martinho.",
+        "name": "Calçada de S. Martinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.465412,
+          39.805847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de via romana entre Sangrinheira e o Sr. do Bonfim, a nascente de Ardões.",
+        "name": "Calçada de Sangrinheira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.590421,
+          41.75832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana que ligava Cale (Porto) a Vissaium (Viseu) que atravessava a Serra da Freita por Manhouce e seguia por Santa Cruz da Trapa rumo a S. Pedro do Sul.",
+        "name": "Calçada de Santa Cruz da Trapa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.155537,
+          40.771628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da via romana que ligava Cale (Porto) a Vissaium (Viseu) no sítio dos Castanheiros, junto a Sequeiro (Manhouce).",
+        "name": "Calçada de Sequeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.213306,
+          40.813017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada que contorna o Castro de Soalhão.",
+        "name": "Calçada de Soalhão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.103453,
+          41.142869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Pequeno troço de calçada partindo da EM1087-2 em Vale do Boi (Ansião); esta estrada, hoje aslfaltada, corresponde a uma via secundária que derivando da Via XVI no troço entre Conimbriga e Seilium, passando próximo da villa de Santiago da Guarda rumo ao vicus que existia em Ansião.",
+        "name": "Calçada de Vale de Boi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.461288,
+          39.930893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vários troços em calçada da via que seguia para o planalto.",
+        "name": "Calçada de Vale Longo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.363014,
+          40.738114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via Chaves-Douro/Vesúvio junto do Aeródromo de Alijó",
+        "name": "Calçada de Vila Chã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.455324,
+          41.330836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada que ascende da Ponte de Vila Fria. Ver foto (http://viasromanas.pt/calcadadevilafriafelgueiras.jpg)",
+        "name": "Calçada de Vila Fria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.231313,
+          41.393726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada que fazia parte da via proveniente da Bobadela e que passava junto da Igreja Moçarabe de S. Pedro em Lourosa e subia a Vila Pouca de Aguiar.",
+        "name": "Calçada de Vila Pouca da Beira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.920528,
+          40.309716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada lajeada com marcas profundas de rodados, proveniente de Vila Verde e seguindo rumo ao ribeiro de Ascra, onde existia uma ponte destruída em 1909 devido a uma cheia.",
+        "name": "Calçada de Vila Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.544048,
+          41.364168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana Talabriga - Vissaium (Cabeço do Vouga - Viseu) passando na zona industrial a sul da aldeia da Vilarinho.",
+        "name": "Calçada de Vilarinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.177214,
+          40.706205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada romana junto da travessia do rio Sousa.",
+        "name": "Calçada do Ameal/Souto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.18431,
+          41.342589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado nas traseiras da igreja em Carapito (Aguiar da Beira).",
+        "name": "Calçada do Carapito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.470539,
+          40.766145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada com 1500 m da Via VXI entre Tomar e Torres Novas.",
+        "name": "Calçada do Casal da Quebrada/Bom Amor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.530026,
+          39.486544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da via Porto - Viseu que parte do Largo do Cruzeiro em Escariz em direcção Gestosa passando no lugar do Viso.",
+        "name": "Calçada do Cruzeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.410164,
+          40.939843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado com 2 km da via romana que ligava Tabuaço a Távora.",
+        "name": "Calçada do Fradinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.551374,
+          41.105394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de via romana entre Ardões e Seara Velha.",
+        "name": "Calçada do Fragão do Fôjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.578466,
+          41.761504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada romana junto do cemitério de Guardão de Baixo (Rua da Igreja).",
+        "name": "Calçada do Guardão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.158853,
+          40.572149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de sulcos de rodados e ocupação romana, 400 m a norte da aldeia de Marmelal, também conhecida aqui por «Estrada de Abrantes».",
+        "name": "Calçada do Lameiro de Tomar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.75598,
+          39.678076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado já destruido que descia de Capinha à ponte sobre a ribeira de Meimoa, devendo integrar a Via Braga-Mérida que seguia para Idanha-a-Velha.",
+        "name": "Calçada do Sítio das Lajens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.369822,
+          40.196953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado que liga o Mondego à Guarda junto da Quinta de São Mateus.",
+        "name": "Calçada do Tintinolho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.295177,
+          40.565398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada com cerca de 1300 no sentido N-S a norte da aldeia de Moncarapacho; deveria integrar a via proveniente de Beja rumo a Balsa e Ossonoba.",
+        "name": "Calçada do Vale da Serra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.788201,
+          37.102103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da via romana que ligava Olisipo (Lisboa) a  Caetobriga (Setúbal). A via desce da Serra da Arrábida até ao Grelhal.",
+        "name": "Calçada do Viso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.92105,
+          38.526613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço com 300 m da via romana para Viseu.",
+        "name": "Calçada em Bodiosa-a-Velha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.994218,
+          40.728881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Pequeno troço de calçada que poderia integrar a via Amarante - Vila Real pelo Marão.",
+        "name": "Calçada em Bustelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.97889,
+          41.233592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado que passa junto do arco romano. Deveria integrar a via secundária entre Braga e Panoias.",
+        "name": "Calçada em Campeã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.86725,
+          41.288875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de via romana para Chaves cruzando a linha divisória entre os concelhos de Montalegre e Boticas, seguindo pela base do Castro da Malhô até Sapelos.",
+        "name": "Calçada em Malhô"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6371,
+          41.76541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troços em calçada na Portela do Pindo.",
+        "name": "Calçada em Pindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.65285,
+          41.766288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da via romana Talabriga - Vissaium (Cabeço do Vouga a Viseu).",
+        "name": "Calçada em Pisco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.289678,
+          40.674115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios do lajeado romano com cerca de 10 m.",
+        "name": "Calçada em Ponte da Feira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.27902,
+          40.678825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via nas traseiras da Capela da Senhora da Ajuda em Teixelo (Tarouca).",
+        "name": "Calçada em Teixelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.779263,
+          40.987555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cerca de 2 km em calçada que liga à Ponte do Touro.",
+        "name": "Calçada na Ponte do Touro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.775643,
+          40.943506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da Via XVII no Alto da Mortiça (Chaves), actualmente cortado pela A24<br>.",
+        "name": "Calçada no Alto da Mortiça"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.525574,
+          41.737395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada entre Estoi e Machados da Via Ossonoba-Arannis-",
+        "name": "Calçada para Porto Velho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.900426,
+          37.122119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado da calçada entre Vale da Vila (St. Ovídeo) e Sendim.",
+        "name": "Calçada Vale de Vila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.535807,
+          41.050015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada conhecida localmente por \"Calçadinha\" à entrada de São Brás de Alportel; este troço faria parte da Via Ossonoba - Arannis, ou seja Faro - S. Bárbara dos Padrões.",
+        "name": "Calçadinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.891157,
+          37.146046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada romana que segue até ao rio Xarrama, junto ao Torrão. Devria integrar a Via Salacia-Pace Iulia.",
+        "name": "Calçadinha do Torrão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.229615,
+          38.301456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço de calçada bem conservada que ligaria Alter Pedroso a Cabeço de Vide; vestígios de rodados.",
+        "name": "Estrada de S. Domingos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.591921,
+          39.142389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço calcetado da via romana que passava na Ponte do Arco.",
+        "name": "Estrada Velha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.604053,
+          41.413086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado com cerca de 300 m que começa na rua Calçada da Sra. da Caridade, passa na Capela do Ermo e continua pela Calçada General Sousa Brandão, com um extenso troço junto das alminhas do Sr. da Boa Morte, seguindo depois rumo ao lugar do Monte, mas hoje está obstruído por mato. Este troço faria parte da via romana que ligava o Castelo da Feira à Ponte da Pica ou ao Castro de Úl.",
+        "name": "Via Antiga de Mosteirô"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.523208,
+          40.897376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana Talabriga - Vissaium (Cabeço do Vouga a Viseu).",
+        "name": "Via em Entre-Águas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.247826,
+          40.692897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Antiga via de acesso à travessia do rio Côa na «Ponte Velha» (Cinco Vilas).",
+        "name": "Via em Poço Cavalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.001999,
+          40.785841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da Via Freixo de Numão ao Douro por Murça em Regadas, possível estação viária tipo mutatio dada situar-se junto da via romana e haver evidência de uma oficina de ferraria.",
+        "name": "Via Freixo Murça em Regadas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.226446,
+          41.074394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via entre Mêda e Marialva.",
+        "name": "Via Mêda a Marialva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.236111,
+          40.930425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana partindo da rua da Calçada em Casal da Ordem rumo ao vicus da Lavandeida ou da Telhada; a calçada foi subsituida por um estradão em terra batida.",
+        "name": "Via na Lavandeira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65658,
+          39.82222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana Braga-Chaves junto da Mina Romana do Poço das Freitas.",
+        "name": "Via no Poço das Freitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.602921,
+          41.737073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço lajeado em Adaúfe que integrava a chamada VIA NOVA, a via romana que ligava Braga-Astorga pela Serra do Gerês.",
+        "name": "Via Nova em Adaúfe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.396658,
+          41.584262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A Via Nova entre a Ponte de Albergaria e a Ponte de S. Miguel, milha 32-33.",
+        "name": "Via Nova em Albergaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.134632,
+          41.79741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Excelente troço da Via Nova entre Paredes Secas e Portela de Santa Cruz.",
+        "name": "Via Nova em Paredes Secas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.324325,
+          41.674329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da VIA NOVA na saída de Braga pela Capela das Sete Fontes, alternando lajeado em pedra com pavimento em terra até Adaúfe.",
+        "name": "Via Nova em Sete Fontes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.400884,
+          41.578105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana entre Myrtilis e as minas de S. Domingos.",
+        "name": "Via para São Domingos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.601783,
+          37.632287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável troço da via romana junto do Monte Córdova (Santo Tirso) com topónimo \"Rua da Via Romana\"; poderia pertencer à via de Cale ao Castro de Sanfins.",
+        "name": "Via romana em Casais?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.431487,
+          41.315145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A via XIX vinha pda Ponte do Prado e passava na rua Direita no lugar da Vila, atravessa a EN205 e segue pelas traseiras da Igreja Velha de Prado, no caminho que liga a Outeiro durante 1800 m",
+        "name": "Via XIX em Prado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.472061,
+          41.599965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da Via XIX nas traseiras da Igreja Românica de São Pedro de Rubiães.",
+        "name": "Via XIX em Rubiães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.624954,
+          41.896372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da antiga Estrada Real Porto-Lisboa assente sobre a antiga via romana. O local indicado corresponde a um troço com cerca de 150 m que mantém o lajeado original da Estrada Real. Está sem protecção; qualquer dia desaparece...",
+        "name": "Via XVI em Airas 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.521378,
+          40.961143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da antiga Estrada Real Porto-Lisboa assente sobre a antiga via romana. O local indicado corresponde a um pequeno troço com 50 m que parece manter o lajeado medieval, pré Estrada Real, se não mesmo romano. Está sem protecção; qualquer dia desaparece...",
+        "name": "Via XVI em Airas 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.518222,
+          40.955886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Um dos poucos vestígios que resta da Via Braga-Lisboa (http://viasromanas.pt/index.html#bragalisboa) no concelho de Vila Nova de Gaia. A calçada segue paralela ou coincidente com a Rua da Rechousa e depois segue numa cota superior ao lado da Rua Sra. do Monte. Este troço descoberto nos anos 30 foi praticamente destruida pelo alargamento da EN1 e por uma urbanização.  O marcador indica a localização das últimas lajes ainda visíveis no talude da estrada no sentido Porto-Lisboa.",
+        "name": "Via XVI em Canelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.591589,
+          41.088829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Via romana Braga-Lisboa no troço entre Conímbriga e Tomar; O marcador indica a milha VII contada a partir de Conímbriga.",
+        "name": "Via XVI em Cruz do Morto, m.p.VII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.444661,
+          40.02641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Via romana Braga-Lisboa no troço entre Conímbriga e Tomar; O marcador indica o local onde cruza a EN347/IC3.",
+        "name": "Via XVI em Janeia, m.p.III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.454338,
+          40.081105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Via romana Braga-Lisboa no troço entre Conímbriga e Tomar; O marcador indica a milha VI contada a partir de Conímbriga.",
+        "name": "Via XVI em Porta d'Angere, m.p.VI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.447202,
+          40.041909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Via romana Braga-Lisboa no troço entre Conímbriga e Tomar; o marcador indica a Qta. da Ribeira, local onde foi encontrado o miliário a Décio, indicando a milha VIII desde Conímbriga.",
+        "name": "Via XVI em Tamazinhos, m.p.VIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.439506,
+          40.011134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via XVII junto do Castro do Cabeço em Vale de Telhas, a mansio PINETUM a 20 milhas de Chaves.",
+        "name": "VIA XVII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.237906,
+          41.620929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via XVII na chamada «Estrada Velha» na base do Cabeço do Marco, provável alusão a um miliário.",
+        "name": "VIA XVII - Cabeço do Marco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.042432,
+          41.698936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via XVII com cerca de 900 m de extensão; acesso na EN206 1 km antes da povoação.",
+        "name": "VIA XVII - Vila Nova da Raínha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.109588,
+          41.677774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da via romana descendo pelo Alto de Cambedo rumo à  Ponte do Arco, junto da barragem da Venda Nova.",
+        "name": "Via XVII em Cambedo, m.p. XXXIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.98883,
+          41.674215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troços em calçada da Via XVII na sua passagem por Currais (Montalegre).",
+        "name": "Via XVII em Currais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.931809,
+          41.708979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço em calçada da Via XVII",
+        "name": "Via XVII em Lanhoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.27387,
+          41.595047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífico troço da Via Romana Braga-Chaves-Astorga (http://viasromanas.pt/index.html#bragachaves), à saída de Chaves ascendedo a São Lourenço.",
+        "name": "Via XVII em São Lourenço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.426157,
+          41.724513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troço da Via XVII na vertente ocidental da Serra da Cabreira.",
+        "name": "Via XVII na Serra da Cabreira, m.p. XXV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.074277,
+          41.645798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Troços em calçada do Itinerário XVII pela vertente sul da Serra do Carvalho, passando assim na base do Castro do Monte das Eiras Velhas. O marcador indica 5 milhas a Braga.",
+        "name": "Via XVII no Carvalho, m.p. V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.343291,
+          41.583224
+        ]
+      }
+    }
+  ]
+}

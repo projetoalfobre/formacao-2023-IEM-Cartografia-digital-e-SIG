@@ -1,0 +1,915 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval (?) com presumível origem romana sobre o rio Xarrama a 3 milhas de Évora; deveria integrar a via entre Évora a Serpa; 3 arcos tendo um deles desabado.",
+        "name": "Ponte Antiga do Xarrama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.916208,
+          38.530436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte antiga com possível origem romana no Monte da da Fonte dos Cântaros, integrando a via romana de Alcácer do Sal a Beja.",
+        "name": "Ponte da Fonte dos Cântaros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.944845,
+          38.054352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Esta importante travessia do rio Alva integrada na Via Coimbra - Bobadela - Celorico ou «Estrada da Beira»; poderia ter existido uma ponte romana neste local dado que a ponte actual reutiliza alguns silhares almofadados romanos.",
+        "name": "Ponte da Mucela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.199776,
+          40.253059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com possível origem romana dado integrar a Via Chaves - Régua.",
+        "name": "Ponte da Ola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.64845,
+          41.57642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com possível origem romana dado integrar o percurso do Itinerário XVI.",
+        "name": "Ponte da Pica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.487201,
+          40.869651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Vestígios de uma ponte antiga com provável origem romana sobre o rio de Mouros. às portas de Conímbriga. Esta ponte integrava a Via de Conimbriga a Collippo.",
+        "name": "Ponte da Sancha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.503445,
+          40.097713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte com possível origem romana que deveria integras a via romana entre Castelo Branco e Idanha-a-Velha.",
+        "name": "Ponte da Sra. de Mércoles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.452377,
+          39.818738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com possível origem romana visto que integrava a via romana Porto-Barcelos-Ponte de Lima, sendo mencionado num documento do ano 1135.",
+        "name": "Ponte das Tábuas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.642322,
+          41.632076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte antiga também chamada \"Ponte da Figueira\" com possível origem romana na saída da povoação de Alfundão rumo a Beja. Esta ponte faria parte da Via Alcácer do Sal - Beja.",
+        "name": "Ponte de Alfundão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.059108,
+          38.118022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte antiga sobre a ribeira de Campilhas reconstruída no séc. XVI sobre eventuais fundações romanas. Após cruzar a ponte a via bifurcava rumo a Salacia (Alcácer do Sal) e Mirobriga (Santiago do Cacém).",
+        "name": "Ponte de Alvalade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.40263,
+          37.945304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Silhares almofadados e marcas de fórfex inseridos na Ponte Medieval de Ázere indiciam uma provável cronologia romana.",
+        "name": "Ponte de Ázere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.411271,
+          41.861698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Pequena ponte medieval sobre a ribeira das Taliscas na estrada Bemposta-Penamacor; a travessia romana estaria a cerca de 500 m a montante com base no alinhamento da via, hoje um caminho em terra conhecido por «Calçadeirinhas».",
+        "name": "Ponte de Bemposta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.226686,
+          40.072082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Romana sobre a ribeira de Cavalos em Bobadela (Oliveira do Hospital). A ponte está debaixo do actual tabuleiro em betão.",
+        "name": "Ponte de Bobadela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.897001,
+          40.3606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com provável origem romana sobre a ribeira de Meimoa que integraria a Via Braga-Mérida no troço entre Capinha e Idanha-a-Velha.",
+        "name": "Ponte de Capinha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.361915,
+          40.189941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval sobre o rio Sousa com possível origem romana dado integrar a via romana de Cale (Porto) a Tongobriga (Freixo, Marco de Canaveses).",
+        "name": "Ponte de Cepeda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.318569,
+          41.209333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval sobre o rio Sousa com possível origem romana dado integrar a via romana de Bracara (Braga) a Tongobriga (Freixo, Marco de Canaveses).",
+        "name": "Ponte de Espindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.273531,
+          41.243547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Medieval com possível origem romana dado que integra  a via romana que ligava Viseu ao litoral servindo as minas de Carvalhal do Estanho e Bejanca.",
+        "name": "Ponte de Fataunços"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.066165,
+          40.726186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval sobre o rio Ferreira com possível origem romana dado integrar a via romana de Cale (Porto) a Tongobriga (Freixo, Marco de Canaveses).",
+        "name": "Ponte de Ferreira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.458252,
+          41.188656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte com possível origem romana visto que integrava a via romana entre a Barca do Lago e Geraz do Lima.",
+        "name": "Ponte de Fragoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.717278,
+          41.618712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte antiga com possível origem romana sobre o rio Galejo em Beringel . Esta ponte faria parte da Via Alcácer do Sal - Beja.",
+        "name": "Ponte de Lisboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.982738,
+          38.073442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Medieval sobre o rio Úl.",
+        "name": "Ponte de Manica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.492445,
+          40.835034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Filipina com possivel origem romana na povoação de Meimoa.",
+        "name": "Ponte de Meimoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.188003,
+          40.226295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com provável origem romana sobre a ribeira de Meimoa, ligando Valverde a Peroviseu (Fundão).",
+        "name": "Ponte de Peroviseu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.444245,
+          40.18761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval sobre a Ribeira de Pracana com provável origem romana, ligando as povoações de Ladeira de Evendos e São Pedro de Esteval. Esta ponte poderia pertencer a um itinerário que ligava Aritium Vetus (Casal da Várzea, Alvega) a Egaeditania (Idanha-a-Velha). O local exacto de travessia do Tejo não é conhecido, mas é provável que ficasse em Casal da Várzea, a montante de Alvega, pois aí existem vestígios de estruturas romanas que deverão corresponder à Civitas de Aritium Vetus.",
+        "name": "Ponte de Pracana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.851451,
+          39.624205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Medieval sobre o rio Leça localizada em Alfena com provavel origem romana atendendo a que incorpora alguns materiais romanos (silhares). Esta ponte pertenceria à Via romana Porto-Guimarães.",
+        "name": "Ponte de S. Lázaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.522584,
+          41.239853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte com possível origem romana sobre a ribeira de Cavalum, integrando a via romana entre Cale e Tongobriga.",
+        "name": "Ponte de Santa Marta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.259198,
+          41.212419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte sobre a ribeira de Cavalos com possivel origem romana que integraria a via romana entre Bobadela e Póvoa de Midões.",
+        "name": "Ponte de Sumes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.958281,
+          40.37174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Reconstrução de uma anterior Ponte Romana sobre a Ribeira de Odivelas que estava integrada na Via Évora-Beja.  Apesar disso, o aspecto actual da ponte respeita no essencial a tipologia das pontes romanas, apresentando algumas características romanas como seja o tabuleiro horizontal e os olhais de descarga de superfície rasgados nos pégões.<br>Na forma actual a ponte tem 120 m de comprimento e 20 arcos. Da anterior construção romana só restam 3 pilares facilmente identificáveis porque estes são os únicos elementos da ponte que utilizam blocos de pedra aparelhada.",
+        "name": "Ponte de Vila Ruiva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.945985,
+          38.259736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte de cariz medieval, mas que poderá ser uma reconstrução de uma anterior romana. Junto a esta travessia do rio Vizela situava-se o vicus romano de Oculis com as suas termas hoje soterradas. Aqui passava a via Guimarães-Meinedo-Tongobriga. Conserva um arco na parte seca que parece ser de construção romana (Almeida CAF, 1968).",
+        "name": "Ponte de Vizela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.311639,
+          41.373124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte com possível origem romana sobre a ribeira da Borralha   dado integrar o Irinerário XVII entre Braga e Chaves.",
+        "name": "Ponte do Arco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.984559,
+          41.668865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte de origem romana sobre o rio Labruja e integrada na Via XIX entre Braga e Tui. (pedras almofadadas).",
+        "name": "Ponte do Arco, Labruja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.595265,
+          41.823667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte com possível origem romana que integrava a Via XVII para Astorga.",
+        "name": "Ponte do Arquinho, Fradizela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.157804,
+          41.660811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com presumível fundação romana integrando a Karraria Antiqua, via proveneinte do Porto.",
+        "name": "Ponte do Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.681354,
+          41.351174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte sobre a ribeira de Quarteira com presumíveis fundações romanas, mas muito alterada; indicios de uma villa ou mesmo vicus nos terrenos em torno da ponte conhecidos por Retorta; mutatio?",
+        "name": "Ponte do Barão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.160978,
+          37.108392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com provável origem romana junto do Crato. Integrava uma via N-S que ligava o Crato a Alter do Chão.",
+        "name": "Ponte do Chocanol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.642433,
+          39.27969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte com possível origem romana sobre o rio Beça dado  integrar a via romana Braga - Chaves pelo Alto do Pindo.",
+        "name": "Ponte do Cortiço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.698605,
+          41.766148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte setecentista, reconstrução da primitiva ponte quinhentista da qual ainda são visíveis os pilares e os arranques dos arcos. Este ponte poderá ter origem romana atendendo à aparente reutilização de materiais romanos na anterior ponte quinhentista, nomeadamente silhares com maras de fórfex. A Via XVI entre Braga e Lisboa fazia aqui a travessia da Rio Vouga  junto da mansio de Talabriga que ocupa o chamado Cabeço do  Vouga que lhe fica defronte.",
+        "name": "Ponte do Vouga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.465931,
+          40.640735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com presumível fundação romana integrando a Karraria Antiqua, via proveneinte do Porto.",
+        "name": "Ponte dos Arcos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.666783,
+          41.393092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval sobre a Ribeira de Isna com provável origem numa anterior romana. A ponte servia uma via que atravessava o Rio Zêzere em Pedrogão Grande e que se dirigia para o rio Tejo quer rumoa Aritio Vetus (Albega) quer à Barca da Amieira rumo a Ammaia.",
+        "name": "Ponte dos Três Concelhos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.055204,
+          39.735845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval com possível origem romana dado integrar o Itinerário XVII Braga - Chaves.",
+        "name": "Ponte Guilherme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.540954,
+          41.7852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval de Vale de Telhas, sobre o rio Rabaçal que reutiliza silhares romanos com marcas de fórfex, provenientes da anterior ponte romana que seria mais a jusante no lugar da Barca, onde apareceram diversos  miliários: o miliário a Galério está hoje no Museu de Vila Real, o miliário a Maximino Daia está hoje na casa da família Verdelho em Vale de Gouvinhas, o miliário a Constantino II e Constante I (vr/marcodevaltelhas.jpg) está junto da fonte da aldeia de Vale de Telhas, o miliário a Numeriano está desaparecido e o miliário anepígrafo, referido por Hübner poderá ser o cipo que hoje serve de banco na aldeia de Vale de Telhas.",
+        "name": "Ponte Medieval de Vale de Telhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.246301,
+          41.633441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Reconstrução medieval de uma ponte romana sobre o rio Navea inserida na Via Romana XVIII ou Via Nova, entre Braga e Astorga pela Serra do Gerês; nas imediações da ponte apareceram vários miliários.",
+        "name": "Ponte Navea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2896,
+          42.348903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte sobre o rio Leça com origem romana dado que reutiliza alguns materiais romanos como pedras almofadadas em resultado das sucessivas reconstruções. Integrava a via romana Braga - Porto.",
+        "name": "Ponte Romana da Pedra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.61462,
+          41.205335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de uma Ponte Romana sobre a Ribeira de Leonte. Integrada na Via romana XVIII que proveniente de Braga seguia pela Portela do Homem para Astorga.",
+        "name": "Ponte Romana de Albergaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.137726,
+          41.792682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte moderna junto às Termas de Alcafache que assenta sobre uma anterior romana da qual reaproveita alguns materiais como os silhares almofadados no talhamar a montante  e na base do pilar do lado das termas. Esta via ligaria a Civitas de Viseu à Civitas da Bobadela em Oliveira do Hospital e surge logo após a magnífica calçada romana entre Ranhados e Coimbrões.",
+        "name": "Ponte Romana de Alcafache"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.868817,
+          40.606291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A maior e mais importante Ponte Romana da Península Ibérica ainda sobrevivente. Um ex-libris da arquitectura romana ainda em funcionamento para a travessia do Rio Tejo.  Próximo da fronteira com Portugal emm Segura.",
+        "name": "Ponte Romana de Alcantara, Espanha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.892592,
+          39.722593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Também conhecida por Ponte de Ronfes ou Ponte da Azenha, esta ponte sobre o Rio Leça estaria integrada na «karraria antiqua», a via romana secundaria proveniente de Cale que seguia paralela à costa e que neste ponto ligaria ao centro da Maia, por onde passava a via militar para Cale-Bracara Augusta. Várias pedras almofadadas inseridas no arco da margem direita indiciam a sua origem romana apesar das sucessivas reconstruções até ao seu aspecto actual.",
+        "name": "Ponte Romana de Barreiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.631817,
+          41.224711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Há fotografias do Sec. XX que mostram o aparelho almofadado no intradorso do pilar direito da ponte que atestam a sua origem romana.",
+        "name": "Ponte Romana de Barrimau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.237793,
+          41.275828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Romana inserida na Via Romana XVIII ou Via Nova, entre Braga e Astorga pela Serra do Gerês.  Magnífico exemplar da arquitectura romana com soluções de enhenharia um pouco diferentes das resntantes pontes romanas conhecidas. Isto porque não é simétrica, apresentando um grande arco central e dois mais pequenos e por putro pela leveza que aparenta fazendo lembrar pontes flexíveis. Talvez por força da adaptação a um terreno tão difícil já que a trabessia é feira a grande altura.",
+        "name": "Ponte Romana de Bibei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.214574,
+          42.333786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Travessia do Rio Ave da Via Braga-Mérida na Ponte Romana de Campelos; apesar das sucessivas reparações, a ponte evidencia ainda indubitáveis características romanas com arcos de volta redonda, aparelho almofadado e marcas de fórfex; o arco mais a norte não aparenta reconstrução e permite estimar a sua configuração original.A via romana proveniente de Bracara Augusta passava certamente nesta travessia do Ave e não nas Caldas das Taipas, mais a montante, por onde se veio a fazer o Caminho de Santiago. Deste modo a via evitava o alto onde se situa a cidade de Guimarães que ainda não existia na época romana. Mais à frente a via bifurcava em 3 possíveis rotas, pela Ponte Romana de Negrelos rumo a Cale, pela Ponte Romana do Arco de Vila Fria rumo a Tongobriga e pela Ponte Romana de Vizela (apesar da sua existência não estar provada) rumo a Meinedo e daqui a Eja, junto ao Rio Douro.",
+        "name": "Ponte Romana de Campelos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.345495,
+          41.462051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Travessia do Rio Tâmega da Via Romana XVII entre Braga e Astorga",
+        "name": "Ponte Romana de Chaves"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.466852,
+          41.738101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Tosca reconstrução medieval da Ponte Romana sobre o Rio Pônsul. A ponte está integrada na Via Braga-Mérida seguindo em direcção às magníficas Pontes Romanas de Segura e de Alcântara.",
+        "name": "Ponte Romana de Idanha-a-Velha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.142126,
+          39.995508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Reconstrução medieval de uma ponte romana com base no grande número de materiais romanos reutilizados.  A sua forma actual ainda é muito próxma do que seria a construção romana. Depois de anos de abandono (apesar de continuar aberta ao tráfego) está hoje recuperada e converteu-se num dos mais importantes vestígios da rede viária romana no distrito do Porto. Liga Moreira de Cónegos (Guimarães) a São Martinho do Campo (Santo Tirso).",
+        "name": "Ponte Romana de Negrelos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.355024,
+          41.366513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte romana arruinada sobre o Rio Xévora em Ns. da Enxara (Ouguela, Campo Maior) que ainda apresenta   impressionantes alicerces que pressupoem um ponte com bastante envergadura para vencer o antigo leito do rio que foi entretanto desviado. Integraria Via Lisboa - Mérida no troço entre as estações de Ad Septem Aras e Plagiaria referidas no Itinerário XIV e XV de Antonino.",
+        "name": "Ponte Romana de Ns. da Enxara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.01866,
+          39.081427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Reconstrução Medieval da antiga Ponte Romana sobre o Rio Lima integrado na Via Braga-Valença-Astorga.  Da construção original só restam os primeiros 5 arcos da margem direita.",
+        "name": "Ponte Romana de Ponte de Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.586793,
+          41.769193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Romana do Arquinho constituída por grandes silhares  almofadados com um único arco; integrava a Via Braga-Chaves-Astorga, o Itinerário XVII de Antonino, a 18 milhas de Chaves.",
+        "name": "Ponte Romana de Possacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.257997,
+          41.621253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de uma Ponte Romana sobre o Rio Homem. Integrada na Via romana XVIII que proveniente de Braga seguia pela Portela do Homem para Astorga.",
+        "name": "Ponte Romana de S. Miguel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.133808,
+          41.799411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Pequena ponte de um só arco no trajecto Via Romana XVII entre Braga e Astorga, localizada junto da aldeia de S. Lourenço à saída de Chaves.",
+        "name": "Ponte Romana de São Lourenço"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.406299,
+          41.721258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Muito semelhante à Ponte Romana de Alcantara em termos construtivos, mas mais pequena, foi ligeiramente alterada na parte do tabuleiro alterando a simetria original. Está integrada na Via Romana Braga-Mérida e hoje liga Portugal a Espanha na rota para a Ponte de Alcantara.",
+        "name": "Ponte Romana de Segura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.981564,
+          39.817217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Romana sobre o rio Tuela da Via Romana XVII Braga-Chaves-Astorga, no troço entre Valpaços e Torre de Dona Chama, no extremo do concelho de Macedo de Cavaleiros.",
+        "name": "Ponte Romana de Torre de D. Chama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.145916,
+          41.665403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Pertence à Via XIV entre Lisboa e Mérida por Alter do Chão. Além da Ponte de Chaves e da Ponte de Torre de D. Chama, esta é a única ponte romana sobrevivente. Aparentemente nunca foi reconstruída e mantem-se em perfeitas condições ao fim de 2000 anos. Está ainda hoje integrada na EN 206 entre Ponte de Sôr e Ater do Chão.",
+        "name": "Ponte Romana de Vila Formosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.784756,
+          39.21606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte Romana do Arco sobre o Rio Pinhão perto de Barrelas, Vreia de Jales, Vila Pouca de Aguiar. Ligada à exploração mineira de Três Minas.",
+        "name": "Ponte Romana do Arco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.608115,
+          41.406548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte de origem romana sobre o rio Labruja e integrada na Via XIX entre Braga e Tui. (pedras almofadadas).",
+        "name": "Ponte Romana do Arco da Geia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.591894,
+          41.798411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval que integra alguns materiais romanos como pedras almofadadas. Estava integrada numa das variantes entre Braga e o Douro por Felgueiras seguindo em direcção a Mérida.",
+        "name": "Ponte Romana do Arco de Vila Fria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.230375,
+          41.394589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Ponte medieval destruída em 1907 por uma cheia que ainda conserva 3 dos 5 arcos primitivos. Admite-se a existência de uma ponte romana neste importante local de travessia do rio Côa.",
+        "name": "Ponte Velha do Côa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.012896,
+          40.789004
+        ]
+      }
+    }
+  ]
+}

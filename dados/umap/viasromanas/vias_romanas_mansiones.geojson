@@ -1,0 +1,1251 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da Via XIV entre Lisboa e Mérida localizada em Alter do Chão, eventualmente associada à villa de Ferragial d'El Rei, junto do campo de futebol.",
+        "name": "Abelterium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.658133,
+          39.199075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XII de Antonino entre Lisboa e Mérida ainda sem localização segura; A designação Ad Atrum Flumen, literalmente «junto ao rio Atrus» indicia uma mansio junto da travessia desse rio \"Atrus\" que poderá corresponder ao rio Xévora, eventualmente próximo da actual povoação de Gévora (Badajoz) onde apareceu um miliário.",
+        "name": "Ad Atrum Flumen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.979971,
+          38.885472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio comum aos Itinerários XIV e XV de Antonino, ambos ligando Lisboa a Mérida, provavelmente localizada junto da aldeia da Ns. da Graça dos Degolados. O marcador indica o local que dista precisamente 32 milhas de Abelterium (Alter do Chão) conforme indicado no I.A. e onde a via bifurcava em dois caminhos alternativos até à mansio seguinte designada por Budua. A mansio poderia situar-se na própria aldeia de Degolados dado a ausência de vestígios de estruturas junto da via.",
+        "name": "Ad Septem Aras?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.121224,
+          39.068583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Coimbra; importante oppidum romano situado junto da travessia do rio Mondego pela via romana XVI entre Lisboa e Braga.",
+        "name": "Aeminium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42523,
+          40.208874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Magnífica cidade romana, capital da civitas Ammaienses localizada S. Salvador da Aramenha (Marvão); uma das cidades romanas melhores preservada em Portugal que tem sido progressivamente escavada e valorizada. Excelente museu e notáveis vestígios arqueológicos.",
+        "name": "Ammaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.386772,
+          39.368831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Primeira mansio do Itinerário XII de Antonino após a travessia do rio Tejo situada a 12 milhas de Lisboa que corresponde à moderna povoação junto da foz do rio  Coina. A partir daqui a via dirigia-se para Caetobriga (Setúbal), seguindo pelo Alto das Necessidades, Qta. da Calçada, Meia Légua e ao longo da vertente oeste e sul da Serra de S. Luís, descendo a Setúbal pela chamada «Estrada do Viso», Grelhal, Rua da Estrada Romana e Bairro do Tróino até ao centro da cidade.",
+        "name": "Aquabona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.04585,
+          38.596131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Actual cidade de Chaves. Mansio da via XVII. Capital regional de Trás-os-Montes na época romana. Excelente museu e imensos vestígios da era romana espalhados pela a cidade. O marcador indica as Termas Romanas recentemente escavadas. No Itinerário de Antonino ainda é designada por Ad Aquas em referência às águas termais que aqui existem e seria a sua designação antes de ser elevada a civitas pelos flávios passando a partir daí a designar-se por Aquae Flaviae.",
+        "name": "Aquae Flaviae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.468045,
+          41.739324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XIX entre Braga e  Astorga por Ponte de Lima e Tui, situada na actual povoação de Caldas dos Reis (Pontevedra, Galiza).",
+        "name": "Aquis Celenis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.642498,
+          42.602354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da via nova (http://viasromanas.pt /index.html#vianova) a 18 milhas de Salaniana e a 39 milhas de Braga, situada junto de Baños del Riocaldo (Lobios).",
+        "name": "Aquis Originis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.106827,
+          41.861811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da via nova (http://viasromanas.pt /index.html#vianova) situada a 14 milhas de Aquis Originis e a 53 milhas de Braga em Baños de de Bande (Ourense). Trata-se de um acampamento romano motivado pelo apoio à via romana para Astorga. Hoje está quase submersa pela albufeira da barragem das Conchas.",
+        "name": "Aquis Querquernis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.981087,
+          41.97396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Hipotética localização do povoado de Arandis referido na Geografia de Ptolomeu na vila do Torrão.",
+        "name": "Arandis?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.223877,
+          38.292238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XXI de Antonino da via romana de Ossonoba(Faro) a Salacia (Alcácer do Sal) situada a 60 milhas de Faro que corresponde ao «Castro da Cola» (Ourique), povoado fortificado habitado desde a Idade do Ferro até ao período Alto-Medieval.",
+        "name": "Arannis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.29812,
+          37.580958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante sítio romano no sopé do Castro da Sra. do Castelo, junto da Qta. da Raposeira, cujo espólio está na  Associação Cultural Azurara da Beira (http://acab.no.sapo.pt/); provável vicus e mansio localizado num importante nó viário, cruzamento da via Viseu - Mérida com uma via N-S que seguia rumo a Bobadela (existem dois troços de calçada junto à villa).",
+        "name": "Araocelum?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.752577,
+          40.611151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O oppidum da civitas ARAVORUM situa-se no lugar da Devesa em Marialva (Mêda). O marcador indica o local do forum e do templo, do qual resta o podium e algumas colunas; hoje é uma casa particular. Por toda a aldeia é possível observar silhares romanos reutilizados.",
+        "name": "Aravorum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.230921,
+          40.909645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio situada a 24 milhas de Astorga.",
+        "name": "Argentiolum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.992443,
+          42.284206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoação romana onde apareceu uma inscrição numa placa de bronze (http://eda-bea.es/pub/record_card_1.php?rec=21261) referente a um juramento dos Aricienses onde se lê: Aritiense oppido veteri. Como na outra margem fica a Villa romana de Vale do Junco é possível que a travessia do Rio Tejo fosse neste local pois Francisco d'Holanda refere uma ponte romana sobre o Tejo \"acima d'Abrantes\", seguindo depois rumo a Igaedis(Idanh-a-Velha) e Salmantica (Salamanca).",
+        "name": "Aritium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.013008,
+          39.467959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível localização da estação viária Aritio Praetorio do Itinerário XIV entre Lisboa e Mérida dado que este local encontra-se a 38 milhas de Almeirim e a 28 milhas de Alter do Chão, conforme indicado no Itinerário de Antonino; os vestigios romanos cobrem todo o vale da Herdade de Água Branca de Cima, classificados para já como villa. Em alternativa, a mansio poderia estar um pouco antes na encruzilhada da Venda das Mestas ou no lugar do Poiso perto de Tamazim/Semideiro, onde aparecem miliários e outros vestígios.",
+        "name": "Aritium Praetorium?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.117088,
+          39.288635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio mencionada no Itinerário XXI de Antonino ainda sem localização segura. O marcador assinala uma das possíveis localizações desta estação viária no sítio do Gargalão, junto da Ermida de S. Pedro da Adiça.",
+        "name": "Arucci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.284754,
+          38.037307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Astorga. Sede do Conventus Asturicensis. Capital regional e caput viae.",
+        "name": "Asturica Augusta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.056109,
+          42.456098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoação romana e caput viarum dos  Itinerários XXI e XXII de Antonino situada na foz do rio Guadiana. A sua localização em Castro em Marim não é segura apesar do sítio apresentar níveis de ocupação da época romana e anteriores, no entanto, dado que no Itinerário indica 24 milhas a Balsa e daqui a Castro Marim são apenas 20, é mais provável  que Baesuris estivesse na outra margem do rio, eventualmente na área da Ilha Canela ou nas suas emediações. O indicado sobre a Punta del Moral, área com muitos vestígios romanos.",
+        "name": "Baesuris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.341765,
+          37.189954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Imponente cidade portuária romana e mansio do Itinerário XXI de Antonino, ocupando a Qta. de Torre de Aires e terrenos adjacentes (Luz de Tavira), mas hoje totalmente destruída. (vide www.arkeotavira.com)",
+        "name": "Balsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.687385,
+          37.090128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "No Povoado do Baldoeiro, junto da confluência da ribeira da Vilariça no rio  Sabor, apareceu uma  ara dedicada a Júpiter (http://www.portugalromano.com/wp-content/uploads/2011/02/cole6531g.jpg) onde se lê CIVITATI  BANIENSIV; o vicus  e respectiva mansio no entanto poderia situar-se na Vila Morta de Santa Cruz ou mais a norte em Chão da Capela, onde há significativos vestígios romanos.",
+        "name": "Baniensium?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.085093,
+          41.222632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Civitas cujo nome latino ainda é desconhecido. Arco romano e várias colunas e inscrições na praça da aldeia. Anfiteatro romano. Museu espera transferência das peças depositadas no Museu Machado de Castro em Coimbra.",
+        "name": "Bobadela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.892794,
+          40.360398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Braga, a grande capital do noroeste peninsular. Imensos vestígios espalhados pela cidade (Estação CF, Termas da Cividade, Biblioteca, etc) e dois excelentes museus sobre a época romana: Museu D. Diogo de Sousa e Museu Pio XII. Caput viae de pelo menos 5 grandes itinerários romanos. Sede do Conventus Bracarensis.",
+        "name": "Bracara Augusta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.428239,
+          41.547514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XIV de Antonino entre Lisboa e Mérida, muito provavelmente situada  no sítio romano de Casarões da Misericórdia onde existiam importantes vestígios de estruturas romanas, hoje destruídos; daqui continua para a travessia do rio Xévora no «Rincón de Gila», seguindo depois junto da Ermida de Nuestra Señora de Bótoa em direcção à mansio Plagiaria situada em La Novelda del Guadiana.",
+        "name": "Budua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.943925,
+          39.008486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XII de Antonino a 8 milhas de Malateca (Marateca) e 12 milhas de Salacia (Álcacer do Sal) situada na povoação de Palma, junto da travessia da ribeira de S. Martinho.O marcador indica a igreja onde estaria a mansio.",
+        "name": "Caeciliana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.596818,
+          38.482997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado romano, provavelmente um vicus portuário  referido no Itinerário de Antonino como mansio da Via XII que corresponde à actual cidade de Setúbal, situada a 12 milhas de Aquabona (Coina); o  povoado romano estendia-se ao longo da rua Direita do Troino até á zona de Palhais/Fontainhas passando pelo Lg. da Misericórdia e Rua Antão Girão.",
+        "name": "Caetobriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.882857,
+          38.528471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária do Itinerário XVII entre Braga e Chaves, situada a 62 milhas de Bracara e a 18 milhas de Aquae Flaviae, associada ao importante vicus da Ciada em Gralhas.",
+        "name": "Caladuno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.694678,
+          41.845013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio situada junto da travessia do rio Douro mencionada no Itinerário XVI de Antonino que liga Lisboa a Braga e localizada no Porto (Morro da Sé) ou em Vila Nova de Gaia (Castelo de Gaia). O marcador indica a Praça da Ribeira, provável local on se fazia a travessia do rio na época romana.",
+        "name": "Cale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.612912,
+          41.140574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Imensos vestígios em torno de Cárquere denunciam a existência de um oppidum e provável sede de uma civitas ocupada pelos Paesuri. Este povoado estaria inserido numa via proveniente do porto fluvial de Caldas de Aregos rumo a Viseu, mas o seu traçado ainda suscita muitas duvidas.",
+        "name": "Cárquere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.957985,
+          41.087325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Castro romanizado em São Cristovão da Nogueira (Cinfães), provável sede de uma civitas, eventualmente dos Peasuri, apresentando um vasto espólio com alguma monumentalidade como colunas, bases de capitéis, pedras almofadadas e importantes  inscrições, em particular  uma inscrição consagrada a Augusto (http://eda-bea.es/pub/record_card_2.php?&rec=7717) por habitante do castro hoje no MSMS com o nº 73 (http://www.csarmento.uminho.pt/nephl_3122.asp?offset=60); o vicus romano localizava-se a cerca de 500 m a sudeste do Castro de Sampaio, no actual lugar de Aldeia",
+        "name": "Castro da Sampaio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.110931,
+          41.067878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "vicus portuário situado junto da marina de Vilamoura, sítio  hoje designado por «Cerro da Vila»; a dita \"Vila Moura\" que estará na origem do actual nome da estação turística, corresponde a uma imponente assentamento romano da qual ainda restam impressivos vestígios como as termas públicas e uma torre octogonal dominando o cais (farol?); daqui partiam pelo menos 3 vias, para leste rumo  Ossonoba (Faro), capital da civitas, para oeste rumo à Ponte do Barão, onde atravessava a ribeira da Quarteira e outro rumo a norte talvez para S. Bartolomeu de Messines.",
+        "name": "Cerro da Vila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.120535,
+          37.080098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O povoado proto-histórico de Cilpes, conhecido através de alguns numismas e das fontes clássicas ainda não tem localização segura, devendo no entanto situar-se nas proximidades da actual cidade de Silves, eventualmente no Cerro da Rocha Branca.",
+        "name": "Cilpes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43975,
+          37.188632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Capital da Civitas Cobelcorum localizada em torno da Torre Romana das Águias (Almofala, Figueira de Castelo Rodrigo), magnífico templo romano que urge salvar da ruína. Esta atribuição tem por base una ara dedicada a Júpiter que apareceu junto ao templo.",
+        "name": "Cobelcorum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.882484,
+          40.869787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Localização das ruínas da cidade de COLLIPPO em S. Sebastião do Freixo; a mansio estaria no vale por onde passava a via litoral entre Conímbriga e Lisboa, passando em Collipo e Eburobrittium  (sobranceira a Óbidos).",
+        "name": "Collippo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.797939,
+          39.674313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio situada a 29 milhas de Reboretum com localização ainda incerta. Admitindo que Reboretum ficaria em Castro de Avelãs então as 29 milhas colacam Compleutica entre Figueruela de Arriba e Mahide (marcador).",
+        "name": "Compleutica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.409964,
+          41.873196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Conimbriga em Condeixa a Velha é a cidade romana mais estudada e conhecida em Portugal. O marcador indica o local do edifício que serviu de estalagem pelo que seria aqui a mansio de cidade. O aqueduto que abastecia a cidade terminava neste edifício no castellum e corresponde à linha a norte do marcador. A saída da cidade quer para Bracara quer para Collipo/Eburobrittium era pela Rua das Ruínas que fica defronte.",
+        "name": "Conimbriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.493861,
+          40.099579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XII de Antonino entre Lisboa e Mérida sem localização segura; hipoteticamente localizada em Talavera la Real atendendo às distâncias indicadas no Itinerário.",
+        "name": "Dipo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.772879,
+          38.866012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante civitas e mansio do Itinerário XII de Antonino entre Lisboa e Mérida. Imensos vestígios desta antiga cidade por toda a cidade com destaque para o chamado «Templo de Diana», imponente templo romano ainda bem preservado.",
+        "name": "Ebora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.907358,
+          38.572611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cidade romana descoberta em 1994 durante as obras da A8, junto a Óbidos.",
+        "name": "Eburobrittium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.140462,
+          39.363685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Actual cidade de Mérida em Espanha; sede do Conventus Emeritensis; Capital da Lusitâna.",
+        "name": "Emerita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.337824,
+          38.915789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XII de Antonino entre Lisboa e Mérida sem localização segura; o marcador indica um local a 17 milhas de Dipo conforme a distância indicada neste Itinerário.",
+        "name": "Evandriana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.479179,
+          38.86501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária mencionada no Itinerário XXI de Antonino ainda sem localização segura. O marcador assinala uma das possíveis localizações no sítio de Sã Marcos (Corte do Pinto, Mértola), próximo da travessia do rio Chança.",
+        "name": "Fines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.421663,
+          37.764461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível localização desta mansio da Via XV entre Lisboa e Mérida próximo do Monte da Pedra, no ponto de travessia da ribeira de Sor, local que acerta com as distâncias indicadas no I.A.",
+        "name": "Fraxinum?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.769178,
+          39.375816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da via nova (http://viasromanas.pt /index.html#vianova)  localizada talvez em Sandiás (Ourense). Não ha vestígios visíveis do povoado.",
+        "name": "Geminas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.757063,
+          42.110359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da Via XVI Lisboa-Braga situada na actual cidade de Alenquer. Os vestígios do povoado romano de Ierabriga, possivelmente um vicus, estendem-se pelo perímetro compreendido entre Paredes, Qta. de Sta. Teresa (miliário), Qta. das Sete Pedras, Qta. do Bravo (miliário) e as villae do Casal da Telhada e Qta. da Barradinha.",
+        "name": "Ierabriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.996067,
+          39.045442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante cidade romana, capital da civitas do povo Igaeditani, actualmente a aldeia de Idanha-a-Velha (Idanha-a-Nova) da qual subsistem ainda imensos vestígios da sua antiga grandeza como a sua muralha da Antiguidade tardia, uma das melhor conservadas em Portugal. Imensas epígrafes espalhadas pela aldeia e outras no interessante museu. Aqui existia seguramente uma mansio para apoio à via Braga-Mérida. Excelente ponto de partida para visitar as Pontes Romanas de Segura (na fronteira com Espanha) e de Alcântara sobre o rio Tejo já em território Espanhol.",
+        "name": "Igaedis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.143661,
+          39.996411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível localização do antigo povoado de IPSA ou IPSES mencionada na Geografia de Artemidoro de Éfeso no vicus portuário de Vila Velha do Alvor com base numas moedas com a legenda IPSES aqui encontradas.",
+        "name": "Ipses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.596063,
+          37.131442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestígios de um povoado no Monte Molião (Lagos) sugerem a provável localização de Laccobriga neste morro controlando a foz da ribeira de Bensafrim. Laccobriga é mencionada por Ptolomeu, Mela e Plutarco.",
+        "name": "Laccobriga?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.674072,
+          37.114916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provavel oppidum e capital da civitas dos Coilarni, designado por Lamecum no período Suévico, mas que poderia chamar-se Caelobriga na época romana atendendo a que Ptolomeu refere esta como a capital dos Coilarni. Nó rodoviário que articulava as vias provenientes de Bracara e Aqua Flaviae rumo à Lusitânia, seguindo quer para sul rumo a Vissaium (Viseu) quer para sudeste rumo à Civitas Aravorum (Marialva).",
+        "name": "Lamecum?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.808993,
+          41.099212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível localização de Lancia Oppidana no sítio actualmente conhecido por Centum Cellae, magnífica construção romana rodeada por vestígios de um povoado. Admite-se a existência de uma mansio neste local, dada a proximidade da via romana Braga - Mérida.",
+        "name": "Lancia Oppidana?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.34273,
+          40.377666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante sítio romano situado no aro urbano da Guarda em torno da Capela de Póvoa de Mileu. Possível capital dos Lancienses Transcudanni. Aqui deveria existir uma mansio.",
+        "name": "Lancia Transcudanni?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.257217,
+          40.543439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio  situada a 13 milhas de Cale pertencente à via romana de Cale (Porto) a Aeminium (Coimbra) integrando o Itinerário XVI de Antonino entre Lisboa e Braga; a  mansio deveria ficar junto à via romana, hoje designada por «Rua Romana» e «Rua da estrada Real», possivelmente no lugar de Souto Redondo,  enquanto que o povoado propriamente dito de Langobriga poderia situar-se 2 km para nascente no Castro de Fiães/ Monte de Sta. Maria/ Monte Redondo, lugar onde se recolheu importante espólio no anos setenta e hoje totalmente destruído.",
+        "name": "Langobriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.527489,
+          40.977156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerario XIX de Antonino entre Braga e Tui, situada a XIX milhas de Braga, distância que corresponde aproximadamente à base do Castro da Madalena, 2 km antes da  Ponte Romana sobre o rio Lima e da actual povoação.",
+        "name": "Limia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.584209,
+          41.768521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cidade romana, actual Lugo; mansio dos Itinerários XIX e XX de Antonino.",
+        "name": "Lucus Augusti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.556385,
+          43.009793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XII de Antonino entre Lisboa e Mérida situada a 20 milhas de Alcácer do Sal e a 26 milhas a Setúbal, localizada junto da travessia da ribeira da Marateca. O marcador indica o sítio romano do Castelo dos Mouros (http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=2398586) com vestígios de estruturas relacionadas com a passagem da via na sua base.",
+        "name": "Malateca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.669866,
+          38.578349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Provável localização desta estação viária do Itinerário XIV de Antonino entre Lisboa e Mérida próximo da travessia do rio Caia na desaparecida Ponte de S. Bartolomeu/Porto do Caia/Porto das Escarninhas. Neste local, situado precisamente a 24 milhas de Alter do Chão conforme indicado no I.A, há vestígios atribuíveis a uma estação viária e recentemente  apareceu uma ara dedicada a Mercúrio, protector dos viandantes (FE606), reforçando a localização de Matusaro neste local.",
+        "name": "Matusaro?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.256092,
+          39.097856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Muitos vestígios em Freixo em Numão sugerem a existência de uma sede de civitas neste local, talvez a capital dos Meidobrigenses; ver espólio no  Museu Arqueológico da Casa Grande.",
+        "name": "Meidobriga?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.22204,
+          41.067467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importantes vestigios desta cidade romana próximo de Santiago do Cacém. Vale a pena fazer a visita que inclui a zona habitacional, as calçadas, a zona comercial, o fórum com a sua praça e templos, a ponte e os edifícios das termas.",
+        "name": "Mirobriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.683935,
+          38.009603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da Via XV entre Lisboa e Mérida ainda sem localização segura; o marcador indica a  localização estimada após a travessia do rio Caia na Herdade da Falagueirinha.",
+        "name": "Montobriga?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.325451,
+          39.173977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante povoação romana situada junto do porto fluvial do rio Guadiana, no limite de navegabilidade do rio; mansio intermédia do Itinerário XXII de Antonino entre Esuri (Castro Marim) e Paz Iulia (Beja).",
+        "name": "Myrtilis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.663766,
+          37.637973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da via nova (http://viasromanas.pt /index.html#vianova)  localizada na zona de Pobra de Tivres, talvez em Mendoia (Ourense). Esta estação esta relacionada com a importante travessia na Ponte Romana de Bibei.",
+        "name": "Nemetobriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.230074,
+          42.332974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cidade romana, actual Lisboa. O marcador indica os claustros da Sé de Lisboa onde apareceram vestígios que remontam à Idade do Ferro; o centro da cidade romana poderia ser neste local; na escavção apareceu também um troço de uma rua romana. Imediamente acima existia o teatro hoje também visitável.",
+        "name": "Olisipo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.132235,
+          38.709717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cidade e porto romano, actual Huelva; caput viae.",
+        "name": "Onuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.950915,
+          37.260866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Actual cidade de Faro, capital de civitas e mansio do Itinerário XXI de Antonino.",
+        "name": "Ossonoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.934817,
+          37.013381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cidade romana, actual Beja, capital do conventus pacences. Depois de muitos anos esquecida, as recentes escavação da área do  forum dão a esperança para a recuperação da história desta importante capital regional do Alentejo.",
+        "name": "Pax Iulia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.865465,
+          38.015001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio situada a 39 milhas de Asturica, provavelmetne localizada no acampamento romano a oeste de Rosinos de Vidriales.",
+        "name": "Petavonium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.997682,
+          42.088434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio localizada a XX milhas de Chaves pertencente à VIA XVII entre Braga e Astorga, situada no povoado do Castro do Cabeço em Vale Telhas.",
+        "name": "Pinetum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.234496,
+          41.622137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio comum aos Itinerários XIV e XV de Antonino entre Lisboa e Mérida, localizada nas imediações de Novelda del Guadiana.",
+        "name": "Plagiaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.844079,
+          38.942839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível localização da mansio Praesidium mencionada no Iter. 23 em Alcoutim ou em Sanlúcar del Guadiana a 24 milhas de Baesuris.",
+        "name": "Praesidio?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.471934,
+          37.470575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da via nova (http://viasromanas.pt /index.html#vianova) entre Bracara Augusta e Asturica,  localizada talvez em Vila Maior,  Castro Caldelas (Ourense).",
+        "name": "Praesidium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.415918,
+          42.376145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio localizada a 46 milhas de Braga, integrando o Itinerário XVII Braga - Chaves - Astorga; o marcador indica a aldeia de Pisões onde era vencida a milha 46, no entanto não se conhecem vestígios romano nas imediações atribuíveis a um povoado. Mais adiante na milha 50, no sítio das «Leiras dos Padrões» situado junto da albufeira e a sul de Penedones, há abundantes vestígios romanos que poderiam corresponder a uma estação viária tipo mansio, mas não passam de hipóteses. O termo Praesidium remete para um fortim ou posto militar de contole da via, mas ainda nada de pode concluir.",
+        "name": "Praesidium?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.868689,
+          41.740439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio situada a 56 milhas de Chaves na Via XVII Braga-Astorga, cuja localização é ainda discutida, mas que poderia estar na área da Torre Velha em Castro de Avelãs com base na descoberta aqui de um povoado romano e nos dois miliários transformados em sarcófagos no exterior das ruínas da capela de S. Sebastião, um dedicado a Augusto e outro a Caracala, ambos actualmente no Museu Abade Baçal em Bragança.",
+        "name": "Reboretum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805438,
+          41.798313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A civitas de Salacia, hoje designada por Alcácer do Sal, dispunha de uma mansio de apoio às vias para Évora e Beja e integrava a grande rota do Itinerário XII do Itinerário de Antonino entre Lisboa e Mérida; o oppidum romano ocupava a área do castelo, onde há vestígios do antigo fórum entre a Igreja de Santa Maria do Castelo e o Convento de Ns. de Aracaelii.",
+        "name": "Salacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.513157,
+          38.372288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio a 20 milhas de Braga mencionada no Itinerário XVII de Antonino de Braga a Chaves localizada na base do Castro de Vieira do Minho.",
+        "name": "Salacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1287,
+          41.634258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio situada a XXI milhas de Braga em plena Serra do Gerês, servindo a via nova (http://viasromanas.pt /index.html#vianova). É a única mansio em território nacional mencionada no Itinerário XVIII de Antonino. Estaria certamente próximo dos miliários no lugar da Pontelha da Geira, onde se vence a milha 21, mas a sua identificação precisa no terreno continua duvidosa, podendo corresponder à actual aldeia de Travassos ou a alguns dos vestígios de estruturas ainda existentes junto à via.",
+        "name": "Salaniana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.274805,
+          41.718884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio da via nova (http://viasromanas.pt /index.html#vianova)  localizada em Xinzo da Costa (Macedo, Ourense). Não ha vestígios visíveis do povoado.",
+        "name": "Salientibus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.57466,
+          42.249108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cidade romana, hoje Salamanca. O marcador indica a Ponte Romana.",
+        "name": "Salmantica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.669192,
+          40.959092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio do Itinerário XXI de Antonino da via romana de Ossonoba(Faro) a Salacia (Alcácer do Sal) na actual povoação de Alvalade, situada a 30 milhas do Arannis (Castro da Cola) e a 35 milhas de Salacia. Alvalade funcionava no tempo romano como um portante nó viário, articulando esta via N-S com as vias E-O com origem em Mirobriga (Santiago do Cacém) que aqui bifurcava  rumo a Pax Iulia (Beja) e a Myrtilis (Mértola).",
+        "name": "Sarapia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.385375,
+          37.936318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cidade capital do Conventus Scallabitano localizada na actual cidade de Santarém; mansio dos Itinerários XIV, XV e XVI de Antonino. A cidade romana abrangia toda a zona da Alcáçova hoje ocupada pelo Jardim das Portas do Sol. Os vestígios junto ao jardim foram recentemente escavados e musealizados com a criação do Centro de Interpretação «Urbi Scallabis» (http://www.museu-santarem.org/pagina,6,75.aspx); o marcador indica o local do podium e cella do templo romano (http://www.alcacova.com/noticia_templo.html) dentro da «Casa da Alcaçova.», unidade de turismo habitação.",
+        "name": "Scallabis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.676322,
+          39.235255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Tomar, mansio da Via XVI entre Lisboa e Braga. O marcador indica o antigo forum romano nas traseiras dos bombeiros (ao abandono!).",
+        "name": "Seilium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.408149,
+          39.603222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio mencionada no Itinerário XXI de Antonino, localizada na actual cidade de Serpa. O estatuto do povoado continua incerto dada a ausência de vestígios monumentais, não se sabendo se se tratava de um simples vicus viário ou um oppidum capital de civitas.",
+        "name": "Serpa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.59776,
+          37.944051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Mansio da Via Romana XVI entre Lisboa e Braga, controlando a travessia do Rio Vouga. Esquecida durante muitos anos está agora a ser escavada para posterior musealização com acesso ao público. Provável localização do oppidum e sede da civitas de Talábriga no Cabeço do Vouga, dominando esta travessia.",
+        "name": "Talabriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.463971,
+          40.637032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Importante oppidum e sede da civitas Tongobrigense. Os trabalhos continuam, mas as magníficas ruinas até agora identificadas já indicam que esta cidade romana irá se tornar uma das grandes atrações turísticas de Portugal. Imprescendível uma visita. O marcador indica o enorme fórum da antiga cidade romana e os pavilhões em azul protegem as termas.",
+        "name": "Tongobriga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.147231,
+          41.16175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Possível localização da mansio Tubucci referida no Itinerário XV de Antonino entre Lisboa e Mérida, na encruzilhada do Vale do Junco, a oeste de Ponte de Sor, local situado a 32 milhas de Santarém conforme indicado no I.A.",
+        "name": "Tubucci?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.213773,
+          39.307615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "A actual cidade de Tui corresponde ao importante oppidum e mansio da Via XIX designada por Tudae na época romana, estrategicamente situado no local onde a via cruzava o rio Minho.",
+        "name": "Tudae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.644839,
+          42.046164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Estação viária tipo mansio situada a 15 milhas de Compleutica com localização ainda incerta. Indicador numa das possíveis localizações ( Rionegro del Puente).",
+        "name": "Veniatia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.200468,
+          41.950699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Povoado mineiro de grandes dimensões designado na época romana por Metallum Vipascensis. Provável mansio pois aqui seria um nó viário articulando o eixo O-E Mirobriga - Mérida e o eixo N-S Beja - Garvão - Algarve.",
+        "name": "Vipasca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.162409,
+          37.86224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "O oppidum de Vissaium seria a sede da civitas Interamaniense e teria crescido em torno de um importante nó rodoviário da época romana, ponto de cruzamento de várias vias principais. Para Poente seguia a via de ligação ao litoral indo de encontro a Talábriga, a mansio situada junto da travessia do Rio Vouga  pela via Braga-Lisboa. Para Nascente partia uma via rumo a Mérida pela Serra da Estrela em direcção à imponente Ponte Romana de Alcântara para a travessia o Rio Tejo. Menos conhecidas são as vias no sentido norte-sul, quer as vias entre o Rio Douro e Viseu quer daqui às civitas a sul, Aeminium e  Bodadela. A cidade romana de Vissaium era cercada por muralhas e apresentava já ordenamento urbano ortogonal fazendo adivinhar um certo desenvolvimento económico. O trabalho de valorização do património a nível local é exemplar, mas falta uma lógica de integração com os distritos vizinhos que permita percorrer e apreciar a verdadeira  dimensão da rede viária romana. Os itinerários romanos não param nas fronteiras concelhias...",
+        "name": "Vissaium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.911677,
+          40.659865
+        ]
+      }
+    }
+  ]
+}
