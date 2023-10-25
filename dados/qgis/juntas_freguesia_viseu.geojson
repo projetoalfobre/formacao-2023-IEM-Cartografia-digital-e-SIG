@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Abraveses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.920499,
+          40.679841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Barreiros e Cepões"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.810273,
+          40.749349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Boa Aldeia, Farminhão e Torredeita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.021232,
+          40.641058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Bodiosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.987991,
+          40.717211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Calde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.911976,
+          40.761568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.924426,
+          40.702997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Cavernães"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.827664,
+          40.708795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Cota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.819937,
+          40.797643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Faíl e Vila Chã de Sá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.955727,
+          40.609286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Fragosela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.862256,
+          40.630419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Lordosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.904465,
+          40.742709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Mundão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.865143,
+          40.696063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Orgens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.941227,
+          40.667039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Povolide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.811059,
+          40.658614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Ranhados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.900549,
+          40.641377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Repeses e São Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.925928,
+          40.640101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Ribafeita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.984974,
+          40.7521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Rio de Loba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87764,
+          40.664408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Santos Evos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.821783,
+          40.662352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de São Cipriano e Vil do Souto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.971404,
+          40.656825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de São João de Lourosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.90585,
+          40.613562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de São Pedro de France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.78292,
+          40.719397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Silgueiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.957403,
+          40.564143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junta de Freguesia de Viseu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.911902,
+          40.656115
+        ]
+      }
+    }
+  ]
+}
